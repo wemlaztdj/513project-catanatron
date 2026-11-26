@@ -23,7 +23,7 @@ An existing compatible environment can run the two scripts directly. Use `--work
 
 ## Data and experiment
 
-Each scenario attempts seeds 513000-513999. Within a table size, the corresponding Basic and Advanced games share the board, seat order, and opening decisions. Basic uses Weighted Random after setup. Advanced uses Value Function with 5% exploration. All players at a table use the same post-setup bot policy. Strength labels describe the policies in this experiment. There are no human players or mixed-policy tables.
+Each scenario attempts seeds 513000–513999. Within a table size, the corresponding Basic and Advanced games share the board, seat order, and opening decisions. Basic uses Weighted Random after setup. Advanced uses Value Function with 5% exploration. All players at a table use the same post-setup bot policy. Strength labels describe the policies in this experiment. There are no human players or mixed-policy tables.
 
 The simulator snapshots each player's positions at the first roll prompt and then completes the game to obtain the label. Each classifier is fit separately for each scenario to predict the winning seat. The feature vector contains the same opening measures for each seat. The shared seed split holds out 25% of unique seeds across all scenarios. See the [Catanatron engine](https://github.com/bcollazo/catanatron/tree/ecf931181b9a65bb4116a2153fb78c16f1438e00).
 
@@ -36,7 +36,7 @@ The simulator snapshots each player's positions at the first roll prompt and the
 | Generic port and port fit | Access to a 3:1 port and the highest pip total among resources with a matching 2:1 port. |
 | Expansion sites and best expansion pips | Count of legal settlement sites reachable from the opening road ends with one additional road and the largest pip total among these sites. |
 | Road and city material pips | Minimum of wood and brick pips and minimum of wheat and ore pips, respectively. |
-| Balanced score | Total pips + 2 x resource diversity + road material pips + city material pips. |
+| Balanced score | Total pips + 2 × resource diversity + road material pips + city material pips. |
 
 `openings.csv` records opening node and road IDs and the final number of turns for auditing. The classifiers use the opening measures in the table. Winner seat is the target. Seeds define the train/test partition. Feature and rule definitions are in `simulate.py`.
 
@@ -53,5 +53,4 @@ The simulator snapshots each player's positions at the first roll prompt and the
 | `test_predictions.csv` | Held-out actual versus predicted winner for each model and game. |
 | `opening_rule_results.csv` | Performance of seven opening rules and adjusted comparisons. |
 | `cross_tier_results.csv` | Random Forest trained on one bot policy and tested on the other. |
-
 

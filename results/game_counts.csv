@@ -1,0 +1,5 @@
+players,tier,attempts,completed,no_winner,train_games,test_games,baseline_seat,uniform_chance
+2,basic,1000,1000,0,750,250,2,0.500000
+2,advanced,1000,1000,0,750,250,1,0.500000
+4,basic,1000,1000,0,750,250,4,0.250000
+4,advanced,1000,1000,0,750,250,1,0.250000

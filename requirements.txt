@@ -1,0 +1,9 @@
+catanatron @ git+https://github.com/bcollazo/catanatron.git@ecf931181b9a65bb4116a2153fb78c16f1438e00
+click==8.5.1
+matplotlib==3.11.2
+networkx==3.7
+numpy==2.5.5
+pandas==3.1.1
+rich==15.0.0
+scikit-learn==1.9.1
+scipy==1.18.1

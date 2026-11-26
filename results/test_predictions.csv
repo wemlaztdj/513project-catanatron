@@ -1,0 +1,6001 @@
+players,tier,model,seed,actual,predicted
+2,basic,Seat baseline,513000,1,2
+2,basic,Seat baseline,513017,2,2
+2,basic,Seat baseline,513024,1,2
+2,basic,Seat baseline,513025,1,2
+2,basic,Seat baseline,513028,2,2
+2,basic,Seat baseline,513034,2,2
+2,basic,Seat baseline,513039,1,2
+2,basic,Seat baseline,513043,1,2
+2,basic,Seat baseline,513048,1,2
+2,basic,Seat baseline,513049,1,2
+2,basic,Seat baseline,513056,1,2
+2,basic,Seat baseline,513057,1,2
+2,basic,Seat baseline,513073,2,2
+2,basic,Seat baseline,513075,2,2
+2,basic,Seat baseline,513081,2,2
+2,basic,Seat baseline,513092,1,2
+2,basic,Seat baseline,513096,1,2
+2,basic,Seat baseline,513098,1,2
+2,basic,Seat baseline,513101,2,2
+2,basic,Seat baseline,513104,2,2
+2,basic,Seat baseline,513105,2,2
+2,basic,Seat baseline,513113,2,2
+2,basic,Seat baseline,513127,1,2
+2,basic,Seat baseline,513130,1,2
+2,basic,Seat baseline,513131,2,2
+2,basic,Seat baseline,513132,1,2
+2,basic,Seat baseline,513134,2,2
+2,basic,Seat baseline,513138,1,2
+2,basic,Seat baseline,513139,2,2
+2,basic,Seat baseline,513140,2,2
+2,basic,Seat baseline,513141,2,2
+2,basic,Seat baseline,513148,1,2
+2,basic,Seat baseline,513150,1,2
+2,basic,Seat baseline,513153,2,2
+2,basic,Seat baseline,513159,1,2
+2,basic,Seat baseline,513161,1,2
+2,basic,Seat baseline,513162,1,2
+2,basic,Seat baseline,513167,2,2
+2,basic,Seat baseline,513170,2,2
+2,basic,Seat baseline,513174,2,2
+2,basic,Seat baseline,513175,1,2
+2,basic,Seat baseline,513178,2,2
+2,basic,Seat baseline,513182,2,2
+2,basic,Seat baseline,513185,1,2
+2,basic,Seat baseline,513194,1,2
+2,basic,Seat baseline,513202,2,2
+2,basic,Seat baseline,513203,2,2
+2,basic,Seat baseline,513207,1,2
+2,basic,Seat baseline,513208,2,2
+2,basic,Seat baseline,513210,2,2
+2,basic,Seat baseline,513212,2,2
+2,basic,Seat baseline,513213,1,2
+2,basic,Seat baseline,513215,2,2
+2,basic,Seat baseline,513220,2,2
+2,basic,Seat baseline,513221,2,2
+2,basic,Seat baseline,513224,1,2
+2,basic,Seat baseline,513226,1,2
+2,basic,Seat baseline,513228,1,2
+2,basic,Seat baseline,513230,1,2
+2,basic,Seat baseline,513231,1,2
+2,basic,Seat baseline,513234,1,2
+2,basic,Seat baseline,513237,1,2
+2,basic,Seat baseline,513239,1,2
+2,basic,Seat baseline,513242,1,2
+2,basic,Seat baseline,513250,2,2
+2,basic,Seat baseline,513255,2,2
+2,basic,Seat baseline,513258,2,2
+2,basic,Seat baseline,513261,2,2
+2,basic,Seat baseline,513262,2,2
+2,basic,Seat baseline,513269,1,2
+2,basic,Seat baseline,513270,2,2
+2,basic,Seat baseline,513275,1,2
+2,basic,Seat baseline,513284,2,2
+2,basic,Seat baseline,513285,1,2
+2,basic,Seat baseline,513288,1,2
+2,basic,Seat baseline,513289,2,2
+2,basic,Seat baseline,513293,1,2
+2,basic,Seat baseline,513294,1,2
+2,basic,Seat baseline,513297,2,2
+2,basic,Seat baseline,513298,1,2
+2,basic,Seat baseline,513303,1,2
+2,basic,Seat baseline,513306,2,2
+2,basic,Seat baseline,513308,2,2
+2,basic,Seat baseline,513313,1,2
+2,basic,Seat baseline,513314,2,2
+2,basic,Seat baseline,513320,2,2
+2,basic,Seat baseline,513321,1,2
+2,basic,Seat baseline,513332,1,2
+2,basic,Seat baseline,513333,1,2
+2,basic,Seat baseline,513334,2,2
+2,basic,Seat baseline,513335,2,2
+2,basic,Seat baseline,513338,2,2
+2,basic,Seat baseline,513339,1,2
+2,basic,Seat baseline,513341,1,2
+2,basic,Seat baseline,513342,1,2
+2,basic,Seat baseline,513343,1,2
+2,basic,Seat baseline,513348,2,2
+2,basic,Seat baseline,513351,1,2
+2,basic,Seat baseline,513356,2,2
+2,basic,Seat baseline,513358,1,2
+2,basic,Seat baseline,513368,2,2
+2,basic,Seat baseline,513374,1,2
+2,basic,Seat baseline,513376,1,2
+2,basic,Seat baseline,513378,1,2
+2,basic,Seat baseline,513381,2,2
+2,basic,Seat baseline,513382,2,2
+2,basic,Seat baseline,513383,1,2
+2,basic,Seat baseline,513385,2,2
+2,basic,Seat baseline,513402,2,2
+2,basic,Seat baseline,513403,2,2
+2,basic,Seat baseline,513404,1,2
+2,basic,Seat baseline,513407,2,2
+2,basic,Seat baseline,513408,1,2
+2,basic,Seat baseline,513416,2,2
+2,basic,Seat baseline,513417,2,2
+2,basic,Seat baseline,513420,1,2
+2,basic,Seat baseline,513424,1,2
+2,basic,Seat baseline,513431,1,2
+2,basic,Seat baseline,513432,2,2
+2,basic,Seat baseline,513437,2,2
+2,basic,Seat baseline,513438,2,2
+2,basic,Seat baseline,513443,1,2
+2,basic,Seat baseline,513447,1,2
+2,basic,Seat baseline,513448,2,2
+2,basic,Seat baseline,513459,2,2
+2,basic,Seat baseline,513464,2,2
+2,basic,Seat baseline,513465,1,2
+2,basic,Seat baseline,513468,1,2
+2,basic,Seat baseline,513469,2,2
+2,basic,Seat baseline,513470,1,2
+2,basic,Seat baseline,513471,1,2
+2,basic,Seat baseline,513475,2,2
+2,basic,Seat baseline,513484,1,2
+2,basic,Seat baseline,513486,2,2
+2,basic,Seat baseline,513487,2,2
+2,basic,Seat baseline,513490,1,2
+2,basic,Seat baseline,513491,2,2
+2,basic,Seat baseline,513495,1,2
+2,basic,Seat baseline,513502,2,2
+2,basic,Seat baseline,513504,2,2
+2,basic,Seat baseline,513509,2,2
+2,basic,Seat baseline,513521,2,2
+2,basic,Seat baseline,513523,1,2
+2,basic,Seat baseline,513529,2,2
+2,basic,Seat baseline,513530,1,2
+2,basic,Seat baseline,513537,2,2
+2,basic,Seat baseline,513539,1,2
+2,basic,Seat baseline,513541,2,2
+2,basic,Seat baseline,513543,2,2
+2,basic,Seat baseline,513547,2,2
+2,basic,Seat baseline,513554,1,2
+2,basic,Seat baseline,513555,1,2
+2,basic,Seat baseline,513563,1,2
+2,basic,Seat baseline,513571,2,2
+2,basic,Seat baseline,513576,2,2
+2,basic,Seat baseline,513580,1,2
+2,basic,Seat baseline,513581,1,2
+2,basic,Seat baseline,513583,1,2
+2,basic,Seat baseline,513589,1,2
+2,basic,Seat baseline,513590,1,2
+2,basic,Seat baseline,513594,2,2
+2,basic,Seat baseline,513602,1,2
+2,basic,Seat baseline,513606,1,2
+2,basic,Seat baseline,513615,2,2
+2,basic,Seat baseline,513617,1,2
+2,basic,Seat baseline,513618,1,2
+2,basic,Seat baseline,513632,2,2
+2,basic,Seat baseline,513639,1,2
+2,basic,Seat baseline,513663,1,2
+2,basic,Seat baseline,513670,2,2
+2,basic,Seat baseline,513687,2,2
+2,basic,Seat baseline,513696,2,2
+2,basic,Seat baseline,513697,1,2
+2,basic,Seat baseline,513704,2,2
+2,basic,Seat baseline,513719,2,2
+2,basic,Seat baseline,513720,2,2
+2,basic,Seat baseline,513721,1,2
+2,basic,Seat baseline,513723,1,2
+2,basic,Seat baseline,513726,1,2
+2,basic,Seat baseline,513729,1,2
+2,basic,Seat baseline,513731,2,2
+2,basic,Seat baseline,513734,1,2
+2,basic,Seat baseline,513741,1,2
+2,basic,Seat baseline,513744,2,2
+2,basic,Seat baseline,513746,1,2
+2,basic,Seat baseline,513755,1,2
+2,basic,Seat baseline,513761,1,2
+2,basic,Seat baseline,513764,2,2
+2,basic,Seat baseline,513767,1,2
+2,basic,Seat baseline,513772,2,2
+2,basic,Seat baseline,513773,2,2
+2,basic,Seat baseline,513774,2,2
+2,basic,Seat baseline,513777,2,2
+2,basic,Seat baseline,513778,1,2
+2,basic,Seat baseline,513780,2,2
+2,basic,Seat baseline,513781,1,2
+2,basic,Seat baseline,513782,1,2
+2,basic,Seat baseline,513783,2,2
+2,basic,Seat baseline,513784,2,2
+2,basic,Seat baseline,513793,2,2
+2,basic,Seat baseline,513805,1,2
+2,basic,Seat baseline,513806,1,2
+2,basic,Seat baseline,513811,2,2
+2,basic,Seat baseline,513813,2,2
+2,basic,Seat baseline,513817,1,2
+2,basic,Seat baseline,513820,1,2
+2,basic,Seat baseline,513825,1,2
+2,basic,Seat baseline,513827,1,2
+2,basic,Seat baseline,513833,1,2
+2,basic,Seat baseline,513842,1,2
+2,basic,Seat baseline,513844,1,2
+2,basic,Seat baseline,513846,1,2
+2,basic,Seat baseline,513853,1,2
+2,basic,Seat baseline,513855,2,2
+2,basic,Seat baseline,513859,2,2
+2,basic,Seat baseline,513861,2,2
+2,basic,Seat baseline,513865,2,2
+2,basic,Seat baseline,513866,1,2
+2,basic,Seat baseline,513882,2,2
+2,basic,Seat baseline,513883,1,2
+2,basic,Seat baseline,513885,2,2
+2,basic,Seat baseline,513888,2,2
+2,basic,Seat baseline,513889,1,2
+2,basic,Seat baseline,513891,1,2
+2,basic,Seat baseline,513892,2,2
+2,basic,Seat baseline,513897,2,2
+2,basic,Seat baseline,513903,2,2
+2,basic,Seat baseline,513905,2,2
+2,basic,Seat baseline,513909,1,2
+2,basic,Seat baseline,513911,2,2
+2,basic,Seat baseline,513913,2,2
+2,basic,Seat baseline,513927,1,2
+2,basic,Seat baseline,513938,1,2
+2,basic,Seat baseline,513940,2,2
+2,basic,Seat baseline,513945,2,2
+2,basic,Seat baseline,513947,2,2
+2,basic,Seat baseline,513949,2,2
+2,basic,Seat baseline,513955,1,2
+2,basic,Seat baseline,513957,2,2
+2,basic,Seat baseline,513958,2,2
+2,basic,Seat baseline,513961,2,2
+2,basic,Seat baseline,513967,1,2
+2,basic,Seat baseline,513970,1,2
+2,basic,Seat baseline,513974,1,2
+2,basic,Seat baseline,513979,1,2
+2,basic,Seat baseline,513991,2,2
+2,basic,Seat baseline,513993,1,2
+2,basic,Seat baseline,513996,1,2
+2,basic,Seat baseline,513998,1,2
+2,basic,Seat baseline,513999,1,2
+2,basic,KNN,513000,1,1
+2,basic,KNN,513017,2,2
+2,basic,KNN,513024,1,1
+2,basic,KNN,513025,1,1
+2,basic,KNN,513028,2,1
+2,basic,KNN,513034,2,2
+2,basic,KNN,513039,1,1
+2,basic,KNN,513043,1,1
+2,basic,KNN,513048,1,1
+2,basic,KNN,513049,1,2
+2,basic,KNN,513056,1,1
+2,basic,KNN,513057,1,2
+2,basic,KNN,513073,2,1
+2,basic,KNN,513075,2,1
+2,basic,KNN,513081,2,2
+2,basic,KNN,513092,1,1
+2,basic,KNN,513096,1,1
+2,basic,KNN,513098,1,2
+2,basic,KNN,513101,2,2
+2,basic,KNN,513104,2,2
+2,basic,KNN,513105,2,1
+2,basic,KNN,513113,2,2
+2,basic,KNN,513127,1,1
+2,basic,KNN,513130,1,1
+2,basic,KNN,513131,2,2
+2,basic,KNN,513132,1,2
+2,basic,KNN,513134,2,1
+2,basic,KNN,513138,1,2
+2,basic,KNN,513139,2,2
+2,basic,KNN,513140,2,2
+2,basic,KNN,513141,2,1
+2,basic,KNN,513148,1,1
+2,basic,KNN,513150,1,1
+2,basic,KNN,513153,2,2
+2,basic,KNN,513159,1,1
+2,basic,KNN,513161,1,2
+2,basic,KNN,513162,1,1
+2,basic,KNN,513167,2,2
+2,basic,KNN,513170,2,2
+2,basic,KNN,513174,2,2
+2,basic,KNN,513175,1,2
+2,basic,KNN,513178,2,2
+2,basic,KNN,513182,2,2
+2,basic,KNN,513185,1,1
+2,basic,KNN,513194,1,1
+2,basic,KNN,513202,2,2
+2,basic,KNN,513203,2,2
+2,basic,KNN,513207,1,1
+2,basic,KNN,513208,2,1
+2,basic,KNN,513210,2,2
+2,basic,KNN,513212,2,2
+2,basic,KNN,513213,1,1
+2,basic,KNN,513215,2,2
+2,basic,KNN,513220,2,1
+2,basic,KNN,513221,2,1
+2,basic,KNN,513224,1,1
+2,basic,KNN,513226,1,1
+2,basic,KNN,513228,1,1
+2,basic,KNN,513230,1,2
+2,basic,KNN,513231,1,2
+2,basic,KNN,513234,1,1
+2,basic,KNN,513237,1,1
+2,basic,KNN,513239,1,2
+2,basic,KNN,513242,1,1
+2,basic,KNN,513250,2,2
+2,basic,KNN,513255,2,1
+2,basic,KNN,513258,2,2
+2,basic,KNN,513261,2,2
+2,basic,KNN,513262,2,1
+2,basic,KNN,513269,1,1
+2,basic,KNN,513270,2,2
+2,basic,KNN,513275,1,1
+2,basic,KNN,513284,2,1
+2,basic,KNN,513285,1,1
+2,basic,KNN,513288,1,1
+2,basic,KNN,513289,2,2
+2,basic,KNN,513293,1,2
+2,basic,KNN,513294,1,1
+2,basic,KNN,513297,2,2
+2,basic,KNN,513298,1,1
+2,basic,KNN,513303,1,1
+2,basic,KNN,513306,2,2
+2,basic,KNN,513308,2,2
+2,basic,KNN,513313,1,1
+2,basic,KNN,513314,2,2
+2,basic,KNN,513320,2,2
+2,basic,KNN,513321,1,1
+2,basic,KNN,513332,1,1
+2,basic,KNN,513333,1,1
+2,basic,KNN,513334,2,1
+2,basic,KNN,513335,2,2
+2,basic,KNN,513338,2,2
+2,basic,KNN,513339,1,1
+2,basic,KNN,513341,1,1
+2,basic,KNN,513342,1,1
+2,basic,KNN,513343,1,1
+2,basic,KNN,513348,2,1
+2,basic,KNN,513351,1,1
+2,basic,KNN,513356,2,2
+2,basic,KNN,513358,1,1
+2,basic,KNN,513368,2,2
+2,basic,KNN,513374,1,1
+2,basic,KNN,513376,1,2
+2,basic,KNN,513378,1,1
+2,basic,KNN,513381,2,2
+2,basic,KNN,513382,2,1
+2,basic,KNN,513383,1,1
+2,basic,KNN,513385,2,2
+2,basic,KNN,513402,2,2
+2,basic,KNN,513403,2,2
+2,basic,KNN,513404,1,1
+2,basic,KNN,513407,2,2
+2,basic,KNN,513408,1,2
+2,basic,KNN,513416,2,2
+2,basic,KNN,513417,2,2
+2,basic,KNN,513420,1,1
+2,basic,KNN,513424,1,1
+2,basic,KNN,513431,1,1
+2,basic,KNN,513432,2,1
+2,basic,KNN,513437,2,1
+2,basic,KNN,513438,2,2
+2,basic,KNN,513443,1,1
+2,basic,KNN,513447,1,1
+2,basic,KNN,513448,2,1
+2,basic,KNN,513459,2,2
+2,basic,KNN,513464,2,2
+2,basic,KNN,513465,1,2
+2,basic,KNN,513468,1,1
+2,basic,KNN,513469,2,1
+2,basic,KNN,513470,1,2
+2,basic,KNN,513471,1,2
+2,basic,KNN,513475,2,1
+2,basic,KNN,513484,1,2
+2,basic,KNN,513486,2,2
+2,basic,KNN,513487,2,2
+2,basic,KNN,513490,1,2
+2,basic,KNN,513491,2,2
+2,basic,KNN,513495,1,1
+2,basic,KNN,513502,2,2
+2,basic,KNN,513504,2,2
+2,basic,KNN,513509,2,2
+2,basic,KNN,513521,2,2
+2,basic,KNN,513523,1,1
+2,basic,KNN,513529,2,2
+2,basic,KNN,513530,1,1
+2,basic,KNN,513537,2,2
+2,basic,KNN,513539,1,1
+2,basic,KNN,513541,2,2
+2,basic,KNN,513543,2,2
+2,basic,KNN,513547,2,2
+2,basic,KNN,513554,1,1
+2,basic,KNN,513555,1,1
+2,basic,KNN,513563,1,1
+2,basic,KNN,513571,2,1
+2,basic,KNN,513576,2,2
+2,basic,KNN,513580,1,1
+2,basic,KNN,513581,1,1
+2,basic,KNN,513583,1,1
+2,basic,KNN,513589,1,1
+2,basic,KNN,513590,1,1
+2,basic,KNN,513594,2,2
+2,basic,KNN,513602,1,1
+2,basic,KNN,513606,1,2
+2,basic,KNN,513615,2,2
+2,basic,KNN,513617,1,1
+2,basic,KNN,513618,1,2
+2,basic,KNN,513632,2,2
+2,basic,KNN,513639,1,1
+2,basic,KNN,513663,1,2
+2,basic,KNN,513670,2,2
+2,basic,KNN,513687,2,2
+2,basic,KNN,513696,2,2
+2,basic,KNN,513697,1,2
+2,basic,KNN,513704,2,2
+2,basic,KNN,513719,2,1
+2,basic,KNN,513720,2,1
+2,basic,KNN,513721,1,2
+2,basic,KNN,513723,1,1
+2,basic,KNN,513726,1,1
+2,basic,KNN,513729,1,1
+2,basic,KNN,513731,2,2
+2,basic,KNN,513734,1,1
+2,basic,KNN,513741,1,1
+2,basic,KNN,513744,2,2
+2,basic,KNN,513746,1,1
+2,basic,KNN,513755,1,1
+2,basic,KNN,513761,1,1
+2,basic,KNN,513764,2,1
+2,basic,KNN,513767,1,1
+2,basic,KNN,513772,2,2
+2,basic,KNN,513773,2,2
+2,basic,KNN,513774,2,1
+2,basic,KNN,513777,2,2
+2,basic,KNN,513778,1,1
+2,basic,KNN,513780,2,2
+2,basic,KNN,513781,1,2
+2,basic,KNN,513782,1,1
+2,basic,KNN,513783,2,2
+2,basic,KNN,513784,2,1
+2,basic,KNN,513793,2,2
+2,basic,KNN,513805,1,1
+2,basic,KNN,513806,1,2
+2,basic,KNN,513811,2,2
+2,basic,KNN,513813,2,1
+2,basic,KNN,513817,1,1
+2,basic,KNN,513820,1,1
+2,basic,KNN,513825,1,2
+2,basic,KNN,513827,1,1
+2,basic,KNN,513833,1,1
+2,basic,KNN,513842,1,2
+2,basic,KNN,513844,1,1
+2,basic,KNN,513846,1,1
+2,basic,KNN,513853,1,1
+2,basic,KNN,513855,2,1
+2,basic,KNN,513859,2,2
+2,basic,KNN,513861,2,2
+2,basic,KNN,513865,2,2
+2,basic,KNN,513866,1,1
+2,basic,KNN,513882,2,1
+2,basic,KNN,513883,1,1
+2,basic,KNN,513885,2,2
+2,basic,KNN,513888,2,2
+2,basic,KNN,513889,1,1
+2,basic,KNN,513891,1,1
+2,basic,KNN,513892,2,2
+2,basic,KNN,513897,2,1
+2,basic,KNN,513903,2,2
+2,basic,KNN,513905,2,2
+2,basic,KNN,513909,1,2
+2,basic,KNN,513911,2,2
+2,basic,KNN,513913,2,2
+2,basic,KNN,513927,1,1
+2,basic,KNN,513938,1,1
+2,basic,KNN,513940,2,2
+2,basic,KNN,513945,2,2
+2,basic,KNN,513947,2,2
+2,basic,KNN,513949,2,1
+2,basic,KNN,513955,1,2
+2,basic,KNN,513957,2,2
+2,basic,KNN,513958,2,1
+2,basic,KNN,513961,2,1
+2,basic,KNN,513967,1,1
+2,basic,KNN,513970,1,1
+2,basic,KNN,513974,1,2
+2,basic,KNN,513979,1,2
+2,basic,KNN,513991,2,1
+2,basic,KNN,513993,1,1
+2,basic,KNN,513996,1,1
+2,basic,KNN,513998,1,1
+2,basic,KNN,513999,1,2
+2,basic,Naive Bayes,513000,1,1
+2,basic,Naive Bayes,513017,2,2
+2,basic,Naive Bayes,513024,1,2
+2,basic,Naive Bayes,513025,1,1
+2,basic,Naive Bayes,513028,2,1
+2,basic,Naive Bayes,513034,2,2
+2,basic,Naive Bayes,513039,1,1
+2,basic,Naive Bayes,513043,1,1
+2,basic,Naive Bayes,513048,1,1
+2,basic,Naive Bayes,513049,1,1
+2,basic,Naive Bayes,513056,1,1
+2,basic,Naive Bayes,513057,1,2
+2,basic,Naive Bayes,513073,2,2
+2,basic,Naive Bayes,513075,2,1
+2,basic,Naive Bayes,513081,2,1
+2,basic,Naive Bayes,513092,1,1
+2,basic,Naive Bayes,513096,1,2
+2,basic,Naive Bayes,513098,1,2
+2,basic,Naive Bayes,513101,2,2
+2,basic,Naive Bayes,513104,2,2
+2,basic,Naive Bayes,513105,2,2
+2,basic,Naive Bayes,513113,2,2
+2,basic,Naive Bayes,513127,1,1
+2,basic,Naive Bayes,513130,1,1
+2,basic,Naive Bayes,513131,2,2
+2,basic,Naive Bayes,513132,1,2
+2,basic,Naive Bayes,513134,2,1
+2,basic,Naive Bayes,513138,1,2
+2,basic,Naive Bayes,513139,2,1
+2,basic,Naive Bayes,513140,2,2
+2,basic,Naive Bayes,513141,2,1
+2,basic,Naive Bayes,513148,1,2
+2,basic,Naive Bayes,513150,1,1
+2,basic,Naive Bayes,513153,2,2
+2,basic,Naive Bayes,513159,1,1
+2,basic,Naive Bayes,513161,1,2
+2,basic,Naive Bayes,513162,1,1
+2,basic,Naive Bayes,513167,2,2
+2,basic,Naive Bayes,513170,2,2
+2,basic,Naive Bayes,513174,2,2
+2,basic,Naive Bayes,513175,1,1
+2,basic,Naive Bayes,513178,2,2
+2,basic,Naive Bayes,513182,2,2
+2,basic,Naive Bayes,513185,1,1
+2,basic,Naive Bayes,513194,1,1
+2,basic,Naive Bayes,513202,2,2
+2,basic,Naive Bayes,513203,2,2
+2,basic,Naive Bayes,513207,1,1
+2,basic,Naive Bayes,513208,2,1
+2,basic,Naive Bayes,513210,2,2
+2,basic,Naive Bayes,513212,2,1
+2,basic,Naive Bayes,513213,1,1
+2,basic,Naive Bayes,513215,2,2
+2,basic,Naive Bayes,513220,2,1
+2,basic,Naive Bayes,513221,2,1
+2,basic,Naive Bayes,513224,1,1
+2,basic,Naive Bayes,513226,1,1
+2,basic,Naive Bayes,513228,1,1
+2,basic,Naive Bayes,513230,1,1
+2,basic,Naive Bayes,513231,1,1
+2,basic,Naive Bayes,513234,1,1
+2,basic,Naive Bayes,513237,1,1
+2,basic,Naive Bayes,513239,1,2
+2,basic,Naive Bayes,513242,1,1
+2,basic,Naive Bayes,513250,2,1
+2,basic,Naive Bayes,513255,2,2
+2,basic,Naive Bayes,513258,2,2
+2,basic,Naive Bayes,513261,2,2
+2,basic,Naive Bayes,513262,2,1
+2,basic,Naive Bayes,513269,1,2
+2,basic,Naive Bayes,513270,2,2
+2,basic,Naive Bayes,513275,1,1
+2,basic,Naive Bayes,513284,2,1
+2,basic,Naive Bayes,513285,1,1
+2,basic,Naive Bayes,513288,1,1
+2,basic,Naive Bayes,513289,2,2
+2,basic,Naive Bayes,513293,1,2
+2,basic,Naive Bayes,513294,1,1
+2,basic,Naive Bayes,513297,2,1
+2,basic,Naive Bayes,513298,1,1
+2,basic,Naive Bayes,513303,1,1
+2,basic,Naive Bayes,513306,2,2
+2,basic,Naive Bayes,513308,2,1
+2,basic,Naive Bayes,513313,1,1
+2,basic,Naive Bayes,513314,2,2
+2,basic,Naive Bayes,513320,2,2
+2,basic,Naive Bayes,513321,1,1
+2,basic,Naive Bayes,513332,1,2
+2,basic,Naive Bayes,513333,1,1
+2,basic,Naive Bayes,513334,2,1
+2,basic,Naive Bayes,513335,2,2
+2,basic,Naive Bayes,513338,2,2
+2,basic,Naive Bayes,513339,1,1
+2,basic,Naive Bayes,513341,1,1
+2,basic,Naive Bayes,513342,1,2
+2,basic,Naive Bayes,513343,1,1
+2,basic,Naive Bayes,513348,2,1
+2,basic,Naive Bayes,513351,1,2
+2,basic,Naive Bayes,513356,2,2
+2,basic,Naive Bayes,513358,1,1
+2,basic,Naive Bayes,513368,2,2
+2,basic,Naive Bayes,513374,1,1
+2,basic,Naive Bayes,513376,1,2
+2,basic,Naive Bayes,513378,1,2
+2,basic,Naive Bayes,513381,2,2
+2,basic,Naive Bayes,513382,2,1
+2,basic,Naive Bayes,513383,1,1
+2,basic,Naive Bayes,513385,2,2
+2,basic,Naive Bayes,513402,2,2
+2,basic,Naive Bayes,513403,2,2
+2,basic,Naive Bayes,513404,1,2
+2,basic,Naive Bayes,513407,2,2
+2,basic,Naive Bayes,513408,1,2
+2,basic,Naive Bayes,513416,2,2
+2,basic,Naive Bayes,513417,2,2
+2,basic,Naive Bayes,513420,1,1
+2,basic,Naive Bayes,513424,1,1
+2,basic,Naive Bayes,513431,1,1
+2,basic,Naive Bayes,513432,2,1
+2,basic,Naive Bayes,513437,2,1
+2,basic,Naive Bayes,513438,2,2
+2,basic,Naive Bayes,513443,1,1
+2,basic,Naive Bayes,513447,1,1
+2,basic,Naive Bayes,513448,2,2
+2,basic,Naive Bayes,513459,2,2
+2,basic,Naive Bayes,513464,2,2
+2,basic,Naive Bayes,513465,1,1
+2,basic,Naive Bayes,513468,1,1
+2,basic,Naive Bayes,513469,2,2
+2,basic,Naive Bayes,513470,1,1
+2,basic,Naive Bayes,513471,1,2
+2,basic,Naive Bayes,513475,2,1
+2,basic,Naive Bayes,513484,1,2
+2,basic,Naive Bayes,513486,2,1
+2,basic,Naive Bayes,513487,2,2
+2,basic,Naive Bayes,513490,1,1
+2,basic,Naive Bayes,513491,2,2
+2,basic,Naive Bayes,513495,1,2
+2,basic,Naive Bayes,513502,2,2
+2,basic,Naive Bayes,513504,2,1
+2,basic,Naive Bayes,513509,2,2
+2,basic,Naive Bayes,513521,2,2
+2,basic,Naive Bayes,513523,1,1
+2,basic,Naive Bayes,513529,2,2
+2,basic,Naive Bayes,513530,1,2
+2,basic,Naive Bayes,513537,2,2
+2,basic,Naive Bayes,513539,1,1
+2,basic,Naive Bayes,513541,2,2
+2,basic,Naive Bayes,513543,2,2
+2,basic,Naive Bayes,513547,2,2
+2,basic,Naive Bayes,513554,1,1
+2,basic,Naive Bayes,513555,1,1
+2,basic,Naive Bayes,513563,1,1
+2,basic,Naive Bayes,513571,2,2
+2,basic,Naive Bayes,513576,2,2
+2,basic,Naive Bayes,513580,1,1
+2,basic,Naive Bayes,513581,1,1
+2,basic,Naive Bayes,513583,1,1
+2,basic,Naive Bayes,513589,1,1
+2,basic,Naive Bayes,513590,1,2
+2,basic,Naive Bayes,513594,2,2
+2,basic,Naive Bayes,513602,1,1
+2,basic,Naive Bayes,513606,1,2
+2,basic,Naive Bayes,513615,2,2
+2,basic,Naive Bayes,513617,1,1
+2,basic,Naive Bayes,513618,1,1
+2,basic,Naive Bayes,513632,2,2
+2,basic,Naive Bayes,513639,1,1
+2,basic,Naive Bayes,513663,1,1
+2,basic,Naive Bayes,513670,2,2
+2,basic,Naive Bayes,513687,2,2
+2,basic,Naive Bayes,513696,2,2
+2,basic,Naive Bayes,513697,1,1
+2,basic,Naive Bayes,513704,2,1
+2,basic,Naive Bayes,513719,2,1
+2,basic,Naive Bayes,513720,2,1
+2,basic,Naive Bayes,513721,1,1
+2,basic,Naive Bayes,513723,1,1
+2,basic,Naive Bayes,513726,1,1
+2,basic,Naive Bayes,513729,1,1
+2,basic,Naive Bayes,513731,2,2
+2,basic,Naive Bayes,513734,1,1
+2,basic,Naive Bayes,513741,1,1
+2,basic,Naive Bayes,513744,2,2
+2,basic,Naive Bayes,513746,1,1
+2,basic,Naive Bayes,513755,1,1
+2,basic,Naive Bayes,513761,1,1
+2,basic,Naive Bayes,513764,2,2
+2,basic,Naive Bayes,513767,1,1
+2,basic,Naive Bayes,513772,2,2
+2,basic,Naive Bayes,513773,2,2
+2,basic,Naive Bayes,513774,2,2
+2,basic,Naive Bayes,513777,2,2
+2,basic,Naive Bayes,513778,1,1
+2,basic,Naive Bayes,513780,2,1
+2,basic,Naive Bayes,513781,1,2
+2,basic,Naive Bayes,513782,1,1
+2,basic,Naive Bayes,513783,2,2
+2,basic,Naive Bayes,513784,2,1
+2,basic,Naive Bayes,513793,2,2
+2,basic,Naive Bayes,513805,1,1
+2,basic,Naive Bayes,513806,1,1
+2,basic,Naive Bayes,513811,2,2
+2,basic,Naive Bayes,513813,2,1
+2,basic,Naive Bayes,513817,1,1
+2,basic,Naive Bayes,513820,1,2
+2,basic,Naive Bayes,513825,1,1
+2,basic,Naive Bayes,513827,1,1
+2,basic,Naive Bayes,513833,1,2
+2,basic,Naive Bayes,513842,1,2
+2,basic,Naive Bayes,513844,1,2
+2,basic,Naive Bayes,513846,1,1
+2,basic,Naive Bayes,513853,1,1
+2,basic,Naive Bayes,513855,2,1
+2,basic,Naive Bayes,513859,2,2
+2,basic,Naive Bayes,513861,2,2
+2,basic,Naive Bayes,513865,2,2
+2,basic,Naive Bayes,513866,1,1
+2,basic,Naive Bayes,513882,2,1
+2,basic,Naive Bayes,513883,1,1
+2,basic,Naive Bayes,513885,2,2
+2,basic,Naive Bayes,513888,2,2
+2,basic,Naive Bayes,513889,1,1
+2,basic,Naive Bayes,513891,1,1
+2,basic,Naive Bayes,513892,2,2
+2,basic,Naive Bayes,513897,2,2
+2,basic,Naive Bayes,513903,2,2
+2,basic,Naive Bayes,513905,2,1
+2,basic,Naive Bayes,513909,1,2
+2,basic,Naive Bayes,513911,2,2
+2,basic,Naive Bayes,513913,2,2
+2,basic,Naive Bayes,513927,1,1
+2,basic,Naive Bayes,513938,1,1
+2,basic,Naive Bayes,513940,2,2
+2,basic,Naive Bayes,513945,2,2
+2,basic,Naive Bayes,513947,2,2
+2,basic,Naive Bayes,513949,2,2
+2,basic,Naive Bayes,513955,1,1
+2,basic,Naive Bayes,513957,2,1
+2,basic,Naive Bayes,513958,2,1
+2,basic,Naive Bayes,513961,2,1
+2,basic,Naive Bayes,513967,1,1
+2,basic,Naive Bayes,513970,1,1
+2,basic,Naive Bayes,513974,1,1
+2,basic,Naive Bayes,513979,1,2
+2,basic,Naive Bayes,513991,2,1
+2,basic,Naive Bayes,513993,1,1
+2,basic,Naive Bayes,513996,1,1
+2,basic,Naive Bayes,513998,1,2
+2,basic,Naive Bayes,513999,1,2
+2,basic,CART,513000,1,1
+2,basic,CART,513017,2,2
+2,basic,CART,513024,1,2
+2,basic,CART,513025,1,1
+2,basic,CART,513028,2,1
+2,basic,CART,513034,2,2
+2,basic,CART,513039,1,1
+2,basic,CART,513043,1,1
+2,basic,CART,513048,1,1
+2,basic,CART,513049,1,1
+2,basic,CART,513056,1,1
+2,basic,CART,513057,1,1
+2,basic,CART,513073,2,2
+2,basic,CART,513075,2,1
+2,basic,CART,513081,2,1
+2,basic,CART,513092,1,1
+2,basic,CART,513096,1,1
+2,basic,CART,513098,1,1
+2,basic,CART,513101,2,2
+2,basic,CART,513104,2,1
+2,basic,CART,513105,2,1
+2,basic,CART,513113,2,2
+2,basic,CART,513127,1,1
+2,basic,CART,513130,1,1
+2,basic,CART,513131,2,2
+2,basic,CART,513132,1,1
+2,basic,CART,513134,2,1
+2,basic,CART,513138,1,2
+2,basic,CART,513139,2,1
+2,basic,CART,513140,2,2
+2,basic,CART,513141,2,1
+2,basic,CART,513148,1,1
+2,basic,CART,513150,1,1
+2,basic,CART,513153,2,2
+2,basic,CART,513159,1,1
+2,basic,CART,513161,1,2
+2,basic,CART,513162,1,1
+2,basic,CART,513167,2,2
+2,basic,CART,513170,2,2
+2,basic,CART,513174,2,2
+2,basic,CART,513175,1,2
+2,basic,CART,513178,2,2
+2,basic,CART,513182,2,2
+2,basic,CART,513185,1,1
+2,basic,CART,513194,1,1
+2,basic,CART,513202,2,2
+2,basic,CART,513203,2,2
+2,basic,CART,513207,1,1
+2,basic,CART,513208,2,1
+2,basic,CART,513210,2,2
+2,basic,CART,513212,2,2
+2,basic,CART,513213,1,1
+2,basic,CART,513215,2,1
+2,basic,CART,513220,2,1
+2,basic,CART,513221,2,1
+2,basic,CART,513224,1,1
+2,basic,CART,513226,1,1
+2,basic,CART,513228,1,2
+2,basic,CART,513230,1,1
+2,basic,CART,513231,1,2
+2,basic,CART,513234,1,1
+2,basic,CART,513237,1,1
+2,basic,CART,513239,1,2
+2,basic,CART,513242,1,1
+2,basic,CART,513250,2,2
+2,basic,CART,513255,2,1
+2,basic,CART,513258,2,1
+2,basic,CART,513261,2,2
+2,basic,CART,513262,2,1
+2,basic,CART,513269,1,2
+2,basic,CART,513270,2,1
+2,basic,CART,513275,1,1
+2,basic,CART,513284,2,1
+2,basic,CART,513285,1,1
+2,basic,CART,513288,1,1
+2,basic,CART,513289,2,1
+2,basic,CART,513293,1,2
+2,basic,CART,513294,1,1
+2,basic,CART,513297,2,2
+2,basic,CART,513298,1,2
+2,basic,CART,513303,1,1
+2,basic,CART,513306,2,2
+2,basic,CART,513308,2,2
+2,basic,CART,513313,1,1
+2,basic,CART,513314,2,2
+2,basic,CART,513320,2,1
+2,basic,CART,513321,1,1
+2,basic,CART,513332,1,1
+2,basic,CART,513333,1,2
+2,basic,CART,513334,2,1
+2,basic,CART,513335,2,2
+2,basic,CART,513338,2,1
+2,basic,CART,513339,1,1
+2,basic,CART,513341,1,1
+2,basic,CART,513342,1,2
+2,basic,CART,513343,1,1
+2,basic,CART,513348,2,2
+2,basic,CART,513351,1,1
+2,basic,CART,513356,2,2
+2,basic,CART,513358,1,1
+2,basic,CART,513368,2,2
+2,basic,CART,513374,1,1
+2,basic,CART,513376,1,2
+2,basic,CART,513378,1,1
+2,basic,CART,513381,2,1
+2,basic,CART,513382,2,1
+2,basic,CART,513383,1,1
+2,basic,CART,513385,2,2
+2,basic,CART,513402,2,2
+2,basic,CART,513403,2,2
+2,basic,CART,513404,1,1
+2,basic,CART,513407,2,2
+2,basic,CART,513408,1,2
+2,basic,CART,513416,2,2
+2,basic,CART,513417,2,1
+2,basic,CART,513420,1,1
+2,basic,CART,513424,1,1
+2,basic,CART,513431,1,1
+2,basic,CART,513432,2,1
+2,basic,CART,513437,2,1
+2,basic,CART,513438,2,2
+2,basic,CART,513443,1,1
+2,basic,CART,513447,1,1
+2,basic,CART,513448,2,1
+2,basic,CART,513459,2,2
+2,basic,CART,513464,2,2
+2,basic,CART,513465,1,2
+2,basic,CART,513468,1,1
+2,basic,CART,513469,2,2
+2,basic,CART,513470,1,1
+2,basic,CART,513471,1,1
+2,basic,CART,513475,2,1
+2,basic,CART,513484,1,1
+2,basic,CART,513486,2,1
+2,basic,CART,513487,2,2
+2,basic,CART,513490,1,1
+2,basic,CART,513491,2,2
+2,basic,CART,513495,1,2
+2,basic,CART,513502,2,1
+2,basic,CART,513504,2,1
+2,basic,CART,513509,2,2
+2,basic,CART,513521,2,1
+2,basic,CART,513523,1,1
+2,basic,CART,513529,2,2
+2,basic,CART,513530,1,1
+2,basic,CART,513537,2,2
+2,basic,CART,513539,1,1
+2,basic,CART,513541,2,2
+2,basic,CART,513543,2,2
+2,basic,CART,513547,2,2
+2,basic,CART,513554,1,1
+2,basic,CART,513555,1,1
+2,basic,CART,513563,1,1
+2,basic,CART,513571,2,1
+2,basic,CART,513576,2,2
+2,basic,CART,513580,1,1
+2,basic,CART,513581,1,1
+2,basic,CART,513583,1,2
+2,basic,CART,513589,1,1
+2,basic,CART,513590,1,2
+2,basic,CART,513594,2,2
+2,basic,CART,513602,1,1
+2,basic,CART,513606,1,1
+2,basic,CART,513615,2,2
+2,basic,CART,513617,1,1
+2,basic,CART,513618,1,1
+2,basic,CART,513632,2,2
+2,basic,CART,513639,1,1
+2,basic,CART,513663,1,1
+2,basic,CART,513670,2,1
+2,basic,CART,513687,2,2
+2,basic,CART,513696,2,2
+2,basic,CART,513697,1,1
+2,basic,CART,513704,2,1
+2,basic,CART,513719,2,1
+2,basic,CART,513720,2,1
+2,basic,CART,513721,1,1
+2,basic,CART,513723,1,1
+2,basic,CART,513726,1,1
+2,basic,CART,513729,1,1
+2,basic,CART,513731,2,2
+2,basic,CART,513734,1,1
+2,basic,CART,513741,1,1
+2,basic,CART,513744,2,2
+2,basic,CART,513746,1,1
+2,basic,CART,513755,1,1
+2,basic,CART,513761,1,1
+2,basic,CART,513764,2,2
+2,basic,CART,513767,1,1
+2,basic,CART,513772,2,2
+2,basic,CART,513773,2,2
+2,basic,CART,513774,2,1
+2,basic,CART,513777,2,2
+2,basic,CART,513778,1,1
+2,basic,CART,513780,2,1
+2,basic,CART,513781,1,2
+2,basic,CART,513782,1,1
+2,basic,CART,513783,2,2
+2,basic,CART,513784,2,2
+2,basic,CART,513793,2,2
+2,basic,CART,513805,1,1
+2,basic,CART,513806,1,1
+2,basic,CART,513811,2,2
+2,basic,CART,513813,2,1
+2,basic,CART,513817,1,1
+2,basic,CART,513820,1,2
+2,basic,CART,513825,1,2
+2,basic,CART,513827,1,1
+2,basic,CART,513833,1,1
+2,basic,CART,513842,1,2
+2,basic,CART,513844,1,2
+2,basic,CART,513846,1,1
+2,basic,CART,513853,1,1
+2,basic,CART,513855,2,1
+2,basic,CART,513859,2,2
+2,basic,CART,513861,2,2
+2,basic,CART,513865,2,2
+2,basic,CART,513866,1,1
+2,basic,CART,513882,2,2
+2,basic,CART,513883,1,1
+2,basic,CART,513885,2,2
+2,basic,CART,513888,2,1
+2,basic,CART,513889,1,1
+2,basic,CART,513891,1,1
+2,basic,CART,513892,2,2
+2,basic,CART,513897,2,2
+2,basic,CART,513903,2,2
+2,basic,CART,513905,2,2
+2,basic,CART,513909,1,1
+2,basic,CART,513911,2,2
+2,basic,CART,513913,2,2
+2,basic,CART,513927,1,1
+2,basic,CART,513938,1,1
+2,basic,CART,513940,2,1
+2,basic,CART,513945,2,2
+2,basic,CART,513947,2,1
+2,basic,CART,513949,2,1
+2,basic,CART,513955,1,1
+2,basic,CART,513957,2,2
+2,basic,CART,513958,2,1
+2,basic,CART,513961,2,1
+2,basic,CART,513967,1,2
+2,basic,CART,513970,1,1
+2,basic,CART,513974,1,1
+2,basic,CART,513979,1,1
+2,basic,CART,513991,2,1
+2,basic,CART,513993,1,1
+2,basic,CART,513996,1,1
+2,basic,CART,513998,1,1
+2,basic,CART,513999,1,2
+2,basic,Random Forest,513000,1,1
+2,basic,Random Forest,513017,2,2
+2,basic,Random Forest,513024,1,2
+2,basic,Random Forest,513025,1,1
+2,basic,Random Forest,513028,2,1
+2,basic,Random Forest,513034,2,2
+2,basic,Random Forest,513039,1,1
+2,basic,Random Forest,513043,1,1
+2,basic,Random Forest,513048,1,1
+2,basic,Random Forest,513049,1,1
+2,basic,Random Forest,513056,1,1
+2,basic,Random Forest,513057,1,1
+2,basic,Random Forest,513073,2,2
+2,basic,Random Forest,513075,2,1
+2,basic,Random Forest,513081,2,1
+2,basic,Random Forest,513092,1,1
+2,basic,Random Forest,513096,1,1
+2,basic,Random Forest,513098,1,1
+2,basic,Random Forest,513101,2,2
+2,basic,Random Forest,513104,2,2
+2,basic,Random Forest,513105,2,1
+2,basic,Random Forest,513113,2,2
+2,basic,Random Forest,513127,1,1
+2,basic,Random Forest,513130,1,1
+2,basic,Random Forest,513131,2,2
+2,basic,Random Forest,513132,1,2
+2,basic,Random Forest,513134,2,1
+2,basic,Random Forest,513138,1,2
+2,basic,Random Forest,513139,2,2
+2,basic,Random Forest,513140,2,2
+2,basic,Random Forest,513141,2,1
+2,basic,Random Forest,513148,1,1
+2,basic,Random Forest,513150,1,1
+2,basic,Random Forest,513153,2,2
+2,basic,Random Forest,513159,1,1
+2,basic,Random Forest,513161,1,2
+2,basic,Random Forest,513162,1,2
+2,basic,Random Forest,513167,2,2
+2,basic,Random Forest,513170,2,2
+2,basic,Random Forest,513174,2,2
+2,basic,Random Forest,513175,1,2
+2,basic,Random Forest,513178,2,2
+2,basic,Random Forest,513182,2,2
+2,basic,Random Forest,513185,1,1
+2,basic,Random Forest,513194,1,1
+2,basic,Random Forest,513202,2,2
+2,basic,Random Forest,513203,2,2
+2,basic,Random Forest,513207,1,1
+2,basic,Random Forest,513208,2,1
+2,basic,Random Forest,513210,2,2
+2,basic,Random Forest,513212,2,2
+2,basic,Random Forest,513213,1,1
+2,basic,Random Forest,513215,2,2
+2,basic,Random Forest,513220,2,1
+2,basic,Random Forest,513221,2,1
+2,basic,Random Forest,513224,1,1
+2,basic,Random Forest,513226,1,1
+2,basic,Random Forest,513228,1,1
+2,basic,Random Forest,513230,1,1
+2,basic,Random Forest,513231,1,2
+2,basic,Random Forest,513234,1,1
+2,basic,Random Forest,513237,1,1
+2,basic,Random Forest,513239,1,2
+2,basic,Random Forest,513242,1,1
+2,basic,Random Forest,513250,2,2
+2,basic,Random Forest,513255,2,2
+2,basic,Random Forest,513258,2,2
+2,basic,Random Forest,513261,2,2
+2,basic,Random Forest,513262,2,1
+2,basic,Random Forest,513269,1,1
+2,basic,Random Forest,513270,2,2
+2,basic,Random Forest,513275,1,1
+2,basic,Random Forest,513284,2,1
+2,basic,Random Forest,513285,1,1
+2,basic,Random Forest,513288,1,1
+2,basic,Random Forest,513289,2,2
+2,basic,Random Forest,513293,1,2
+2,basic,Random Forest,513294,1,1
+2,basic,Random Forest,513297,2,2
+2,basic,Random Forest,513298,1,2
+2,basic,Random Forest,513303,1,1
+2,basic,Random Forest,513306,2,2
+2,basic,Random Forest,513308,2,2
+2,basic,Random Forest,513313,1,1
+2,basic,Random Forest,513314,2,2
+2,basic,Random Forest,513320,2,2
+2,basic,Random Forest,513321,1,1
+2,basic,Random Forest,513332,1,2
+2,basic,Random Forest,513333,1,1
+2,basic,Random Forest,513334,2,1
+2,basic,Random Forest,513335,2,2
+2,basic,Random Forest,513338,2,2
+2,basic,Random Forest,513339,1,1
+2,basic,Random Forest,513341,1,1
+2,basic,Random Forest,513342,1,2
+2,basic,Random Forest,513343,1,1
+2,basic,Random Forest,513348,2,2
+2,basic,Random Forest,513351,1,1
+2,basic,Random Forest,513356,2,1
+2,basic,Random Forest,513358,1,1
+2,basic,Random Forest,513368,2,2
+2,basic,Random Forest,513374,1,1
+2,basic,Random Forest,513376,1,1
+2,basic,Random Forest,513378,1,2
+2,basic,Random Forest,513381,2,2
+2,basic,Random Forest,513382,2,1
+2,basic,Random Forest,513383,1,1
+2,basic,Random Forest,513385,2,2
+2,basic,Random Forest,513402,2,2
+2,basic,Random Forest,513403,2,2
+2,basic,Random Forest,513404,1,2
+2,basic,Random Forest,513407,2,2
+2,basic,Random Forest,513408,1,2
+2,basic,Random Forest,513416,2,2
+2,basic,Random Forest,513417,2,2
+2,basic,Random Forest,513420,1,1
+2,basic,Random Forest,513424,1,1
+2,basic,Random Forest,513431,1,1
+2,basic,Random Forest,513432,2,1
+2,basic,Random Forest,513437,2,1
+2,basic,Random Forest,513438,2,2
+2,basic,Random Forest,513443,1,1
+2,basic,Random Forest,513447,1,1
+2,basic,Random Forest,513448,2,2
+2,basic,Random Forest,513459,2,2
+2,basic,Random Forest,513464,2,2
+2,basic,Random Forest,513465,1,2
+2,basic,Random Forest,513468,1,1
+2,basic,Random Forest,513469,2,2
+2,basic,Random Forest,513470,1,2
+2,basic,Random Forest,513471,1,1
+2,basic,Random Forest,513475,2,1
+2,basic,Random Forest,513484,1,1
+2,basic,Random Forest,513486,2,2
+2,basic,Random Forest,513487,2,2
+2,basic,Random Forest,513490,1,2
+2,basic,Random Forest,513491,2,2
+2,basic,Random Forest,513495,1,2
+2,basic,Random Forest,513502,2,2
+2,basic,Random Forest,513504,2,2
+2,basic,Random Forest,513509,2,2
+2,basic,Random Forest,513521,2,2
+2,basic,Random Forest,513523,1,1
+2,basic,Random Forest,513529,2,2
+2,basic,Random Forest,513530,1,2
+2,basic,Random Forest,513537,2,2
+2,basic,Random Forest,513539,1,1
+2,basic,Random Forest,513541,2,2
+2,basic,Random Forest,513543,2,2
+2,basic,Random Forest,513547,2,2
+2,basic,Random Forest,513554,1,1
+2,basic,Random Forest,513555,1,1
+2,basic,Random Forest,513563,1,1
+2,basic,Random Forest,513571,2,1
+2,basic,Random Forest,513576,2,2
+2,basic,Random Forest,513580,1,1
+2,basic,Random Forest,513581,1,1
+2,basic,Random Forest,513583,1,2
+2,basic,Random Forest,513589,1,1
+2,basic,Random Forest,513590,1,1
+2,basic,Random Forest,513594,2,2
+2,basic,Random Forest,513602,1,1
+2,basic,Random Forest,513606,1,2
+2,basic,Random Forest,513615,2,2
+2,basic,Random Forest,513617,1,1
+2,basic,Random Forest,513618,1,1
+2,basic,Random Forest,513632,2,2
+2,basic,Random Forest,513639,1,1
+2,basic,Random Forest,513663,1,2
+2,basic,Random Forest,513670,2,1
+2,basic,Random Forest,513687,2,2
+2,basic,Random Forest,513696,2,2
+2,basic,Random Forest,513697,1,1
+2,basic,Random Forest,513704,2,1
+2,basic,Random Forest,513719,2,1
+2,basic,Random Forest,513720,2,1
+2,basic,Random Forest,513721,1,1
+2,basic,Random Forest,513723,1,1
+2,basic,Random Forest,513726,1,1
+2,basic,Random Forest,513729,1,1
+2,basic,Random Forest,513731,2,2
+2,basic,Random Forest,513734,1,1
+2,basic,Random Forest,513741,1,1
+2,basic,Random Forest,513744,2,2
+2,basic,Random Forest,513746,1,1
+2,basic,Random Forest,513755,1,1
+2,basic,Random Forest,513761,1,1
+2,basic,Random Forest,513764,2,2
+2,basic,Random Forest,513767,1,1
+2,basic,Random Forest,513772,2,2
+2,basic,Random Forest,513773,2,2
+2,basic,Random Forest,513774,2,2
+2,basic,Random Forest,513777,2,2
+2,basic,Random Forest,513778,1,1
+2,basic,Random Forest,513780,2,2
+2,basic,Random Forest,513781,1,2
+2,basic,Random Forest,513782,1,1
+2,basic,Random Forest,513783,2,2
+2,basic,Random Forest,513784,2,2
+2,basic,Random Forest,513793,2,2
+2,basic,Random Forest,513805,1,1
+2,basic,Random Forest,513806,1,1
+2,basic,Random Forest,513811,2,2
+2,basic,Random Forest,513813,2,1
+2,basic,Random Forest,513817,1,1
+2,basic,Random Forest,513820,1,2
+2,basic,Random Forest,513825,1,2
+2,basic,Random Forest,513827,1,1
+2,basic,Random Forest,513833,1,2
+2,basic,Random Forest,513842,1,2
+2,basic,Random Forest,513844,1,1
+2,basic,Random Forest,513846,1,1
+2,basic,Random Forest,513853,1,2
+2,basic,Random Forest,513855,2,1
+2,basic,Random Forest,513859,2,1
+2,basic,Random Forest,513861,2,2
+2,basic,Random Forest,513865,2,2
+2,basic,Random Forest,513866,1,1
+2,basic,Random Forest,513882,2,2
+2,basic,Random Forest,513883,1,1
+2,basic,Random Forest,513885,2,2
+2,basic,Random Forest,513888,2,1
+2,basic,Random Forest,513889,1,1
+2,basic,Random Forest,513891,1,2
+2,basic,Random Forest,513892,2,2
+2,basic,Random Forest,513897,2,2
+2,basic,Random Forest,513903,2,2
+2,basic,Random Forest,513905,2,2
+2,basic,Random Forest,513909,1,1
+2,basic,Random Forest,513911,2,2
+2,basic,Random Forest,513913,2,2
+2,basic,Random Forest,513927,1,1
+2,basic,Random Forest,513938,1,1
+2,basic,Random Forest,513940,2,2
+2,basic,Random Forest,513945,2,2
+2,basic,Random Forest,513947,2,2
+2,basic,Random Forest,513949,2,1
+2,basic,Random Forest,513955,1,1
+2,basic,Random Forest,513957,2,2
+2,basic,Random Forest,513958,2,1
+2,basic,Random Forest,513961,2,1
+2,basic,Random Forest,513967,1,1
+2,basic,Random Forest,513970,1,1
+2,basic,Random Forest,513974,1,1
+2,basic,Random Forest,513979,1,1
+2,basic,Random Forest,513991,2,1
+2,basic,Random Forest,513993,1,1
+2,basic,Random Forest,513996,1,1
+2,basic,Random Forest,513998,1,2
+2,basic,Random Forest,513999,1,2
+2,basic,ANN,513000,1,1
+2,basic,ANN,513017,2,2
+2,basic,ANN,513024,1,2
+2,basic,ANN,513025,1,1
+2,basic,ANN,513028,2,1
+2,basic,ANN,513034,2,2
+2,basic,ANN,513039,1,1
+2,basic,ANN,513043,1,1
+2,basic,ANN,513048,1,1
+2,basic,ANN,513049,1,1
+2,basic,ANN,513056,1,1
+2,basic,ANN,513057,1,2
+2,basic,ANN,513073,2,2
+2,basic,ANN,513075,2,1
+2,basic,ANN,513081,2,2
+2,basic,ANN,513092,1,1
+2,basic,ANN,513096,1,1
+2,basic,ANN,513098,1,1
+2,basic,ANN,513101,2,2
+2,basic,ANN,513104,2,2
+2,basic,ANN,513105,2,1
+2,basic,ANN,513113,2,2
+2,basic,ANN,513127,1,1
+2,basic,ANN,513130,1,1
+2,basic,ANN,513131,2,2
+2,basic,ANN,513132,1,1
+2,basic,ANN,513134,2,1
+2,basic,ANN,513138,1,1
+2,basic,ANN,513139,2,1
+2,basic,ANN,513140,2,2
+2,basic,ANN,513141,2,2
+2,basic,ANN,513148,1,1
+2,basic,ANN,513150,1,1
+2,basic,ANN,513153,2,2
+2,basic,ANN,513159,1,1
+2,basic,ANN,513161,1,2
+2,basic,ANN,513162,1,1
+2,basic,ANN,513167,2,2
+2,basic,ANN,513170,2,2
+2,basic,ANN,513174,2,2
+2,basic,ANN,513175,1,1
+2,basic,ANN,513178,2,2
+2,basic,ANN,513182,2,2
+2,basic,ANN,513185,1,1
+2,basic,ANN,513194,1,1
+2,basic,ANN,513202,2,2
+2,basic,ANN,513203,2,2
+2,basic,ANN,513207,1,1
+2,basic,ANN,513208,2,1
+2,basic,ANN,513210,2,2
+2,basic,ANN,513212,2,1
+2,basic,ANN,513213,1,1
+2,basic,ANN,513215,2,2
+2,basic,ANN,513220,2,1
+2,basic,ANN,513221,2,1
+2,basic,ANN,513224,1,1
+2,basic,ANN,513226,1,1
+2,basic,ANN,513228,1,1
+2,basic,ANN,513230,1,1
+2,basic,ANN,513231,1,2
+2,basic,ANN,513234,1,1
+2,basic,ANN,513237,1,1
+2,basic,ANN,513239,1,1
+2,basic,ANN,513242,1,1
+2,basic,ANN,513250,2,2
+2,basic,ANN,513255,2,2
+2,basic,ANN,513258,2,2
+2,basic,ANN,513261,2,2
+2,basic,ANN,513262,2,1
+2,basic,ANN,513269,1,2
+2,basic,ANN,513270,2,2
+2,basic,ANN,513275,1,1
+2,basic,ANN,513284,2,1
+2,basic,ANN,513285,1,1
+2,basic,ANN,513288,1,1
+2,basic,ANN,513289,2,2
+2,basic,ANN,513293,1,2
+2,basic,ANN,513294,1,1
+2,basic,ANN,513297,2,2
+2,basic,ANN,513298,1,1
+2,basic,ANN,513303,1,1
+2,basic,ANN,513306,2,2
+2,basic,ANN,513308,2,2
+2,basic,ANN,513313,1,1
+2,basic,ANN,513314,2,2
+2,basic,ANN,513320,2,2
+2,basic,ANN,513321,1,1
+2,basic,ANN,513332,1,2
+2,basic,ANN,513333,1,1
+2,basic,ANN,513334,2,1
+2,basic,ANN,513335,2,1
+2,basic,ANN,513338,2,2
+2,basic,ANN,513339,1,1
+2,basic,ANN,513341,1,1
+2,basic,ANN,513342,1,2
+2,basic,ANN,513343,1,1
+2,basic,ANN,513348,2,2
+2,basic,ANN,513351,1,2
+2,basic,ANN,513356,2,1
+2,basic,ANN,513358,1,1
+2,basic,ANN,513368,2,2
+2,basic,ANN,513374,1,2
+2,basic,ANN,513376,1,1
+2,basic,ANN,513378,1,2
+2,basic,ANN,513381,2,2
+2,basic,ANN,513382,2,1
+2,basic,ANN,513383,1,1
+2,basic,ANN,513385,2,1
+2,basic,ANN,513402,2,2
+2,basic,ANN,513403,2,2
+2,basic,ANN,513404,1,2
+2,basic,ANN,513407,2,2
+2,basic,ANN,513408,1,2
+2,basic,ANN,513416,2,2
+2,basic,ANN,513417,2,2
+2,basic,ANN,513420,1,1
+2,basic,ANN,513424,1,1
+2,basic,ANN,513431,1,1
+2,basic,ANN,513432,2,1
+2,basic,ANN,513437,2,1
+2,basic,ANN,513438,2,2
+2,basic,ANN,513443,1,1
+2,basic,ANN,513447,1,1
+2,basic,ANN,513448,2,1
+2,basic,ANN,513459,2,2
+2,basic,ANN,513464,2,1
+2,basic,ANN,513465,1,1
+2,basic,ANN,513468,1,1
+2,basic,ANN,513469,2,2
+2,basic,ANN,513470,1,1
+2,basic,ANN,513471,1,2
+2,basic,ANN,513475,2,1
+2,basic,ANN,513484,1,2
+2,basic,ANN,513486,2,1
+2,basic,ANN,513487,2,2
+2,basic,ANN,513490,1,2
+2,basic,ANN,513491,2,2
+2,basic,ANN,513495,1,2
+2,basic,ANN,513502,2,1
+2,basic,ANN,513504,2,1
+2,basic,ANN,513509,2,2
+2,basic,ANN,513521,2,2
+2,basic,ANN,513523,1,2
+2,basic,ANN,513529,2,2
+2,basic,ANN,513530,1,2
+2,basic,ANN,513537,2,2
+2,basic,ANN,513539,1,1
+2,basic,ANN,513541,2,2
+2,basic,ANN,513543,2,2
+2,basic,ANN,513547,2,2
+2,basic,ANN,513554,1,1
+2,basic,ANN,513555,1,1
+2,basic,ANN,513563,1,1
+2,basic,ANN,513571,2,1
+2,basic,ANN,513576,2,2
+2,basic,ANN,513580,1,1
+2,basic,ANN,513581,1,1
+2,basic,ANN,513583,1,1
+2,basic,ANN,513589,1,1
+2,basic,ANN,513590,1,1
+2,basic,ANN,513594,2,2
+2,basic,ANN,513602,1,1
+2,basic,ANN,513606,1,1
+2,basic,ANN,513615,2,2
+2,basic,ANN,513617,1,1
+2,basic,ANN,513618,1,1
+2,basic,ANN,513632,2,2
+2,basic,ANN,513639,1,1
+2,basic,ANN,513663,1,1
+2,basic,ANN,513670,2,2
+2,basic,ANN,513687,2,2
+2,basic,ANN,513696,2,2
+2,basic,ANN,513697,1,1
+2,basic,ANN,513704,2,1
+2,basic,ANN,513719,2,1
+2,basic,ANN,513720,2,1
+2,basic,ANN,513721,1,1
+2,basic,ANN,513723,1,1
+2,basic,ANN,513726,1,1
+2,basic,ANN,513729,1,1
+2,basic,ANN,513731,2,2
+2,basic,ANN,513734,1,1
+2,basic,ANN,513741,1,1
+2,basic,ANN,513744,2,2
+2,basic,ANN,513746,1,1
+2,basic,ANN,513755,1,1
+2,basic,ANN,513761,1,1
+2,basic,ANN,513764,2,2
+2,basic,ANN,513767,1,1
+2,basic,ANN,513772,2,2
+2,basic,ANN,513773,2,2
+2,basic,ANN,513774,2,2
+2,basic,ANN,513777,2,2
+2,basic,ANN,513778,1,1
+2,basic,ANN,513780,2,2
+2,basic,ANN,513781,1,2
+2,basic,ANN,513782,1,1
+2,basic,ANN,513783,2,2
+2,basic,ANN,513784,2,2
+2,basic,ANN,513793,2,2
+2,basic,ANN,513805,1,1
+2,basic,ANN,513806,1,1
+2,basic,ANN,513811,2,2
+2,basic,ANN,513813,2,1
+2,basic,ANN,513817,1,1
+2,basic,ANN,513820,1,2
+2,basic,ANN,513825,1,1
+2,basic,ANN,513827,1,1
+2,basic,ANN,513833,1,2
+2,basic,ANN,513842,1,2
+2,basic,ANN,513844,1,1
+2,basic,ANN,513846,1,1
+2,basic,ANN,513853,1,1
+2,basic,ANN,513855,2,1
+2,basic,ANN,513859,2,1
+2,basic,ANN,513861,2,2
+2,basic,ANN,513865,2,2
+2,basic,ANN,513866,1,1
+2,basic,ANN,513882,2,1
+2,basic,ANN,513883,1,2
+2,basic,ANN,513885,2,2
+2,basic,ANN,513888,2,2
+2,basic,ANN,513889,1,1
+2,basic,ANN,513891,1,2
+2,basic,ANN,513892,2,2
+2,basic,ANN,513897,2,2
+2,basic,ANN,513903,2,2
+2,basic,ANN,513905,2,2
+2,basic,ANN,513909,1,1
+2,basic,ANN,513911,2,2
+2,basic,ANN,513913,2,2
+2,basic,ANN,513927,1,1
+2,basic,ANN,513938,1,1
+2,basic,ANN,513940,2,2
+2,basic,ANN,513945,2,1
+2,basic,ANN,513947,2,2
+2,basic,ANN,513949,2,2
+2,basic,ANN,513955,1,1
+2,basic,ANN,513957,2,2
+2,basic,ANN,513958,2,1
+2,basic,ANN,513961,2,2
+2,basic,ANN,513967,1,1
+2,basic,ANN,513970,1,1
+2,basic,ANN,513974,1,2
+2,basic,ANN,513979,1,1
+2,basic,ANN,513991,2,1
+2,basic,ANN,513993,1,1
+2,basic,ANN,513996,1,1
+2,basic,ANN,513998,1,2
+2,basic,ANN,513999,1,2
+2,advanced,Seat baseline,513000,1,1
+2,advanced,Seat baseline,513017,1,1
+2,advanced,Seat baseline,513024,1,1
+2,advanced,Seat baseline,513025,1,1
+2,advanced,Seat baseline,513028,2,1
+2,advanced,Seat baseline,513034,2,1
+2,advanced,Seat baseline,513039,1,1
+2,advanced,Seat baseline,513043,2,1
+2,advanced,Seat baseline,513048,2,1
+2,advanced,Seat baseline,513049,1,1
+2,advanced,Seat baseline,513056,1,1
+2,advanced,Seat baseline,513057,2,1
+2,advanced,Seat baseline,513073,1,1
+2,advanced,Seat baseline,513075,1,1
+2,advanced,Seat baseline,513081,1,1
+2,advanced,Seat baseline,513092,2,1
+2,advanced,Seat baseline,513096,1,1
+2,advanced,Seat baseline,513098,1,1
+2,advanced,Seat baseline,513101,2,1
+2,advanced,Seat baseline,513104,2,1
+2,advanced,Seat baseline,513105,2,1
+2,advanced,Seat baseline,513113,2,1
+2,advanced,Seat baseline,513127,1,1
+2,advanced,Seat baseline,513130,1,1
+2,advanced,Seat baseline,513131,2,1
+2,advanced,Seat baseline,513132,1,1
+2,advanced,Seat baseline,513134,1,1
+2,advanced,Seat baseline,513138,1,1
+2,advanced,Seat baseline,513139,1,1
+2,advanced,Seat baseline,513140,2,1
+2,advanced,Seat baseline,513141,2,1
+2,advanced,Seat baseline,513148,1,1
+2,advanced,Seat baseline,513150,1,1
+2,advanced,Seat baseline,513153,1,1
+2,advanced,Seat baseline,513159,1,1
+2,advanced,Seat baseline,513161,2,1
+2,advanced,Seat baseline,513162,1,1
+2,advanced,Seat baseline,513167,1,1
+2,advanced,Seat baseline,513170,2,1
+2,advanced,Seat baseline,513174,1,1
+2,advanced,Seat baseline,513175,1,1
+2,advanced,Seat baseline,513178,2,1
+2,advanced,Seat baseline,513182,2,1
+2,advanced,Seat baseline,513185,1,1
+2,advanced,Seat baseline,513194,1,1
+2,advanced,Seat baseline,513202,2,1
+2,advanced,Seat baseline,513203,2,1
+2,advanced,Seat baseline,513207,1,1
+2,advanced,Seat baseline,513208,1,1
+2,advanced,Seat baseline,513210,2,1
+2,advanced,Seat baseline,513212,1,1
+2,advanced,Seat baseline,513213,1,1
+2,advanced,Seat baseline,513215,2,1
+2,advanced,Seat baseline,513220,1,1
+2,advanced,Seat baseline,513221,2,1
+2,advanced,Seat baseline,513224,1,1
+2,advanced,Seat baseline,513226,1,1
+2,advanced,Seat baseline,513228,1,1
+2,advanced,Seat baseline,513230,1,1
+2,advanced,Seat baseline,513231,2,1
+2,advanced,Seat baseline,513234,2,1
+2,advanced,Seat baseline,513237,1,1
+2,advanced,Seat baseline,513239,2,1
+2,advanced,Seat baseline,513242,1,1
+2,advanced,Seat baseline,513250,1,1
+2,advanced,Seat baseline,513255,1,1
+2,advanced,Seat baseline,513258,1,1
+2,advanced,Seat baseline,513261,2,1
+2,advanced,Seat baseline,513262,1,1
+2,advanced,Seat baseline,513269,2,1
+2,advanced,Seat baseline,513270,2,1
+2,advanced,Seat baseline,513275,1,1
+2,advanced,Seat baseline,513284,2,1
+2,advanced,Seat baseline,513285,1,1
+2,advanced,Seat baseline,513288,1,1
+2,advanced,Seat baseline,513289,1,1
+2,advanced,Seat baseline,513293,2,1
+2,advanced,Seat baseline,513294,1,1
+2,advanced,Seat baseline,513297,2,1
+2,advanced,Seat baseline,513298,2,1
+2,advanced,Seat baseline,513303,1,1
+2,advanced,Seat baseline,513306,2,1
+2,advanced,Seat baseline,513308,1,1
+2,advanced,Seat baseline,513313,1,1
+2,advanced,Seat baseline,513314,2,1
+2,advanced,Seat baseline,513320,1,1
+2,advanced,Seat baseline,513321,1,1
+2,advanced,Seat baseline,513332,2,1
+2,advanced,Seat baseline,513333,1,1
+2,advanced,Seat baseline,513334,1,1
+2,advanced,Seat baseline,513335,2,1
+2,advanced,Seat baseline,513338,1,1
+2,advanced,Seat baseline,513339,2,1
+2,advanced,Seat baseline,513341,2,1
+2,advanced,Seat baseline,513342,2,1
+2,advanced,Seat baseline,513343,2,1
+2,advanced,Seat baseline,513348,1,1
+2,advanced,Seat baseline,513351,1,1
+2,advanced,Seat baseline,513356,2,1
+2,advanced,Seat baseline,513358,1,1
+2,advanced,Seat baseline,513368,1,1
+2,advanced,Seat baseline,513374,2,1
+2,advanced,Seat baseline,513376,1,1
+2,advanced,Seat baseline,513378,1,1
+2,advanced,Seat baseline,513381,2,1
+2,advanced,Seat baseline,513382,1,1
+2,advanced,Seat baseline,513383,1,1
+2,advanced,Seat baseline,513385,1,1
+2,advanced,Seat baseline,513402,2,1
+2,advanced,Seat baseline,513403,2,1
+2,advanced,Seat baseline,513404,2,1
+2,advanced,Seat baseline,513407,2,1
+2,advanced,Seat baseline,513408,2,1
+2,advanced,Seat baseline,513416,2,1
+2,advanced,Seat baseline,513417,2,1
+2,advanced,Seat baseline,513420,1,1
+2,advanced,Seat baseline,513424,1,1
+2,advanced,Seat baseline,513431,2,1
+2,advanced,Seat baseline,513432,1,1
+2,advanced,Seat baseline,513437,1,1
+2,advanced,Seat baseline,513438,2,1
+2,advanced,Seat baseline,513443,2,1
+2,advanced,Seat baseline,513447,1,1
+2,advanced,Seat baseline,513448,2,1
+2,advanced,Seat baseline,513459,1,1
+2,advanced,Seat baseline,513464,1,1
+2,advanced,Seat baseline,513465,1,1
+2,advanced,Seat baseline,513468,1,1
+2,advanced,Seat baseline,513469,1,1
+2,advanced,Seat baseline,513470,1,1
+2,advanced,Seat baseline,513471,1,1
+2,advanced,Seat baseline,513475,1,1
+2,advanced,Seat baseline,513484,1,1
+2,advanced,Seat baseline,513486,2,1
+2,advanced,Seat baseline,513487,1,1
+2,advanced,Seat baseline,513490,1,1
+2,advanced,Seat baseline,513491,2,1
+2,advanced,Seat baseline,513495,2,1
+2,advanced,Seat baseline,513502,1,1
+2,advanced,Seat baseline,513504,2,1
+2,advanced,Seat baseline,513509,2,1
+2,advanced,Seat baseline,513521,1,1
+2,advanced,Seat baseline,513523,2,1
+2,advanced,Seat baseline,513529,2,1
+2,advanced,Seat baseline,513530,1,1
+2,advanced,Seat baseline,513537,2,1
+2,advanced,Seat baseline,513539,1,1
+2,advanced,Seat baseline,513541,1,1
+2,advanced,Seat baseline,513543,2,1
+2,advanced,Seat baseline,513547,2,1
+2,advanced,Seat baseline,513554,1,1
+2,advanced,Seat baseline,513555,1,1
+2,advanced,Seat baseline,513563,2,1
+2,advanced,Seat baseline,513571,1,1
+2,advanced,Seat baseline,513576,2,1
+2,advanced,Seat baseline,513580,2,1
+2,advanced,Seat baseline,513581,1,1
+2,advanced,Seat baseline,513583,1,1
+2,advanced,Seat baseline,513589,1,1
+2,advanced,Seat baseline,513590,2,1
+2,advanced,Seat baseline,513594,2,1
+2,advanced,Seat baseline,513602,1,1
+2,advanced,Seat baseline,513606,2,1
+2,advanced,Seat baseline,513615,2,1
+2,advanced,Seat baseline,513617,1,1
+2,advanced,Seat baseline,513618,1,1
+2,advanced,Seat baseline,513632,2,1
+2,advanced,Seat baseline,513639,1,1
+2,advanced,Seat baseline,513663,1,1
+2,advanced,Seat baseline,513670,1,1
+2,advanced,Seat baseline,513687,2,1
+2,advanced,Seat baseline,513696,2,1
+2,advanced,Seat baseline,513697,1,1
+2,advanced,Seat baseline,513704,1,1
+2,advanced,Seat baseline,513719,1,1
+2,advanced,Seat baseline,513720,1,1
+2,advanced,Seat baseline,513721,1,1
+2,advanced,Seat baseline,513723,1,1
+2,advanced,Seat baseline,513726,1,1
+2,advanced,Seat baseline,513729,1,1
+2,advanced,Seat baseline,513731,2,1
+2,advanced,Seat baseline,513734,1,1
+2,advanced,Seat baseline,513741,1,1
+2,advanced,Seat baseline,513744,1,1
+2,advanced,Seat baseline,513746,1,1
+2,advanced,Seat baseline,513755,1,1
+2,advanced,Seat baseline,513761,1,1
+2,advanced,Seat baseline,513764,1,1
+2,advanced,Seat baseline,513767,2,1
+2,advanced,Seat baseline,513772,2,1
+2,advanced,Seat baseline,513773,2,1
+2,advanced,Seat baseline,513774,2,1
+2,advanced,Seat baseline,513777,1,1
+2,advanced,Seat baseline,513778,1,1
+2,advanced,Seat baseline,513780,1,1
+2,advanced,Seat baseline,513781,1,1
+2,advanced,Seat baseline,513782,1,1
+2,advanced,Seat baseline,513783,2,1
+2,advanced,Seat baseline,513784,2,1
+2,advanced,Seat baseline,513793,2,1
+2,advanced,Seat baseline,513805,2,1
+2,advanced,Seat baseline,513806,2,1
+2,advanced,Seat baseline,513811,2,1
+2,advanced,Seat baseline,513813,1,1
+2,advanced,Seat baseline,513817,1,1
+2,advanced,Seat baseline,513820,2,1
+2,advanced,Seat baseline,513825,1,1
+2,advanced,Seat baseline,513827,1,1
+2,advanced,Seat baseline,513833,2,1
+2,advanced,Seat baseline,513842,2,1
+2,advanced,Seat baseline,513844,2,1
+2,advanced,Seat baseline,513846,2,1
+2,advanced,Seat baseline,513853,2,1
+2,advanced,Seat baseline,513855,2,1
+2,advanced,Seat baseline,513859,1,1
+2,advanced,Seat baseline,513861,2,1
+2,advanced,Seat baseline,513865,2,1
+2,advanced,Seat baseline,513866,1,1
+2,advanced,Seat baseline,513882,2,1
+2,advanced,Seat baseline,513883,2,1
+2,advanced,Seat baseline,513885,2,1
+2,advanced,Seat baseline,513888,2,1
+2,advanced,Seat baseline,513889,2,1
+2,advanced,Seat baseline,513891,1,1
+2,advanced,Seat baseline,513892,2,1
+2,advanced,Seat baseline,513897,1,1
+2,advanced,Seat baseline,513903,2,1
+2,advanced,Seat baseline,513905,1,1
+2,advanced,Seat baseline,513909,2,1
+2,advanced,Seat baseline,513911,2,1
+2,advanced,Seat baseline,513913,2,1
+2,advanced,Seat baseline,513927,1,1
+2,advanced,Seat baseline,513938,1,1
+2,advanced,Seat baseline,513940,2,1
+2,advanced,Seat baseline,513945,2,1
+2,advanced,Seat baseline,513947,1,1
+2,advanced,Seat baseline,513949,2,1
+2,advanced,Seat baseline,513955,1,1
+2,advanced,Seat baseline,513957,2,1
+2,advanced,Seat baseline,513958,1,1
+2,advanced,Seat baseline,513961,2,1
+2,advanced,Seat baseline,513967,1,1
+2,advanced,Seat baseline,513970,2,1
+2,advanced,Seat baseline,513974,2,1
+2,advanced,Seat baseline,513979,1,1
+2,advanced,Seat baseline,513991,1,1
+2,advanced,Seat baseline,513993,1,1
+2,advanced,Seat baseline,513996,1,1
+2,advanced,Seat baseline,513998,2,1
+2,advanced,Seat baseline,513999,1,1
+2,advanced,KNN,513000,1,1
+2,advanced,KNN,513017,1,2
+2,advanced,KNN,513024,1,1
+2,advanced,KNN,513025,1,1
+2,advanced,KNN,513028,2,1
+2,advanced,KNN,513034,2,2
+2,advanced,KNN,513039,1,2
+2,advanced,KNN,513043,2,2
+2,advanced,KNN,513048,2,1
+2,advanced,KNN,513049,1,2
+2,advanced,KNN,513056,1,1
+2,advanced,KNN,513057,2,1
+2,advanced,KNN,513073,1,1
+2,advanced,KNN,513075,1,1
+2,advanced,KNN,513081,1,1
+2,advanced,KNN,513092,2,1
+2,advanced,KNN,513096,1,2
+2,advanced,KNN,513098,1,1
+2,advanced,KNN,513101,2,2
+2,advanced,KNN,513104,2,1
+2,advanced,KNN,513105,2,1
+2,advanced,KNN,513113,2,2
+2,advanced,KNN,513127,1,1
+2,advanced,KNN,513130,1,1
+2,advanced,KNN,513131,2,2
+2,advanced,KNN,513132,1,2
+2,advanced,KNN,513134,1,1
+2,advanced,KNN,513138,1,2
+2,advanced,KNN,513139,1,2
+2,advanced,KNN,513140,2,2
+2,advanced,KNN,513141,2,2
+2,advanced,KNN,513148,1,1
+2,advanced,KNN,513150,1,1
+2,advanced,KNN,513153,1,2
+2,advanced,KNN,513159,1,2
+2,advanced,KNN,513161,2,2
+2,advanced,KNN,513162,1,1
+2,advanced,KNN,513167,1,2
+2,advanced,KNN,513170,2,2
+2,advanced,KNN,513174,1,1
+2,advanced,KNN,513175,1,2
+2,advanced,KNN,513178,2,2
+2,advanced,KNN,513182,2,2
+2,advanced,KNN,513185,1,1
+2,advanced,KNN,513194,1,2
+2,advanced,KNN,513202,2,2
+2,advanced,KNN,513203,2,1
+2,advanced,KNN,513207,1,1
+2,advanced,KNN,513208,1,1
+2,advanced,KNN,513210,2,1
+2,advanced,KNN,513212,1,1
+2,advanced,KNN,513213,1,1
+2,advanced,KNN,513215,2,2
+2,advanced,KNN,513220,1,1
+2,advanced,KNN,513221,2,1
+2,advanced,KNN,513224,1,1
+2,advanced,KNN,513226,1,1
+2,advanced,KNN,513228,1,1
+2,advanced,KNN,513230,1,1
+2,advanced,KNN,513231,2,2
+2,advanced,KNN,513234,2,1
+2,advanced,KNN,513237,1,1
+2,advanced,KNN,513239,2,1
+2,advanced,KNN,513242,1,1
+2,advanced,KNN,513250,1,1
+2,advanced,KNN,513255,1,1
+2,advanced,KNN,513258,1,2
+2,advanced,KNN,513261,2,2
+2,advanced,KNN,513262,1,1
+2,advanced,KNN,513269,2,2
+2,advanced,KNN,513270,2,2
+2,advanced,KNN,513275,1,1
+2,advanced,KNN,513284,2,1
+2,advanced,KNN,513285,1,1
+2,advanced,KNN,513288,1,1
+2,advanced,KNN,513289,1,2
+2,advanced,KNN,513293,2,1
+2,advanced,KNN,513294,1,1
+2,advanced,KNN,513297,2,2
+2,advanced,KNN,513298,2,1
+2,advanced,KNN,513303,1,1
+2,advanced,KNN,513306,2,2
+2,advanced,KNN,513308,1,1
+2,advanced,KNN,513313,1,1
+2,advanced,KNN,513314,2,2
+2,advanced,KNN,513320,1,2
+2,advanced,KNN,513321,1,1
+2,advanced,KNN,513332,2,2
+2,advanced,KNN,513333,1,1
+2,advanced,KNN,513334,1,1
+2,advanced,KNN,513335,2,2
+2,advanced,KNN,513338,1,2
+2,advanced,KNN,513339,2,1
+2,advanced,KNN,513341,2,1
+2,advanced,KNN,513342,2,1
+2,advanced,KNN,513343,2,1
+2,advanced,KNN,513348,1,1
+2,advanced,KNN,513351,1,1
+2,advanced,KNN,513356,2,2
+2,advanced,KNN,513358,1,1
+2,advanced,KNN,513368,1,2
+2,advanced,KNN,513374,2,1
+2,advanced,KNN,513376,1,1
+2,advanced,KNN,513378,1,1
+2,advanced,KNN,513381,2,1
+2,advanced,KNN,513382,1,2
+2,advanced,KNN,513383,1,1
+2,advanced,KNN,513385,1,2
+2,advanced,KNN,513402,2,2
+2,advanced,KNN,513403,2,1
+2,advanced,KNN,513404,2,1
+2,advanced,KNN,513407,2,2
+2,advanced,KNN,513408,2,2
+2,advanced,KNN,513416,2,2
+2,advanced,KNN,513417,2,2
+2,advanced,KNN,513420,1,1
+2,advanced,KNN,513424,1,1
+2,advanced,KNN,513431,2,1
+2,advanced,KNN,513432,1,1
+2,advanced,KNN,513437,1,1
+2,advanced,KNN,513438,2,2
+2,advanced,KNN,513443,2,1
+2,advanced,KNN,513447,1,1
+2,advanced,KNN,513448,2,1
+2,advanced,KNN,513459,1,2
+2,advanced,KNN,513464,1,2
+2,advanced,KNN,513465,1,1
+2,advanced,KNN,513468,1,1
+2,advanced,KNN,513469,1,2
+2,advanced,KNN,513470,1,2
+2,advanced,KNN,513471,1,1
+2,advanced,KNN,513475,1,1
+2,advanced,KNN,513484,1,2
+2,advanced,KNN,513486,2,1
+2,advanced,KNN,513487,1,2
+2,advanced,KNN,513490,1,2
+2,advanced,KNN,513491,2,2
+2,advanced,KNN,513495,2,2
+2,advanced,KNN,513502,1,2
+2,advanced,KNN,513504,2,1
+2,advanced,KNN,513509,2,2
+2,advanced,KNN,513521,1,2
+2,advanced,KNN,513523,2,1
+2,advanced,KNN,513529,2,2
+2,advanced,KNN,513530,1,2
+2,advanced,KNN,513537,2,2
+2,advanced,KNN,513539,1,1
+2,advanced,KNN,513541,1,2
+2,advanced,KNN,513543,2,2
+2,advanced,KNN,513547,2,2
+2,advanced,KNN,513554,1,1
+2,advanced,KNN,513555,1,1
+2,advanced,KNN,513563,2,1
+2,advanced,KNN,513571,1,1
+2,advanced,KNN,513576,2,1
+2,advanced,KNN,513580,2,1
+2,advanced,KNN,513581,1,1
+2,advanced,KNN,513583,1,1
+2,advanced,KNN,513589,1,1
+2,advanced,KNN,513590,2,2
+2,advanced,KNN,513594,2,2
+2,advanced,KNN,513602,1,1
+2,advanced,KNN,513606,2,1
+2,advanced,KNN,513615,2,2
+2,advanced,KNN,513617,1,1
+2,advanced,KNN,513618,1,2
+2,advanced,KNN,513632,2,2
+2,advanced,KNN,513639,1,1
+2,advanced,KNN,513663,1,1
+2,advanced,KNN,513670,1,1
+2,advanced,KNN,513687,2,2
+2,advanced,KNN,513696,2,2
+2,advanced,KNN,513697,1,1
+2,advanced,KNN,513704,1,1
+2,advanced,KNN,513719,1,1
+2,advanced,KNN,513720,1,1
+2,advanced,KNN,513721,1,2
+2,advanced,KNN,513723,1,1
+2,advanced,KNN,513726,1,1
+2,advanced,KNN,513729,1,1
+2,advanced,KNN,513731,2,2
+2,advanced,KNN,513734,1,1
+2,advanced,KNN,513741,1,1
+2,advanced,KNN,513744,1,2
+2,advanced,KNN,513746,1,1
+2,advanced,KNN,513755,1,1
+2,advanced,KNN,513761,1,1
+2,advanced,KNN,513764,1,1
+2,advanced,KNN,513767,2,1
+2,advanced,KNN,513772,2,1
+2,advanced,KNN,513773,2,2
+2,advanced,KNN,513774,2,2
+2,advanced,KNN,513777,1,2
+2,advanced,KNN,513778,1,1
+2,advanced,KNN,513780,1,2
+2,advanced,KNN,513781,1,2
+2,advanced,KNN,513782,1,1
+2,advanced,KNN,513783,2,2
+2,advanced,KNN,513784,2,1
+2,advanced,KNN,513793,2,2
+2,advanced,KNN,513805,2,1
+2,advanced,KNN,513806,2,1
+2,advanced,KNN,513811,2,2
+2,advanced,KNN,513813,1,1
+2,advanced,KNN,513817,1,1
+2,advanced,KNN,513820,2,1
+2,advanced,KNN,513825,1,1
+2,advanced,KNN,513827,1,1
+2,advanced,KNN,513833,2,2
+2,advanced,KNN,513842,2,2
+2,advanced,KNN,513844,2,1
+2,advanced,KNN,513846,2,1
+2,advanced,KNN,513853,2,1
+2,advanced,KNN,513855,2,1
+2,advanced,KNN,513859,1,2
+2,advanced,KNN,513861,2,2
+2,advanced,KNN,513865,2,2
+2,advanced,KNN,513866,1,2
+2,advanced,KNN,513882,2,1
+2,advanced,KNN,513883,2,1
+2,advanced,KNN,513885,2,2
+2,advanced,KNN,513888,2,1
+2,advanced,KNN,513889,2,1
+2,advanced,KNN,513891,1,2
+2,advanced,KNN,513892,2,2
+2,advanced,KNN,513897,1,2
+2,advanced,KNN,513903,2,2
+2,advanced,KNN,513905,1,1
+2,advanced,KNN,513909,2,2
+2,advanced,KNN,513911,2,2
+2,advanced,KNN,513913,2,2
+2,advanced,KNN,513927,1,1
+2,advanced,KNN,513938,1,1
+2,advanced,KNN,513940,2,1
+2,advanced,KNN,513945,2,2
+2,advanced,KNN,513947,1,2
+2,advanced,KNN,513949,2,1
+2,advanced,KNN,513955,1,2
+2,advanced,KNN,513957,2,2
+2,advanced,KNN,513958,1,1
+2,advanced,KNN,513961,2,2
+2,advanced,KNN,513967,1,2
+2,advanced,KNN,513970,2,1
+2,advanced,KNN,513974,2,2
+2,advanced,KNN,513979,1,2
+2,advanced,KNN,513991,1,1
+2,advanced,KNN,513993,1,1
+2,advanced,KNN,513996,1,1
+2,advanced,KNN,513998,2,1
+2,advanced,KNN,513999,1,2
+2,advanced,Naive Bayes,513000,1,1
+2,advanced,Naive Bayes,513017,1,2
+2,advanced,Naive Bayes,513024,1,2
+2,advanced,Naive Bayes,513025,1,1
+2,advanced,Naive Bayes,513028,2,1
+2,advanced,Naive Bayes,513034,2,2
+2,advanced,Naive Bayes,513039,1,1
+2,advanced,Naive Bayes,513043,2,1
+2,advanced,Naive Bayes,513048,2,1
+2,advanced,Naive Bayes,513049,1,1
+2,advanced,Naive Bayes,513056,1,1
+2,advanced,Naive Bayes,513057,2,2
+2,advanced,Naive Bayes,513073,1,2
+2,advanced,Naive Bayes,513075,1,1
+2,advanced,Naive Bayes,513081,1,1
+2,advanced,Naive Bayes,513092,2,1
+2,advanced,Naive Bayes,513096,1,1
+2,advanced,Naive Bayes,513098,1,2
+2,advanced,Naive Bayes,513101,2,2
+2,advanced,Naive Bayes,513104,2,2
+2,advanced,Naive Bayes,513105,2,2
+2,advanced,Naive Bayes,513113,2,2
+2,advanced,Naive Bayes,513127,1,1
+2,advanced,Naive Bayes,513130,1,1
+2,advanced,Naive Bayes,513131,2,2
+2,advanced,Naive Bayes,513132,1,2
+2,advanced,Naive Bayes,513134,1,1
+2,advanced,Naive Bayes,513138,1,2
+2,advanced,Naive Bayes,513139,1,1
+2,advanced,Naive Bayes,513140,2,2
+2,advanced,Naive Bayes,513141,2,1
+2,advanced,Naive Bayes,513148,1,1
+2,advanced,Naive Bayes,513150,1,1
+2,advanced,Naive Bayes,513153,1,1
+2,advanced,Naive Bayes,513159,1,1
+2,advanced,Naive Bayes,513161,2,2
+2,advanced,Naive Bayes,513162,1,1
+2,advanced,Naive Bayes,513167,1,2
+2,advanced,Naive Bayes,513170,2,2
+2,advanced,Naive Bayes,513174,1,2
+2,advanced,Naive Bayes,513175,1,1
+2,advanced,Naive Bayes,513178,2,2
+2,advanced,Naive Bayes,513182,2,2
+2,advanced,Naive Bayes,513185,1,1
+2,advanced,Naive Bayes,513194,1,1
+2,advanced,Naive Bayes,513202,2,2
+2,advanced,Naive Bayes,513203,2,2
+2,advanced,Naive Bayes,513207,1,1
+2,advanced,Naive Bayes,513208,1,1
+2,advanced,Naive Bayes,513210,2,2
+2,advanced,Naive Bayes,513212,1,1
+2,advanced,Naive Bayes,513213,1,1
+2,advanced,Naive Bayes,513215,2,2
+2,advanced,Naive Bayes,513220,1,1
+2,advanced,Naive Bayes,513221,2,1
+2,advanced,Naive Bayes,513224,1,1
+2,advanced,Naive Bayes,513226,1,1
+2,advanced,Naive Bayes,513228,1,1
+2,advanced,Naive Bayes,513230,1,1
+2,advanced,Naive Bayes,513231,2,1
+2,advanced,Naive Bayes,513234,2,1
+2,advanced,Naive Bayes,513237,1,1
+2,advanced,Naive Bayes,513239,2,2
+2,advanced,Naive Bayes,513242,1,1
+2,advanced,Naive Bayes,513250,1,1
+2,advanced,Naive Bayes,513255,1,2
+2,advanced,Naive Bayes,513258,1,2
+2,advanced,Naive Bayes,513261,2,2
+2,advanced,Naive Bayes,513262,1,1
+2,advanced,Naive Bayes,513269,2,2
+2,advanced,Naive Bayes,513270,2,2
+2,advanced,Naive Bayes,513275,1,1
+2,advanced,Naive Bayes,513284,2,1
+2,advanced,Naive Bayes,513285,1,1
+2,advanced,Naive Bayes,513288,1,1
+2,advanced,Naive Bayes,513289,1,2
+2,advanced,Naive Bayes,513293,2,2
+2,advanced,Naive Bayes,513294,1,1
+2,advanced,Naive Bayes,513297,2,1
+2,advanced,Naive Bayes,513298,2,1
+2,advanced,Naive Bayes,513303,1,1
+2,advanced,Naive Bayes,513306,2,2
+2,advanced,Naive Bayes,513308,1,1
+2,advanced,Naive Bayes,513313,1,1
+2,advanced,Naive Bayes,513314,2,2
+2,advanced,Naive Bayes,513320,1,2
+2,advanced,Naive Bayes,513321,1,1
+2,advanced,Naive Bayes,513332,2,2
+2,advanced,Naive Bayes,513333,1,1
+2,advanced,Naive Bayes,513334,1,1
+2,advanced,Naive Bayes,513335,2,2
+2,advanced,Naive Bayes,513338,1,2
+2,advanced,Naive Bayes,513339,2,1
+2,advanced,Naive Bayes,513341,2,1
+2,advanced,Naive Bayes,513342,2,2
+2,advanced,Naive Bayes,513343,2,1
+2,advanced,Naive Bayes,513348,1,1
+2,advanced,Naive Bayes,513351,1,2
+2,advanced,Naive Bayes,513356,2,2
+2,advanced,Naive Bayes,513358,1,1
+2,advanced,Naive Bayes,513368,1,2
+2,advanced,Naive Bayes,513374,2,1
+2,advanced,Naive Bayes,513376,1,1
+2,advanced,Naive Bayes,513378,1,2
+2,advanced,Naive Bayes,513381,2,1
+2,advanced,Naive Bayes,513382,1,2
+2,advanced,Naive Bayes,513383,1,1
+2,advanced,Naive Bayes,513385,1,2
+2,advanced,Naive Bayes,513402,2,2
+2,advanced,Naive Bayes,513403,2,2
+2,advanced,Naive Bayes,513404,2,2
+2,advanced,Naive Bayes,513407,2,2
+2,advanced,Naive Bayes,513408,2,2
+2,advanced,Naive Bayes,513416,2,2
+2,advanced,Naive Bayes,513417,2,2
+2,advanced,Naive Bayes,513420,1,1
+2,advanced,Naive Bayes,513424,1,1
+2,advanced,Naive Bayes,513431,2,1
+2,advanced,Naive Bayes,513432,1,1
+2,advanced,Naive Bayes,513437,1,1
+2,advanced,Naive Bayes,513438,2,2
+2,advanced,Naive Bayes,513443,2,1
+2,advanced,Naive Bayes,513447,1,1
+2,advanced,Naive Bayes,513448,2,2
+2,advanced,Naive Bayes,513459,1,2
+2,advanced,Naive Bayes,513464,1,2
+2,advanced,Naive Bayes,513465,1,1
+2,advanced,Naive Bayes,513468,1,1
+2,advanced,Naive Bayes,513469,1,2
+2,advanced,Naive Bayes,513470,1,1
+2,advanced,Naive Bayes,513471,1,2
+2,advanced,Naive Bayes,513475,1,1
+2,advanced,Naive Bayes,513484,1,2
+2,advanced,Naive Bayes,513486,2,1
+2,advanced,Naive Bayes,513487,1,2
+2,advanced,Naive Bayes,513490,1,1
+2,advanced,Naive Bayes,513491,2,2
+2,advanced,Naive Bayes,513495,2,2
+2,advanced,Naive Bayes,513502,1,2
+2,advanced,Naive Bayes,513504,2,1
+2,advanced,Naive Bayes,513509,2,2
+2,advanced,Naive Bayes,513521,1,2
+2,advanced,Naive Bayes,513523,2,1
+2,advanced,Naive Bayes,513529,2,2
+2,advanced,Naive Bayes,513530,1,2
+2,advanced,Naive Bayes,513537,2,2
+2,advanced,Naive Bayes,513539,1,1
+2,advanced,Naive Bayes,513541,1,2
+2,advanced,Naive Bayes,513543,2,1
+2,advanced,Naive Bayes,513547,2,2
+2,advanced,Naive Bayes,513554,1,1
+2,advanced,Naive Bayes,513555,1,1
+2,advanced,Naive Bayes,513563,2,1
+2,advanced,Naive Bayes,513571,1,2
+2,advanced,Naive Bayes,513576,2,2
+2,advanced,Naive Bayes,513580,2,1
+2,advanced,Naive Bayes,513581,1,1
+2,advanced,Naive Bayes,513583,1,1
+2,advanced,Naive Bayes,513589,1,1
+2,advanced,Naive Bayes,513590,2,2
+2,advanced,Naive Bayes,513594,2,2
+2,advanced,Naive Bayes,513602,1,1
+2,advanced,Naive Bayes,513606,2,2
+2,advanced,Naive Bayes,513615,2,2
+2,advanced,Naive Bayes,513617,1,1
+2,advanced,Naive Bayes,513618,1,1
+2,advanced,Naive Bayes,513632,2,2
+2,advanced,Naive Bayes,513639,1,1
+2,advanced,Naive Bayes,513663,1,1
+2,advanced,Naive Bayes,513670,1,1
+2,advanced,Naive Bayes,513687,2,2
+2,advanced,Naive Bayes,513696,2,2
+2,advanced,Naive Bayes,513697,1,1
+2,advanced,Naive Bayes,513704,1,1
+2,advanced,Naive Bayes,513719,1,1
+2,advanced,Naive Bayes,513720,1,1
+2,advanced,Naive Bayes,513721,1,1
+2,advanced,Naive Bayes,513723,1,1
+2,advanced,Naive Bayes,513726,1,1
+2,advanced,Naive Bayes,513729,1,1
+2,advanced,Naive Bayes,513731,2,2
+2,advanced,Naive Bayes,513734,1,1
+2,advanced,Naive Bayes,513741,1,1
+2,advanced,Naive Bayes,513744,1,2
+2,advanced,Naive Bayes,513746,1,1
+2,advanced,Naive Bayes,513755,1,1
+2,advanced,Naive Bayes,513761,1,1
+2,advanced,Naive Bayes,513764,1,1
+2,advanced,Naive Bayes,513767,2,1
+2,advanced,Naive Bayes,513772,2,2
+2,advanced,Naive Bayes,513773,2,2
+2,advanced,Naive Bayes,513774,2,2
+2,advanced,Naive Bayes,513777,1,2
+2,advanced,Naive Bayes,513778,1,1
+2,advanced,Naive Bayes,513780,1,2
+2,advanced,Naive Bayes,513781,1,2
+2,advanced,Naive Bayes,513782,1,1
+2,advanced,Naive Bayes,513783,2,1
+2,advanced,Naive Bayes,513784,2,1
+2,advanced,Naive Bayes,513793,2,2
+2,advanced,Naive Bayes,513805,2,1
+2,advanced,Naive Bayes,513806,2,1
+2,advanced,Naive Bayes,513811,2,2
+2,advanced,Naive Bayes,513813,1,1
+2,advanced,Naive Bayes,513817,1,1
+2,advanced,Naive Bayes,513820,2,2
+2,advanced,Naive Bayes,513825,1,1
+2,advanced,Naive Bayes,513827,1,1
+2,advanced,Naive Bayes,513833,2,2
+2,advanced,Naive Bayes,513842,2,2
+2,advanced,Naive Bayes,513844,2,2
+2,advanced,Naive Bayes,513846,2,1
+2,advanced,Naive Bayes,513853,2,1
+2,advanced,Naive Bayes,513855,2,1
+2,advanced,Naive Bayes,513859,1,2
+2,advanced,Naive Bayes,513861,2,2
+2,advanced,Naive Bayes,513865,2,2
+2,advanced,Naive Bayes,513866,1,1
+2,advanced,Naive Bayes,513882,2,1
+2,advanced,Naive Bayes,513883,2,1
+2,advanced,Naive Bayes,513885,2,2
+2,advanced,Naive Bayes,513888,2,2
+2,advanced,Naive Bayes,513889,2,1
+2,advanced,Naive Bayes,513891,1,1
+2,advanced,Naive Bayes,513892,2,2
+2,advanced,Naive Bayes,513897,1,2
+2,advanced,Naive Bayes,513903,2,2
+2,advanced,Naive Bayes,513905,1,1
+2,advanced,Naive Bayes,513909,2,2
+2,advanced,Naive Bayes,513911,2,2
+2,advanced,Naive Bayes,513913,2,2
+2,advanced,Naive Bayes,513927,1,1
+2,advanced,Naive Bayes,513938,1,1
+2,advanced,Naive Bayes,513940,2,2
+2,advanced,Naive Bayes,513945,2,2
+2,advanced,Naive Bayes,513947,1,2
+2,advanced,Naive Bayes,513949,2,2
+2,advanced,Naive Bayes,513955,1,1
+2,advanced,Naive Bayes,513957,2,2
+2,advanced,Naive Bayes,513958,1,1
+2,advanced,Naive Bayes,513961,2,2
+2,advanced,Naive Bayes,513967,1,1
+2,advanced,Naive Bayes,513970,2,1
+2,advanced,Naive Bayes,513974,2,2
+2,advanced,Naive Bayes,513979,1,2
+2,advanced,Naive Bayes,513991,1,1
+2,advanced,Naive Bayes,513993,1,1
+2,advanced,Naive Bayes,513996,1,1
+2,advanced,Naive Bayes,513998,2,1
+2,advanced,Naive Bayes,513999,1,2
+2,advanced,CART,513000,1,1
+2,advanced,CART,513017,1,2
+2,advanced,CART,513024,1,1
+2,advanced,CART,513025,1,2
+2,advanced,CART,513028,2,1
+2,advanced,CART,513034,2,2
+2,advanced,CART,513039,1,1
+2,advanced,CART,513043,2,1
+2,advanced,CART,513048,2,1
+2,advanced,CART,513049,1,2
+2,advanced,CART,513056,1,1
+2,advanced,CART,513057,2,2
+2,advanced,CART,513073,1,1
+2,advanced,CART,513075,1,1
+2,advanced,CART,513081,1,1
+2,advanced,CART,513092,2,2
+2,advanced,CART,513096,1,1
+2,advanced,CART,513098,1,2
+2,advanced,CART,513101,2,2
+2,advanced,CART,513104,2,1
+2,advanced,CART,513105,2,2
+2,advanced,CART,513113,2,2
+2,advanced,CART,513127,1,1
+2,advanced,CART,513130,1,1
+2,advanced,CART,513131,2,2
+2,advanced,CART,513132,1,2
+2,advanced,CART,513134,1,1
+2,advanced,CART,513138,1,2
+2,advanced,CART,513139,1,1
+2,advanced,CART,513140,2,2
+2,advanced,CART,513141,2,1
+2,advanced,CART,513148,1,1
+2,advanced,CART,513150,1,1
+2,advanced,CART,513153,1,2
+2,advanced,CART,513159,1,1
+2,advanced,CART,513161,2,1
+2,advanced,CART,513162,1,2
+2,advanced,CART,513167,1,2
+2,advanced,CART,513170,2,2
+2,advanced,CART,513174,1,2
+2,advanced,CART,513175,1,1
+2,advanced,CART,513178,2,2
+2,advanced,CART,513182,2,2
+2,advanced,CART,513185,1,1
+2,advanced,CART,513194,1,1
+2,advanced,CART,513202,2,2
+2,advanced,CART,513203,2,2
+2,advanced,CART,513207,1,1
+2,advanced,CART,513208,1,1
+2,advanced,CART,513210,2,2
+2,advanced,CART,513212,1,1
+2,advanced,CART,513213,1,1
+2,advanced,CART,513215,2,1
+2,advanced,CART,513220,1,1
+2,advanced,CART,513221,2,1
+2,advanced,CART,513224,1,1
+2,advanced,CART,513226,1,1
+2,advanced,CART,513228,1,1
+2,advanced,CART,513230,1,2
+2,advanced,CART,513231,2,2
+2,advanced,CART,513234,2,1
+2,advanced,CART,513237,1,2
+2,advanced,CART,513239,2,1
+2,advanced,CART,513242,1,1
+2,advanced,CART,513250,1,2
+2,advanced,CART,513255,1,2
+2,advanced,CART,513258,1,2
+2,advanced,CART,513261,2,2
+2,advanced,CART,513262,1,1
+2,advanced,CART,513269,2,2
+2,advanced,CART,513270,2,2
+2,advanced,CART,513275,1,1
+2,advanced,CART,513284,2,1
+2,advanced,CART,513285,1,1
+2,advanced,CART,513288,1,2
+2,advanced,CART,513289,1,2
+2,advanced,CART,513293,2,1
+2,advanced,CART,513294,1,1
+2,advanced,CART,513297,2,1
+2,advanced,CART,513298,2,1
+2,advanced,CART,513303,1,1
+2,advanced,CART,513306,2,2
+2,advanced,CART,513308,1,2
+2,advanced,CART,513313,1,1
+2,advanced,CART,513314,2,2
+2,advanced,CART,513320,1,2
+2,advanced,CART,513321,1,1
+2,advanced,CART,513332,2,2
+2,advanced,CART,513333,1,1
+2,advanced,CART,513334,1,2
+2,advanced,CART,513335,2,2
+2,advanced,CART,513338,1,1
+2,advanced,CART,513339,2,1
+2,advanced,CART,513341,2,1
+2,advanced,CART,513342,2,2
+2,advanced,CART,513343,2,1
+2,advanced,CART,513348,1,1
+2,advanced,CART,513351,1,1
+2,advanced,CART,513356,2,1
+2,advanced,CART,513358,1,2
+2,advanced,CART,513368,1,2
+2,advanced,CART,513374,2,1
+2,advanced,CART,513376,1,1
+2,advanced,CART,513378,1,2
+2,advanced,CART,513381,2,1
+2,advanced,CART,513382,1,2
+2,advanced,CART,513383,1,2
+2,advanced,CART,513385,1,1
+2,advanced,CART,513402,2,1
+2,advanced,CART,513403,2,1
+2,advanced,CART,513404,2,1
+2,advanced,CART,513407,2,1
+2,advanced,CART,513408,2,2
+2,advanced,CART,513416,2,1
+2,advanced,CART,513417,2,2
+2,advanced,CART,513420,1,1
+2,advanced,CART,513424,1,1
+2,advanced,CART,513431,2,2
+2,advanced,CART,513432,1,1
+2,advanced,CART,513437,1,1
+2,advanced,CART,513438,2,2
+2,advanced,CART,513443,2,1
+2,advanced,CART,513447,1,1
+2,advanced,CART,513448,2,1
+2,advanced,CART,513459,1,1
+2,advanced,CART,513464,1,1
+2,advanced,CART,513465,1,1
+2,advanced,CART,513468,1,1
+2,advanced,CART,513469,1,2
+2,advanced,CART,513470,1,1
+2,advanced,CART,513471,1,1
+2,advanced,CART,513475,1,1
+2,advanced,CART,513484,1,2
+2,advanced,CART,513486,2,2
+2,advanced,CART,513487,1,1
+2,advanced,CART,513490,1,1
+2,advanced,CART,513491,2,2
+2,advanced,CART,513495,2,2
+2,advanced,CART,513502,1,2
+2,advanced,CART,513504,2,1
+2,advanced,CART,513509,2,2
+2,advanced,CART,513521,1,1
+2,advanced,CART,513523,2,1
+2,advanced,CART,513529,2,2
+2,advanced,CART,513530,1,2
+2,advanced,CART,513537,2,2
+2,advanced,CART,513539,1,1
+2,advanced,CART,513541,1,2
+2,advanced,CART,513543,2,1
+2,advanced,CART,513547,2,2
+2,advanced,CART,513554,1,2
+2,advanced,CART,513555,1,1
+2,advanced,CART,513563,2,1
+2,advanced,CART,513571,1,1
+2,advanced,CART,513576,2,2
+2,advanced,CART,513580,2,1
+2,advanced,CART,513581,1,1
+2,advanced,CART,513583,1,1
+2,advanced,CART,513589,1,1
+2,advanced,CART,513590,2,1
+2,advanced,CART,513594,2,2
+2,advanced,CART,513602,1,1
+2,advanced,CART,513606,2,1
+2,advanced,CART,513615,2,2
+2,advanced,CART,513617,1,2
+2,advanced,CART,513618,1,1
+2,advanced,CART,513632,2,2
+2,advanced,CART,513639,1,2
+2,advanced,CART,513663,1,2
+2,advanced,CART,513670,1,1
+2,advanced,CART,513687,2,2
+2,advanced,CART,513696,2,2
+2,advanced,CART,513697,1,2
+2,advanced,CART,513704,1,1
+2,advanced,CART,513719,1,1
+2,advanced,CART,513720,1,2
+2,advanced,CART,513721,1,2
+2,advanced,CART,513723,1,1
+2,advanced,CART,513726,1,1
+2,advanced,CART,513729,1,1
+2,advanced,CART,513731,2,2
+2,advanced,CART,513734,1,1
+2,advanced,CART,513741,1,1
+2,advanced,CART,513744,1,2
+2,advanced,CART,513746,1,1
+2,advanced,CART,513755,1,1
+2,advanced,CART,513761,1,1
+2,advanced,CART,513764,1,1
+2,advanced,CART,513767,2,2
+2,advanced,CART,513772,2,2
+2,advanced,CART,513773,2,2
+2,advanced,CART,513774,2,2
+2,advanced,CART,513777,1,2
+2,advanced,CART,513778,1,1
+2,advanced,CART,513780,1,1
+2,advanced,CART,513781,1,2
+2,advanced,CART,513782,1,1
+2,advanced,CART,513783,2,1
+2,advanced,CART,513784,2,1
+2,advanced,CART,513793,2,2
+2,advanced,CART,513805,2,2
+2,advanced,CART,513806,2,1
+2,advanced,CART,513811,2,2
+2,advanced,CART,513813,1,1
+2,advanced,CART,513817,1,1
+2,advanced,CART,513820,2,2
+2,advanced,CART,513825,1,1
+2,advanced,CART,513827,1,2
+2,advanced,CART,513833,2,1
+2,advanced,CART,513842,2,2
+2,advanced,CART,513844,2,2
+2,advanced,CART,513846,2,1
+2,advanced,CART,513853,2,1
+2,advanced,CART,513855,2,1
+2,advanced,CART,513859,1,1
+2,advanced,CART,513861,2,2
+2,advanced,CART,513865,2,2
+2,advanced,CART,513866,1,1
+2,advanced,CART,513882,2,1
+2,advanced,CART,513883,2,2
+2,advanced,CART,513885,2,2
+2,advanced,CART,513888,2,2
+2,advanced,CART,513889,2,2
+2,advanced,CART,513891,1,1
+2,advanced,CART,513892,2,2
+2,advanced,CART,513897,1,2
+2,advanced,CART,513903,2,2
+2,advanced,CART,513905,1,1
+2,advanced,CART,513909,2,1
+2,advanced,CART,513911,2,2
+2,advanced,CART,513913,2,2
+2,advanced,CART,513927,1,1
+2,advanced,CART,513938,1,1
+2,advanced,CART,513940,2,1
+2,advanced,CART,513945,2,2
+2,advanced,CART,513947,1,1
+2,advanced,CART,513949,2,1
+2,advanced,CART,513955,1,1
+2,advanced,CART,513957,2,2
+2,advanced,CART,513958,1,1
+2,advanced,CART,513961,2,1
+2,advanced,CART,513967,1,1
+2,advanced,CART,513970,2,1
+2,advanced,CART,513974,2,1
+2,advanced,CART,513979,1,2
+2,advanced,CART,513991,1,1
+2,advanced,CART,513993,1,1
+2,advanced,CART,513996,1,1
+2,advanced,CART,513998,2,1
+2,advanced,CART,513999,1,2
+2,advanced,Random Forest,513000,1,1
+2,advanced,Random Forest,513017,1,2
+2,advanced,Random Forest,513024,1,2
+2,advanced,Random Forest,513025,1,1
+2,advanced,Random Forest,513028,2,1
+2,advanced,Random Forest,513034,2,2
+2,advanced,Random Forest,513039,1,1
+2,advanced,Random Forest,513043,2,2
+2,advanced,Random Forest,513048,2,1
+2,advanced,Random Forest,513049,1,2
+2,advanced,Random Forest,513056,1,1
+2,advanced,Random Forest,513057,2,1
+2,advanced,Random Forest,513073,1,2
+2,advanced,Random Forest,513075,1,1
+2,advanced,Random Forest,513081,1,1
+2,advanced,Random Forest,513092,2,1
+2,advanced,Random Forest,513096,1,1
+2,advanced,Random Forest,513098,1,1
+2,advanced,Random Forest,513101,2,2
+2,advanced,Random Forest,513104,2,1
+2,advanced,Random Forest,513105,2,2
+2,advanced,Random Forest,513113,2,2
+2,advanced,Random Forest,513127,1,1
+2,advanced,Random Forest,513130,1,1
+2,advanced,Random Forest,513131,2,2
+2,advanced,Random Forest,513132,1,1
+2,advanced,Random Forest,513134,1,1
+2,advanced,Random Forest,513138,1,2
+2,advanced,Random Forest,513139,1,1
+2,advanced,Random Forest,513140,2,2
+2,advanced,Random Forest,513141,2,2
+2,advanced,Random Forest,513148,1,1
+2,advanced,Random Forest,513150,1,1
+2,advanced,Random Forest,513153,1,1
+2,advanced,Random Forest,513159,1,1
+2,advanced,Random Forest,513161,2,2
+2,advanced,Random Forest,513162,1,1
+2,advanced,Random Forest,513167,1,2
+2,advanced,Random Forest,513170,2,2
+2,advanced,Random Forest,513174,1,2
+2,advanced,Random Forest,513175,1,1
+2,advanced,Random Forest,513178,2,2
+2,advanced,Random Forest,513182,2,2
+2,advanced,Random Forest,513185,1,1
+2,advanced,Random Forest,513194,1,1
+2,advanced,Random Forest,513202,2,2
+2,advanced,Random Forest,513203,2,2
+2,advanced,Random Forest,513207,1,1
+2,advanced,Random Forest,513208,1,1
+2,advanced,Random Forest,513210,2,2
+2,advanced,Random Forest,513212,1,1
+2,advanced,Random Forest,513213,1,1
+2,advanced,Random Forest,513215,2,2
+2,advanced,Random Forest,513220,1,1
+2,advanced,Random Forest,513221,2,1
+2,advanced,Random Forest,513224,1,1
+2,advanced,Random Forest,513226,1,1
+2,advanced,Random Forest,513228,1,1
+2,advanced,Random Forest,513230,1,1
+2,advanced,Random Forest,513231,2,2
+2,advanced,Random Forest,513234,2,1
+2,advanced,Random Forest,513237,1,1
+2,advanced,Random Forest,513239,2,1
+2,advanced,Random Forest,513242,1,1
+2,advanced,Random Forest,513250,1,2
+2,advanced,Random Forest,513255,1,1
+2,advanced,Random Forest,513258,1,2
+2,advanced,Random Forest,513261,2,2
+2,advanced,Random Forest,513262,1,1
+2,advanced,Random Forest,513269,2,2
+2,advanced,Random Forest,513270,2,2
+2,advanced,Random Forest,513275,1,1
+2,advanced,Random Forest,513284,2,1
+2,advanced,Random Forest,513285,1,1
+2,advanced,Random Forest,513288,1,1
+2,advanced,Random Forest,513289,1,2
+2,advanced,Random Forest,513293,2,2
+2,advanced,Random Forest,513294,1,1
+2,advanced,Random Forest,513297,2,1
+2,advanced,Random Forest,513298,2,1
+2,advanced,Random Forest,513303,1,1
+2,advanced,Random Forest,513306,2,2
+2,advanced,Random Forest,513308,1,1
+2,advanced,Random Forest,513313,1,1
+2,advanced,Random Forest,513314,2,2
+2,advanced,Random Forest,513320,1,2
+2,advanced,Random Forest,513321,1,1
+2,advanced,Random Forest,513332,2,2
+2,advanced,Random Forest,513333,1,1
+2,advanced,Random Forest,513334,1,1
+2,advanced,Random Forest,513335,2,1
+2,advanced,Random Forest,513338,1,2
+2,advanced,Random Forest,513339,2,1
+2,advanced,Random Forest,513341,2,1
+2,advanced,Random Forest,513342,2,2
+2,advanced,Random Forest,513343,2,1
+2,advanced,Random Forest,513348,1,1
+2,advanced,Random Forest,513351,1,1
+2,advanced,Random Forest,513356,2,2
+2,advanced,Random Forest,513358,1,1
+2,advanced,Random Forest,513368,1,2
+2,advanced,Random Forest,513374,2,1
+2,advanced,Random Forest,513376,1,1
+2,advanced,Random Forest,513378,1,2
+2,advanced,Random Forest,513381,2,1
+2,advanced,Random Forest,513382,1,2
+2,advanced,Random Forest,513383,1,1
+2,advanced,Random Forest,513385,1,2
+2,advanced,Random Forest,513402,2,2
+2,advanced,Random Forest,513403,2,1
+2,advanced,Random Forest,513404,2,2
+2,advanced,Random Forest,513407,2,2
+2,advanced,Random Forest,513408,2,2
+2,advanced,Random Forest,513416,2,2
+2,advanced,Random Forest,513417,2,2
+2,advanced,Random Forest,513420,1,1
+2,advanced,Random Forest,513424,1,1
+2,advanced,Random Forest,513431,2,1
+2,advanced,Random Forest,513432,1,1
+2,advanced,Random Forest,513437,1,1
+2,advanced,Random Forest,513438,2,2
+2,advanced,Random Forest,513443,2,1
+2,advanced,Random Forest,513447,1,1
+2,advanced,Random Forest,513448,2,2
+2,advanced,Random Forest,513459,1,2
+2,advanced,Random Forest,513464,1,1
+2,advanced,Random Forest,513465,1,1
+2,advanced,Random Forest,513468,1,1
+2,advanced,Random Forest,513469,1,2
+2,advanced,Random Forest,513470,1,1
+2,advanced,Random Forest,513471,1,2
+2,advanced,Random Forest,513475,1,1
+2,advanced,Random Forest,513484,1,2
+2,advanced,Random Forest,513486,2,2
+2,advanced,Random Forest,513487,1,2
+2,advanced,Random Forest,513490,1,1
+2,advanced,Random Forest,513491,2,2
+2,advanced,Random Forest,513495,2,2
+2,advanced,Random Forest,513502,1,2
+2,advanced,Random Forest,513504,2,1
+2,advanced,Random Forest,513509,2,2
+2,advanced,Random Forest,513521,1,1
+2,advanced,Random Forest,513523,2,1
+2,advanced,Random Forest,513529,2,2
+2,advanced,Random Forest,513530,1,2
+2,advanced,Random Forest,513537,2,2
+2,advanced,Random Forest,513539,1,1
+2,advanced,Random Forest,513541,1,2
+2,advanced,Random Forest,513543,2,2
+2,advanced,Random Forest,513547,2,2
+2,advanced,Random Forest,513554,1,1
+2,advanced,Random Forest,513555,1,1
+2,advanced,Random Forest,513563,2,1
+2,advanced,Random Forest,513571,1,2
+2,advanced,Random Forest,513576,2,2
+2,advanced,Random Forest,513580,2,1
+2,advanced,Random Forest,513581,1,1
+2,advanced,Random Forest,513583,1,1
+2,advanced,Random Forest,513589,1,1
+2,advanced,Random Forest,513590,2,1
+2,advanced,Random Forest,513594,2,2
+2,advanced,Random Forest,513602,1,1
+2,advanced,Random Forest,513606,2,2
+2,advanced,Random Forest,513615,2,2
+2,advanced,Random Forest,513617,1,1
+2,advanced,Random Forest,513618,1,1
+2,advanced,Random Forest,513632,2,2
+2,advanced,Random Forest,513639,1,1
+2,advanced,Random Forest,513663,1,2
+2,advanced,Random Forest,513670,1,1
+2,advanced,Random Forest,513687,2,2
+2,advanced,Random Forest,513696,2,2
+2,advanced,Random Forest,513697,1,1
+2,advanced,Random Forest,513704,1,1
+2,advanced,Random Forest,513719,1,1
+2,advanced,Random Forest,513720,1,1
+2,advanced,Random Forest,513721,1,1
+2,advanced,Random Forest,513723,1,1
+2,advanced,Random Forest,513726,1,1
+2,advanced,Random Forest,513729,1,1
+2,advanced,Random Forest,513731,2,2
+2,advanced,Random Forest,513734,1,1
+2,advanced,Random Forest,513741,1,1
+2,advanced,Random Forest,513744,1,2
+2,advanced,Random Forest,513746,1,1
+2,advanced,Random Forest,513755,1,1
+2,advanced,Random Forest,513761,1,1
+2,advanced,Random Forest,513764,1,2
+2,advanced,Random Forest,513767,2,1
+2,advanced,Random Forest,513772,2,2
+2,advanced,Random Forest,513773,2,2
+2,advanced,Random Forest,513774,2,2
+2,advanced,Random Forest,513777,1,1
+2,advanced,Random Forest,513778,1,1
+2,advanced,Random Forest,513780,1,2
+2,advanced,Random Forest,513781,1,2
+2,advanced,Random Forest,513782,1,1
+2,advanced,Random Forest,513783,2,2
+2,advanced,Random Forest,513784,2,1
+2,advanced,Random Forest,513793,2,2
+2,advanced,Random Forest,513805,2,1
+2,advanced,Random Forest,513806,2,1
+2,advanced,Random Forest,513811,2,2
+2,advanced,Random Forest,513813,1,1
+2,advanced,Random Forest,513817,1,1
+2,advanced,Random Forest,513820,2,2
+2,advanced,Random Forest,513825,1,1
+2,advanced,Random Forest,513827,1,1
+2,advanced,Random Forest,513833,2,2
+2,advanced,Random Forest,513842,2,2
+2,advanced,Random Forest,513844,2,2
+2,advanced,Random Forest,513846,2,1
+2,advanced,Random Forest,513853,2,1
+2,advanced,Random Forest,513855,2,1
+2,advanced,Random Forest,513859,1,2
+2,advanced,Random Forest,513861,2,2
+2,advanced,Random Forest,513865,2,2
+2,advanced,Random Forest,513866,1,1
+2,advanced,Random Forest,513882,2,1
+2,advanced,Random Forest,513883,2,1
+2,advanced,Random Forest,513885,2,2
+2,advanced,Random Forest,513888,2,1
+2,advanced,Random Forest,513889,2,1
+2,advanced,Random Forest,513891,1,1
+2,advanced,Random Forest,513892,2,2
+2,advanced,Random Forest,513897,1,2
+2,advanced,Random Forest,513903,2,2
+2,advanced,Random Forest,513905,1,2
+2,advanced,Random Forest,513909,2,1
+2,advanced,Random Forest,513911,2,2
+2,advanced,Random Forest,513913,2,2
+2,advanced,Random Forest,513927,1,1
+2,advanced,Random Forest,513938,1,1
+2,advanced,Random Forest,513940,2,2
+2,advanced,Random Forest,513945,2,2
+2,advanced,Random Forest,513947,1,2
+2,advanced,Random Forest,513949,2,1
+2,advanced,Random Forest,513955,1,1
+2,advanced,Random Forest,513957,2,2
+2,advanced,Random Forest,513958,1,1
+2,advanced,Random Forest,513961,2,1
+2,advanced,Random Forest,513967,1,1
+2,advanced,Random Forest,513970,2,1
+2,advanced,Random Forest,513974,2,1
+2,advanced,Random Forest,513979,1,2
+2,advanced,Random Forest,513991,1,1
+2,advanced,Random Forest,513993,1,1
+2,advanced,Random Forest,513996,1,1
+2,advanced,Random Forest,513998,2,2
+2,advanced,Random Forest,513999,1,2
+2,advanced,ANN,513000,1,1
+2,advanced,ANN,513017,1,2
+2,advanced,ANN,513024,1,2
+2,advanced,ANN,513025,1,1
+2,advanced,ANN,513028,2,1
+2,advanced,ANN,513034,2,2
+2,advanced,ANN,513039,1,1
+2,advanced,ANN,513043,2,2
+2,advanced,ANN,513048,2,1
+2,advanced,ANN,513049,1,2
+2,advanced,ANN,513056,1,1
+2,advanced,ANN,513057,2,2
+2,advanced,ANN,513073,1,1
+2,advanced,ANN,513075,1,1
+2,advanced,ANN,513081,1,2
+2,advanced,ANN,513092,2,1
+2,advanced,ANN,513096,1,1
+2,advanced,ANN,513098,1,1
+2,advanced,ANN,513101,2,2
+2,advanced,ANN,513104,2,2
+2,advanced,ANN,513105,2,1
+2,advanced,ANN,513113,2,2
+2,advanced,ANN,513127,1,1
+2,advanced,ANN,513130,1,1
+2,advanced,ANN,513131,2,2
+2,advanced,ANN,513132,1,1
+2,advanced,ANN,513134,1,1
+2,advanced,ANN,513138,1,1
+2,advanced,ANN,513139,1,1
+2,advanced,ANN,513140,2,2
+2,advanced,ANN,513141,2,2
+2,advanced,ANN,513148,1,1
+2,advanced,ANN,513150,1,1
+2,advanced,ANN,513153,1,1
+2,advanced,ANN,513159,1,1
+2,advanced,ANN,513161,2,2
+2,advanced,ANN,513162,1,2
+2,advanced,ANN,513167,1,2
+2,advanced,ANN,513170,2,2
+2,advanced,ANN,513174,1,1
+2,advanced,ANN,513175,1,1
+2,advanced,ANN,513178,2,2
+2,advanced,ANN,513182,2,2
+2,advanced,ANN,513185,1,1
+2,advanced,ANN,513194,1,1
+2,advanced,ANN,513202,2,2
+2,advanced,ANN,513203,2,2
+2,advanced,ANN,513207,1,1
+2,advanced,ANN,513208,1,1
+2,advanced,ANN,513210,2,2
+2,advanced,ANN,513212,1,1
+2,advanced,ANN,513213,1,1
+2,advanced,ANN,513215,2,1
+2,advanced,ANN,513220,1,1
+2,advanced,ANN,513221,2,1
+2,advanced,ANN,513224,1,1
+2,advanced,ANN,513226,1,1
+2,advanced,ANN,513228,1,1
+2,advanced,ANN,513230,1,1
+2,advanced,ANN,513231,2,2
+2,advanced,ANN,513234,2,1
+2,advanced,ANN,513237,1,1
+2,advanced,ANN,513239,2,1
+2,advanced,ANN,513242,1,1
+2,advanced,ANN,513250,1,2
+2,advanced,ANN,513255,1,1
+2,advanced,ANN,513258,1,2
+2,advanced,ANN,513261,2,2
+2,advanced,ANN,513262,1,1
+2,advanced,ANN,513269,2,2
+2,advanced,ANN,513270,2,2
+2,advanced,ANN,513275,1,1
+2,advanced,ANN,513284,2,1
+2,advanced,ANN,513285,1,1
+2,advanced,ANN,513288,1,1
+2,advanced,ANN,513289,1,2
+2,advanced,ANN,513293,2,2
+2,advanced,ANN,513294,1,1
+2,advanced,ANN,513297,2,2
+2,advanced,ANN,513298,2,1
+2,advanced,ANN,513303,1,1
+2,advanced,ANN,513306,2,2
+2,advanced,ANN,513308,1,2
+2,advanced,ANN,513313,1,1
+2,advanced,ANN,513314,2,2
+2,advanced,ANN,513320,1,2
+2,advanced,ANN,513321,1,1
+2,advanced,ANN,513332,2,2
+2,advanced,ANN,513333,1,1
+2,advanced,ANN,513334,1,2
+2,advanced,ANN,513335,2,1
+2,advanced,ANN,513338,1,2
+2,advanced,ANN,513339,2,1
+2,advanced,ANN,513341,2,1
+2,advanced,ANN,513342,2,2
+2,advanced,ANN,513343,2,1
+2,advanced,ANN,513348,1,2
+2,advanced,ANN,513351,1,2
+2,advanced,ANN,513356,2,2
+2,advanced,ANN,513358,1,1
+2,advanced,ANN,513368,1,2
+2,advanced,ANN,513374,2,2
+2,advanced,ANN,513376,1,1
+2,advanced,ANN,513378,1,2
+2,advanced,ANN,513381,2,1
+2,advanced,ANN,513382,1,2
+2,advanced,ANN,513383,1,1
+2,advanced,ANN,513385,1,1
+2,advanced,ANN,513402,2,2
+2,advanced,ANN,513403,2,1
+2,advanced,ANN,513404,2,2
+2,advanced,ANN,513407,2,2
+2,advanced,ANN,513408,2,2
+2,advanced,ANN,513416,2,2
+2,advanced,ANN,513417,2,2
+2,advanced,ANN,513420,1,1
+2,advanced,ANN,513424,1,1
+2,advanced,ANN,513431,2,1
+2,advanced,ANN,513432,1,1
+2,advanced,ANN,513437,1,1
+2,advanced,ANN,513438,2,2
+2,advanced,ANN,513443,2,1
+2,advanced,ANN,513447,1,1
+2,advanced,ANN,513448,2,1
+2,advanced,ANN,513459,1,2
+2,advanced,ANN,513464,1,1
+2,advanced,ANN,513465,1,1
+2,advanced,ANN,513468,1,1
+2,advanced,ANN,513469,1,2
+2,advanced,ANN,513470,1,1
+2,advanced,ANN,513471,1,2
+2,advanced,ANN,513475,1,1
+2,advanced,ANN,513484,1,2
+2,advanced,ANN,513486,2,1
+2,advanced,ANN,513487,1,2
+2,advanced,ANN,513490,1,1
+2,advanced,ANN,513491,2,2
+2,advanced,ANN,513495,2,1
+2,advanced,ANN,513502,1,1
+2,advanced,ANN,513504,2,1
+2,advanced,ANN,513509,2,2
+2,advanced,ANN,513521,1,1
+2,advanced,ANN,513523,2,1
+2,advanced,ANN,513529,2,2
+2,advanced,ANN,513530,1,2
+2,advanced,ANN,513537,2,2
+2,advanced,ANN,513539,1,1
+2,advanced,ANN,513541,1,2
+2,advanced,ANN,513543,2,1
+2,advanced,ANN,513547,2,2
+2,advanced,ANN,513554,1,1
+2,advanced,ANN,513555,1,1
+2,advanced,ANN,513563,2,1
+2,advanced,ANN,513571,1,1
+2,advanced,ANN,513576,2,2
+2,advanced,ANN,513580,2,1
+2,advanced,ANN,513581,1,1
+2,advanced,ANN,513583,1,1
+2,advanced,ANN,513589,1,1
+2,advanced,ANN,513590,2,1
+2,advanced,ANN,513594,2,2
+2,advanced,ANN,513602,1,1
+2,advanced,ANN,513606,2,1
+2,advanced,ANN,513615,2,2
+2,advanced,ANN,513617,1,1
+2,advanced,ANN,513618,1,2
+2,advanced,ANN,513632,2,2
+2,advanced,ANN,513639,1,1
+2,advanced,ANN,513663,1,1
+2,advanced,ANN,513670,1,1
+2,advanced,ANN,513687,2,2
+2,advanced,ANN,513696,2,2
+2,advanced,ANN,513697,1,1
+2,advanced,ANN,513704,1,1
+2,advanced,ANN,513719,1,1
+2,advanced,ANN,513720,1,2
+2,advanced,ANN,513721,1,1
+2,advanced,ANN,513723,1,1
+2,advanced,ANN,513726,1,1
+2,advanced,ANN,513729,1,1
+2,advanced,ANN,513731,2,2
+2,advanced,ANN,513734,1,1
+2,advanced,ANN,513741,1,1
+2,advanced,ANN,513744,1,2
+2,advanced,ANN,513746,1,1
+2,advanced,ANN,513755,1,1
+2,advanced,ANN,513761,1,1
+2,advanced,ANN,513764,1,1
+2,advanced,ANN,513767,2,1
+2,advanced,ANN,513772,2,1
+2,advanced,ANN,513773,2,2
+2,advanced,ANN,513774,2,2
+2,advanced,ANN,513777,1,2
+2,advanced,ANN,513778,1,1
+2,advanced,ANN,513780,1,2
+2,advanced,ANN,513781,1,2
+2,advanced,ANN,513782,1,1
+2,advanced,ANN,513783,2,2
+2,advanced,ANN,513784,2,2
+2,advanced,ANN,513793,2,2
+2,advanced,ANN,513805,2,1
+2,advanced,ANN,513806,2,1
+2,advanced,ANN,513811,2,2
+2,advanced,ANN,513813,1,1
+2,advanced,ANN,513817,1,1
+2,advanced,ANN,513820,2,2
+2,advanced,ANN,513825,1,1
+2,advanced,ANN,513827,1,2
+2,advanced,ANN,513833,2,2
+2,advanced,ANN,513842,2,2
+2,advanced,ANN,513844,2,2
+2,advanced,ANN,513846,2,1
+2,advanced,ANN,513853,2,1
+2,advanced,ANN,513855,2,1
+2,advanced,ANN,513859,1,2
+2,advanced,ANN,513861,2,2
+2,advanced,ANN,513865,2,2
+2,advanced,ANN,513866,1,1
+2,advanced,ANN,513882,2,1
+2,advanced,ANN,513883,2,2
+2,advanced,ANN,513885,2,2
+2,advanced,ANN,513888,2,1
+2,advanced,ANN,513889,2,1
+2,advanced,ANN,513891,1,1
+2,advanced,ANN,513892,2,2
+2,advanced,ANN,513897,1,2
+2,advanced,ANN,513903,2,2
+2,advanced,ANN,513905,1,2
+2,advanced,ANN,513909,2,1
+2,advanced,ANN,513911,2,1
+2,advanced,ANN,513913,2,2
+2,advanced,ANN,513927,1,1
+2,advanced,ANN,513938,1,1
+2,advanced,ANN,513940,2,2
+2,advanced,ANN,513945,2,2
+2,advanced,ANN,513947,1,2
+2,advanced,ANN,513949,2,2
+2,advanced,ANN,513955,1,1
+2,advanced,ANN,513957,2,2
+2,advanced,ANN,513958,1,1
+2,advanced,ANN,513961,2,2
+2,advanced,ANN,513967,1,1
+2,advanced,ANN,513970,2,1
+2,advanced,ANN,513974,2,2
+2,advanced,ANN,513979,1,2
+2,advanced,ANN,513991,1,1
+2,advanced,ANN,513993,1,1
+2,advanced,ANN,513996,1,1
+2,advanced,ANN,513998,2,2
+2,advanced,ANN,513999,1,2
+4,basic,Seat baseline,513000,2,4
+4,basic,Seat baseline,513017,3,4
+4,basic,Seat baseline,513024,1,4
+4,basic,Seat baseline,513025,3,4
+4,basic,Seat baseline,513028,1,4
+4,basic,Seat baseline,513034,4,4
+4,basic,Seat baseline,513039,4,4
+4,basic,Seat baseline,513043,4,4
+4,basic,Seat baseline,513048,1,4
+4,basic,Seat baseline,513049,4,4
+4,basic,Seat baseline,513056,3,4
+4,basic,Seat baseline,513057,3,4
+4,basic,Seat baseline,513073,1,4
+4,basic,Seat baseline,513075,4,4
+4,basic,Seat baseline,513081,2,4
+4,basic,Seat baseline,513092,4,4
+4,basic,Seat baseline,513096,3,4
+4,basic,Seat baseline,513098,4,4
+4,basic,Seat baseline,513101,1,4
+4,basic,Seat baseline,513104,3,4
+4,basic,Seat baseline,513105,3,4
+4,basic,Seat baseline,513113,2,4
+4,basic,Seat baseline,513127,1,4
+4,basic,Seat baseline,513130,2,4
+4,basic,Seat baseline,513131,4,4
+4,basic,Seat baseline,513132,2,4
+4,basic,Seat baseline,513134,1,4
+4,basic,Seat baseline,513138,4,4
+4,basic,Seat baseline,513139,3,4
+4,basic,Seat baseline,513140,2,4
+4,basic,Seat baseline,513141,1,4
+4,basic,Seat baseline,513148,2,4
+4,basic,Seat baseline,513150,1,4
+4,basic,Seat baseline,513153,2,4
+4,basic,Seat baseline,513159,4,4
+4,basic,Seat baseline,513161,1,4
+4,basic,Seat baseline,513162,4,4
+4,basic,Seat baseline,513167,4,4
+4,basic,Seat baseline,513170,2,4
+4,basic,Seat baseline,513174,2,4
+4,basic,Seat baseline,513175,2,4
+4,basic,Seat baseline,513178,3,4
+4,basic,Seat baseline,513182,4,4
+4,basic,Seat baseline,513185,2,4
+4,basic,Seat baseline,513194,3,4
+4,basic,Seat baseline,513202,2,4
+4,basic,Seat baseline,513203,1,4
+4,basic,Seat baseline,513207,4,4
+4,basic,Seat baseline,513208,1,4
+4,basic,Seat baseline,513210,3,4
+4,basic,Seat baseline,513212,4,4
+4,basic,Seat baseline,513213,3,4
+4,basic,Seat baseline,513215,3,4
+4,basic,Seat baseline,513220,3,4
+4,basic,Seat baseline,513221,2,4
+4,basic,Seat baseline,513224,3,4
+4,basic,Seat baseline,513226,1,4
+4,basic,Seat baseline,513228,3,4
+4,basic,Seat baseline,513230,3,4
+4,basic,Seat baseline,513231,2,4
+4,basic,Seat baseline,513234,2,4
+4,basic,Seat baseline,513237,3,4
+4,basic,Seat baseline,513239,4,4
+4,basic,Seat baseline,513242,4,4
+4,basic,Seat baseline,513250,4,4
+4,basic,Seat baseline,513255,4,4
+4,basic,Seat baseline,513258,4,4
+4,basic,Seat baseline,513261,2,4
+4,basic,Seat baseline,513262,4,4
+4,basic,Seat baseline,513269,1,4
+4,basic,Seat baseline,513270,4,4
+4,basic,Seat baseline,513275,2,4
+4,basic,Seat baseline,513284,4,4
+4,basic,Seat baseline,513285,1,4
+4,basic,Seat baseline,513288,1,4
+4,basic,Seat baseline,513289,3,4
+4,basic,Seat baseline,513293,4,4
+4,basic,Seat baseline,513294,1,4
+4,basic,Seat baseline,513297,2,4
+4,basic,Seat baseline,513298,1,4
+4,basic,Seat baseline,513303,3,4
+4,basic,Seat baseline,513306,3,4
+4,basic,Seat baseline,513308,4,4
+4,basic,Seat baseline,513313,4,4
+4,basic,Seat baseline,513314,2,4
+4,basic,Seat baseline,513320,4,4
+4,basic,Seat baseline,513321,1,4
+4,basic,Seat baseline,513332,3,4
+4,basic,Seat baseline,513333,4,4
+4,basic,Seat baseline,513334,2,4
+4,basic,Seat baseline,513335,1,4
+4,basic,Seat baseline,513338,1,4
+4,basic,Seat baseline,513339,1,4
+4,basic,Seat baseline,513341,4,4
+4,basic,Seat baseline,513342,1,4
+4,basic,Seat baseline,513343,2,4
+4,basic,Seat baseline,513348,3,4
+4,basic,Seat baseline,513351,3,4
+4,basic,Seat baseline,513356,3,4
+4,basic,Seat baseline,513358,3,4
+4,basic,Seat baseline,513368,4,4
+4,basic,Seat baseline,513374,4,4
+4,basic,Seat baseline,513376,4,4
+4,basic,Seat baseline,513378,3,4
+4,basic,Seat baseline,513381,4,4
+4,basic,Seat baseline,513382,3,4
+4,basic,Seat baseline,513383,4,4
+4,basic,Seat baseline,513385,2,4
+4,basic,Seat baseline,513402,3,4
+4,basic,Seat baseline,513403,1,4
+4,basic,Seat baseline,513404,4,4
+4,basic,Seat baseline,513407,3,4
+4,basic,Seat baseline,513408,1,4
+4,basic,Seat baseline,513416,1,4
+4,basic,Seat baseline,513417,1,4
+4,basic,Seat baseline,513420,2,4
+4,basic,Seat baseline,513424,4,4
+4,basic,Seat baseline,513431,2,4
+4,basic,Seat baseline,513432,2,4
+4,basic,Seat baseline,513437,3,4
+4,basic,Seat baseline,513438,3,4
+4,basic,Seat baseline,513443,2,4
+4,basic,Seat baseline,513447,2,4
+4,basic,Seat baseline,513448,3,4
+4,basic,Seat baseline,513459,3,4
+4,basic,Seat baseline,513464,2,4
+4,basic,Seat baseline,513465,1,4
+4,basic,Seat baseline,513468,3,4
+4,basic,Seat baseline,513469,2,4
+4,basic,Seat baseline,513470,1,4
+4,basic,Seat baseline,513471,2,4
+4,basic,Seat baseline,513475,1,4
+4,basic,Seat baseline,513484,1,4
+4,basic,Seat baseline,513486,3,4
+4,basic,Seat baseline,513487,3,4
+4,basic,Seat baseline,513490,1,4
+4,basic,Seat baseline,513491,1,4
+4,basic,Seat baseline,513495,3,4
+4,basic,Seat baseline,513502,4,4
+4,basic,Seat baseline,513504,4,4
+4,basic,Seat baseline,513509,4,4
+4,basic,Seat baseline,513521,1,4
+4,basic,Seat baseline,513523,2,4
+4,basic,Seat baseline,513529,2,4
+4,basic,Seat baseline,513530,3,4
+4,basic,Seat baseline,513537,2,4
+4,basic,Seat baseline,513539,3,4
+4,basic,Seat baseline,513541,3,4
+4,basic,Seat baseline,513543,3,4
+4,basic,Seat baseline,513547,2,4
+4,basic,Seat baseline,513554,1,4
+4,basic,Seat baseline,513555,2,4
+4,basic,Seat baseline,513563,3,4
+4,basic,Seat baseline,513571,3,4
+4,basic,Seat baseline,513576,4,4
+4,basic,Seat baseline,513580,1,4
+4,basic,Seat baseline,513581,4,4
+4,basic,Seat baseline,513583,3,4
+4,basic,Seat baseline,513589,1,4
+4,basic,Seat baseline,513590,3,4
+4,basic,Seat baseline,513594,2,4
+4,basic,Seat baseline,513602,1,4
+4,basic,Seat baseline,513606,2,4
+4,basic,Seat baseline,513615,4,4
+4,basic,Seat baseline,513617,4,4
+4,basic,Seat baseline,513618,4,4
+4,basic,Seat baseline,513632,4,4
+4,basic,Seat baseline,513639,1,4
+4,basic,Seat baseline,513663,1,4
+4,basic,Seat baseline,513670,4,4
+4,basic,Seat baseline,513687,1,4
+4,basic,Seat baseline,513696,3,4
+4,basic,Seat baseline,513697,1,4
+4,basic,Seat baseline,513704,2,4
+4,basic,Seat baseline,513719,3,4
+4,basic,Seat baseline,513720,1,4
+4,basic,Seat baseline,513721,1,4
+4,basic,Seat baseline,513723,4,4
+4,basic,Seat baseline,513726,2,4
+4,basic,Seat baseline,513729,1,4
+4,basic,Seat baseline,513731,3,4
+4,basic,Seat baseline,513734,1,4
+4,basic,Seat baseline,513741,4,4
+4,basic,Seat baseline,513744,4,4
+4,basic,Seat baseline,513746,4,4
+4,basic,Seat baseline,513755,1,4
+4,basic,Seat baseline,513761,4,4
+4,basic,Seat baseline,513764,2,4
+4,basic,Seat baseline,513767,1,4
+4,basic,Seat baseline,513772,1,4
+4,basic,Seat baseline,513773,2,4
+4,basic,Seat baseline,513774,1,4
+4,basic,Seat baseline,513777,3,4
+4,basic,Seat baseline,513778,2,4
+4,basic,Seat baseline,513780,1,4
+4,basic,Seat baseline,513781,4,4
+4,basic,Seat baseline,513782,2,4
+4,basic,Seat baseline,513783,4,4
+4,basic,Seat baseline,513784,2,4
+4,basic,Seat baseline,513793,3,4
+4,basic,Seat baseline,513805,4,4
+4,basic,Seat baseline,513806,1,4
+4,basic,Seat baseline,513811,1,4
+4,basic,Seat baseline,513813,3,4
+4,basic,Seat baseline,513817,4,4
+4,basic,Seat baseline,513820,4,4
+4,basic,Seat baseline,513825,2,4
+4,basic,Seat baseline,513827,1,4
+4,basic,Seat baseline,513833,1,4
+4,basic,Seat baseline,513842,3,4
+4,basic,Seat baseline,513844,2,4
+4,basic,Seat baseline,513846,1,4
+4,basic,Seat baseline,513853,3,4
+4,basic,Seat baseline,513855,4,4
+4,basic,Seat baseline,513859,2,4
+4,basic,Seat baseline,513861,1,4
+4,basic,Seat baseline,513865,3,4
+4,basic,Seat baseline,513866,3,4
+4,basic,Seat baseline,513882,3,4
+4,basic,Seat baseline,513883,4,4
+4,basic,Seat baseline,513885,4,4
+4,basic,Seat baseline,513888,3,4
+4,basic,Seat baseline,513889,4,4
+4,basic,Seat baseline,513891,4,4
+4,basic,Seat baseline,513892,2,4
+4,basic,Seat baseline,513897,3,4
+4,basic,Seat baseline,513903,3,4
+4,basic,Seat baseline,513905,4,4
+4,basic,Seat baseline,513909,4,4
+4,basic,Seat baseline,513911,4,4
+4,basic,Seat baseline,513913,2,4
+4,basic,Seat baseline,513927,1,4
+4,basic,Seat baseline,513938,1,4
+4,basic,Seat baseline,513940,1,4
+4,basic,Seat baseline,513945,4,4
+4,basic,Seat baseline,513947,4,4
+4,basic,Seat baseline,513949,1,4
+4,basic,Seat baseline,513955,1,4
+4,basic,Seat baseline,513957,4,4
+4,basic,Seat baseline,513958,1,4
+4,basic,Seat baseline,513961,2,4
+4,basic,Seat baseline,513967,2,4
+4,basic,Seat baseline,513970,3,4
+4,basic,Seat baseline,513974,2,4
+4,basic,Seat baseline,513979,3,4
+4,basic,Seat baseline,513991,4,4
+4,basic,Seat baseline,513993,1,4
+4,basic,Seat baseline,513996,1,4
+4,basic,Seat baseline,513998,2,4
+4,basic,Seat baseline,513999,3,4
+4,basic,KNN,513000,2,1
+4,basic,KNN,513017,3,4
+4,basic,KNN,513024,1,1
+4,basic,KNN,513025,3,1
+4,basic,KNN,513028,1,2
+4,basic,KNN,513034,4,3
+4,basic,KNN,513039,4,1
+4,basic,KNN,513043,4,4
+4,basic,KNN,513048,1,1
+4,basic,KNN,513049,4,4
+4,basic,KNN,513056,3,3
+4,basic,KNN,513057,3,3
+4,basic,KNN,513073,1,3
+4,basic,KNN,513075,4,4
+4,basic,KNN,513081,2,2
+4,basic,KNN,513092,4,4
+4,basic,KNN,513096,3,2
+4,basic,KNN,513098,4,4
+4,basic,KNN,513101,1,2
+4,basic,KNN,513104,3,3
+4,basic,KNN,513105,3,3
+4,basic,KNN,513113,2,2
+4,basic,KNN,513127,1,1
+4,basic,KNN,513130,2,1
+4,basic,KNN,513131,4,3
+4,basic,KNN,513132,2,2
+4,basic,KNN,513134,1,4
+4,basic,KNN,513138,4,4
+4,basic,KNN,513139,3,4
+4,basic,KNN,513140,2,4
+4,basic,KNN,513141,1,1
+4,basic,KNN,513148,2,4
+4,basic,KNN,513150,1,1
+4,basic,KNN,513153,2,1
+4,basic,KNN,513159,4,4
+4,basic,KNN,513161,1,1
+4,basic,KNN,513162,4,4
+4,basic,KNN,513167,4,4
+4,basic,KNN,513170,2,1
+4,basic,KNN,513174,2,1
+4,basic,KNN,513175,2,1
+4,basic,KNN,513178,3,3
+4,basic,KNN,513182,4,4
+4,basic,KNN,513185,2,3
+4,basic,KNN,513194,3,3
+4,basic,KNN,513202,2,3
+4,basic,KNN,513203,1,2
+4,basic,KNN,513207,4,3
+4,basic,KNN,513208,1,1
+4,basic,KNN,513210,3,2
+4,basic,KNN,513212,4,1
+4,basic,KNN,513213,3,3
+4,basic,KNN,513215,3,3
+4,basic,KNN,513220,3,1
+4,basic,KNN,513221,2,4
+4,basic,KNN,513224,3,1
+4,basic,KNN,513226,1,1
+4,basic,KNN,513228,3,3
+4,basic,KNN,513230,3,3
+4,basic,KNN,513231,2,3
+4,basic,KNN,513234,2,3
+4,basic,KNN,513237,3,3
+4,basic,KNN,513239,4,3
+4,basic,KNN,513242,4,2
+4,basic,KNN,513250,4,2
+4,basic,KNN,513255,4,4
+4,basic,KNN,513258,4,4
+4,basic,KNN,513261,2,4
+4,basic,KNN,513262,4,4
+4,basic,KNN,513269,1,4
+4,basic,KNN,513270,4,4
+4,basic,KNN,513275,2,2
+4,basic,KNN,513284,4,4
+4,basic,KNN,513285,1,3
+4,basic,KNN,513288,1,1
+4,basic,KNN,513289,3,3
+4,basic,KNN,513293,4,4
+4,basic,KNN,513294,1,1
+4,basic,KNN,513297,2,4
+4,basic,KNN,513298,1,3
+4,basic,KNN,513303,3,1
+4,basic,KNN,513306,3,3
+4,basic,KNN,513308,4,2
+4,basic,KNN,513313,4,4
+4,basic,KNN,513314,2,4
+4,basic,KNN,513320,4,1
+4,basic,KNN,513321,1,2
+4,basic,KNN,513332,3,4
+4,basic,KNN,513333,4,4
+4,basic,KNN,513334,2,3
+4,basic,KNN,513335,1,1
+4,basic,KNN,513338,1,3
+4,basic,KNN,513339,1,3
+4,basic,KNN,513341,4,4
+4,basic,KNN,513342,1,3
+4,basic,KNN,513343,2,4
+4,basic,KNN,513348,3,3
+4,basic,KNN,513351,3,3
+4,basic,KNN,513356,3,3
+4,basic,KNN,513358,3,1
+4,basic,KNN,513368,4,4
+4,basic,KNN,513374,4,2
+4,basic,KNN,513376,4,1
+4,basic,KNN,513378,3,3
+4,basic,KNN,513381,4,3
+4,basic,KNN,513382,3,1
+4,basic,KNN,513383,4,3
+4,basic,KNN,513385,2,2
+4,basic,KNN,513402,3,4
+4,basic,KNN,513403,1,1
+4,basic,KNN,513404,4,3
+4,basic,KNN,513407,3,3
+4,basic,KNN,513408,1,3
+4,basic,KNN,513416,1,4
+4,basic,KNN,513417,1,2
+4,basic,KNN,513420,2,4
+4,basic,KNN,513424,4,4
+4,basic,KNN,513431,2,3
+4,basic,KNN,513432,2,3
+4,basic,KNN,513437,3,4
+4,basic,KNN,513438,3,3
+4,basic,KNN,513443,2,1
+4,basic,KNN,513447,2,2
+4,basic,KNN,513448,3,1
+4,basic,KNN,513459,3,2
+4,basic,KNN,513464,2,2
+4,basic,KNN,513465,1,4
+4,basic,KNN,513468,3,3
+4,basic,KNN,513469,2,2
+4,basic,KNN,513470,1,4
+4,basic,KNN,513471,2,1
+4,basic,KNN,513475,1,3
+4,basic,KNN,513484,1,1
+4,basic,KNN,513486,3,2
+4,basic,KNN,513487,3,3
+4,basic,KNN,513490,1,4
+4,basic,KNN,513491,1,1
+4,basic,KNN,513495,3,3
+4,basic,KNN,513502,4,4
+4,basic,KNN,513504,4,4
+4,basic,KNN,513509,4,4
+4,basic,KNN,513521,1,1
+4,basic,KNN,513523,2,4
+4,basic,KNN,513529,2,3
+4,basic,KNN,513530,3,4
+4,basic,KNN,513537,2,1
+4,basic,KNN,513539,3,2
+4,basic,KNN,513541,3,3
+4,basic,KNN,513543,3,4
+4,basic,KNN,513547,2,1
+4,basic,KNN,513554,1,3
+4,basic,KNN,513555,2,1
+4,basic,KNN,513563,3,2
+4,basic,KNN,513571,3,1
+4,basic,KNN,513576,4,4
+4,basic,KNN,513580,1,3
+4,basic,KNN,513581,4,4
+4,basic,KNN,513583,3,3
+4,basic,KNN,513589,1,1
+4,basic,KNN,513590,3,3
+4,basic,KNN,513594,2,1
+4,basic,KNN,513602,1,4
+4,basic,KNN,513606,2,4
+4,basic,KNN,513615,4,2
+4,basic,KNN,513617,4,4
+4,basic,KNN,513618,4,1
+4,basic,KNN,513632,4,1
+4,basic,KNN,513639,1,2
+4,basic,KNN,513663,1,4
+4,basic,KNN,513670,4,1
+4,basic,KNN,513687,1,1
+4,basic,KNN,513696,3,3
+4,basic,KNN,513697,1,4
+4,basic,KNN,513704,2,3
+4,basic,KNN,513719,3,3
+4,basic,KNN,513720,1,1
+4,basic,KNN,513721,1,1
+4,basic,KNN,513723,4,4
+4,basic,KNN,513726,2,4
+4,basic,KNN,513729,1,2
+4,basic,KNN,513731,3,3
+4,basic,KNN,513734,1,4
+4,basic,KNN,513741,4,3
+4,basic,KNN,513744,4,4
+4,basic,KNN,513746,4,4
+4,basic,KNN,513755,1,4
+4,basic,KNN,513761,4,4
+4,basic,KNN,513764,2,4
+4,basic,KNN,513767,1,1
+4,basic,KNN,513772,1,3
+4,basic,KNN,513773,2,1
+4,basic,KNN,513774,1,3
+4,basic,KNN,513777,3,3
+4,basic,KNN,513778,2,3
+4,basic,KNN,513780,1,3
+4,basic,KNN,513781,4,4
+4,basic,KNN,513782,2,3
+4,basic,KNN,513783,4,3
+4,basic,KNN,513784,2,3
+4,basic,KNN,513793,3,3
+4,basic,KNN,513805,4,3
+4,basic,KNN,513806,1,4
+4,basic,KNN,513811,1,4
+4,basic,KNN,513813,3,4
+4,basic,KNN,513817,4,4
+4,basic,KNN,513820,4,1
+4,basic,KNN,513825,2,3
+4,basic,KNN,513827,1,1
+4,basic,KNN,513833,1,3
+4,basic,KNN,513842,3,1
+4,basic,KNN,513844,2,1
+4,basic,KNN,513846,1,1
+4,basic,KNN,513853,3,4
+4,basic,KNN,513855,4,4
+4,basic,KNN,513859,2,4
+4,basic,KNN,513861,1,4
+4,basic,KNN,513865,3,4
+4,basic,KNN,513866,3,3
+4,basic,KNN,513882,3,4
+4,basic,KNN,513883,4,1
+4,basic,KNN,513885,4,4
+4,basic,KNN,513888,3,3
+4,basic,KNN,513889,4,2
+4,basic,KNN,513891,4,4
+4,basic,KNN,513892,2,2
+4,basic,KNN,513897,3,3
+4,basic,KNN,513903,3,4
+4,basic,KNN,513905,4,4
+4,basic,KNN,513909,4,1
+4,basic,KNN,513911,4,2
+4,basic,KNN,513913,2,2
+4,basic,KNN,513927,1,2
+4,basic,KNN,513938,1,2
+4,basic,KNN,513940,1,1
+4,basic,KNN,513945,4,3
+4,basic,KNN,513947,4,1
+4,basic,KNN,513949,1,1
+4,basic,KNN,513955,1,3
+4,basic,KNN,513957,4,1
+4,basic,KNN,513958,1,3
+4,basic,KNN,513961,2,3
+4,basic,KNN,513967,2,2
+4,basic,KNN,513970,3,3
+4,basic,KNN,513974,2,2
+4,basic,KNN,513979,3,3
+4,basic,KNN,513991,4,1
+4,basic,KNN,513993,1,1
+4,basic,KNN,513996,1,4
+4,basic,KNN,513998,2,1
+4,basic,KNN,513999,3,2
+4,basic,Naive Bayes,513000,2,1
+4,basic,Naive Bayes,513017,3,4
+4,basic,Naive Bayes,513024,1,4
+4,basic,Naive Bayes,513025,3,1
+4,basic,Naive Bayes,513028,1,1
+4,basic,Naive Bayes,513034,4,3
+4,basic,Naive Bayes,513039,4,1
+4,basic,Naive Bayes,513043,4,4
+4,basic,Naive Bayes,513048,1,1
+4,basic,Naive Bayes,513049,4,4
+4,basic,Naive Bayes,513056,3,3
+4,basic,Naive Bayes,513057,3,3
+4,basic,Naive Bayes,513073,1,3
+4,basic,Naive Bayes,513075,4,2
+4,basic,Naive Bayes,513081,2,1
+4,basic,Naive Bayes,513092,4,4
+4,basic,Naive Bayes,513096,3,3
+4,basic,Naive Bayes,513098,4,4
+4,basic,Naive Bayes,513101,1,2
+4,basic,Naive Bayes,513104,3,3
+4,basic,Naive Bayes,513105,3,3
+4,basic,Naive Bayes,513113,2,2
+4,basic,Naive Bayes,513127,1,1
+4,basic,Naive Bayes,513130,2,2
+4,basic,Naive Bayes,513131,4,2
+4,basic,Naive Bayes,513132,2,2
+4,basic,Naive Bayes,513134,1,4
+4,basic,Naive Bayes,513138,4,2
+4,basic,Naive Bayes,513139,3,4
+4,basic,Naive Bayes,513140,2,2
+4,basic,Naive Bayes,513141,1,1
+4,basic,Naive Bayes,513148,2,4
+4,basic,Naive Bayes,513150,1,1
+4,basic,Naive Bayes,513153,2,1
+4,basic,Naive Bayes,513159,4,4
+4,basic,Naive Bayes,513161,1,3
+4,basic,Naive Bayes,513162,4,4
+4,basic,Naive Bayes,513167,4,4
+4,basic,Naive Bayes,513170,2,2
+4,basic,Naive Bayes,513174,2,1
+4,basic,Naive Bayes,513175,2,1
+4,basic,Naive Bayes,513178,3,3
+4,basic,Naive Bayes,513182,4,4
+4,basic,Naive Bayes,513185,2,3
+4,basic,Naive Bayes,513194,3,1
+4,basic,Naive Bayes,513202,2,3
+4,basic,Naive Bayes,513203,1,1
+4,basic,Naive Bayes,513207,4,3
+4,basic,Naive Bayes,513208,1,1
+4,basic,Naive Bayes,513210,3,3
+4,basic,Naive Bayes,513212,4,1
+4,basic,Naive Bayes,513213,3,3
+4,basic,Naive Bayes,513215,3,3
+4,basic,Naive Bayes,513220,3,1
+4,basic,Naive Bayes,513221,2,4
+4,basic,Naive Bayes,513224,3,1
+4,basic,Naive Bayes,513226,1,4
+4,basic,Naive Bayes,513228,3,3
+4,basic,Naive Bayes,513230,3,1
+4,basic,Naive Bayes,513231,2,2
+4,basic,Naive Bayes,513234,2,2
+4,basic,Naive Bayes,513237,3,4
+4,basic,Naive Bayes,513239,4,3
+4,basic,Naive Bayes,513242,4,2
+4,basic,Naive Bayes,513250,4,2
+4,basic,Naive Bayes,513255,4,4
+4,basic,Naive Bayes,513258,4,2
+4,basic,Naive Bayes,513261,2,4
+4,basic,Naive Bayes,513262,4,3
+4,basic,Naive Bayes,513269,1,4
+4,basic,Naive Bayes,513270,4,4
+4,basic,Naive Bayes,513275,2,2
+4,basic,Naive Bayes,513284,4,4
+4,basic,Naive Bayes,513285,1,3
+4,basic,Naive Bayes,513288,1,1
+4,basic,Naive Bayes,513289,3,3
+4,basic,Naive Bayes,513293,4,4
+4,basic,Naive Bayes,513294,1,1
+4,basic,Naive Bayes,513297,2,4
+4,basic,Naive Bayes,513298,1,1
+4,basic,Naive Bayes,513303,3,1
+4,basic,Naive Bayes,513306,3,3
+4,basic,Naive Bayes,513308,4,4
+4,basic,Naive Bayes,513313,4,4
+4,basic,Naive Bayes,513314,2,2
+4,basic,Naive Bayes,513320,4,1
+4,basic,Naive Bayes,513321,1,2
+4,basic,Naive Bayes,513332,3,3
+4,basic,Naive Bayes,513333,4,4
+4,basic,Naive Bayes,513334,2,1
+4,basic,Naive Bayes,513335,1,1
+4,basic,Naive Bayes,513338,1,3
+4,basic,Naive Bayes,513339,1,3
+4,basic,Naive Bayes,513341,4,4
+4,basic,Naive Bayes,513342,1,4
+4,basic,Naive Bayes,513343,2,4
+4,basic,Naive Bayes,513348,3,3
+4,basic,Naive Bayes,513351,3,3
+4,basic,Naive Bayes,513356,3,3
+4,basic,Naive Bayes,513358,3,1
+4,basic,Naive Bayes,513368,4,4
+4,basic,Naive Bayes,513374,4,2
+4,basic,Naive Bayes,513376,4,1
+4,basic,Naive Bayes,513378,3,3
+4,basic,Naive Bayes,513381,4,3
+4,basic,Naive Bayes,513382,3,1
+4,basic,Naive Bayes,513383,4,1
+4,basic,Naive Bayes,513385,2,2
+4,basic,Naive Bayes,513402,3,2
+4,basic,Naive Bayes,513403,1,1
+4,basic,Naive Bayes,513404,4,2
+4,basic,Naive Bayes,513407,3,3
+4,basic,Naive Bayes,513408,1,1
+4,basic,Naive Bayes,513416,1,4
+4,basic,Naive Bayes,513417,1,3
+4,basic,Naive Bayes,513420,2,4
+4,basic,Naive Bayes,513424,4,4
+4,basic,Naive Bayes,513431,2,3
+4,basic,Naive Bayes,513432,2,3
+4,basic,Naive Bayes,513437,3,2
+4,basic,Naive Bayes,513438,3,3
+4,basic,Naive Bayes,513443,2,3
+4,basic,Naive Bayes,513447,2,1
+4,basic,Naive Bayes,513448,3,1
+4,basic,Naive Bayes,513459,3,2
+4,basic,Naive Bayes,513464,2,4
+4,basic,Naive Bayes,513465,1,1
+4,basic,Naive Bayes,513468,3,3
+4,basic,Naive Bayes,513469,2,2
+4,basic,Naive Bayes,513470,1,1
+4,basic,Naive Bayes,513471,2,2
+4,basic,Naive Bayes,513475,1,1
+4,basic,Naive Bayes,513484,1,1
+4,basic,Naive Bayes,513486,3,3
+4,basic,Naive Bayes,513487,3,3
+4,basic,Naive Bayes,513490,1,3
+4,basic,Naive Bayes,513491,1,1
+4,basic,Naive Bayes,513495,3,3
+4,basic,Naive Bayes,513502,4,4
+4,basic,Naive Bayes,513504,4,4
+4,basic,Naive Bayes,513509,4,4
+4,basic,Naive Bayes,513521,1,1
+4,basic,Naive Bayes,513523,2,4
+4,basic,Naive Bayes,513529,2,1
+4,basic,Naive Bayes,513530,3,3
+4,basic,Naive Bayes,513537,2,3
+4,basic,Naive Bayes,513539,3,1
+4,basic,Naive Bayes,513541,3,3
+4,basic,Naive Bayes,513543,3,4
+4,basic,Naive Bayes,513547,2,1
+4,basic,Naive Bayes,513554,1,3
+4,basic,Naive Bayes,513555,2,4
+4,basic,Naive Bayes,513563,3,4
+4,basic,Naive Bayes,513571,3,1
+4,basic,Naive Bayes,513576,4,4
+4,basic,Naive Bayes,513580,1,3
+4,basic,Naive Bayes,513581,4,4
+4,basic,Naive Bayes,513583,3,3
+4,basic,Naive Bayes,513589,1,1
+4,basic,Naive Bayes,513590,3,3
+4,basic,Naive Bayes,513594,2,1
+4,basic,Naive Bayes,513602,1,4
+4,basic,Naive Bayes,513606,2,2
+4,basic,Naive Bayes,513615,4,1
+4,basic,Naive Bayes,513617,4,4
+4,basic,Naive Bayes,513618,4,1
+4,basic,Naive Bayes,513632,4,4
+4,basic,Naive Bayes,513639,1,2
+4,basic,Naive Bayes,513663,1,4
+4,basic,Naive Bayes,513670,4,3
+4,basic,Naive Bayes,513687,1,1
+4,basic,Naive Bayes,513696,3,3
+4,basic,Naive Bayes,513697,1,4
+4,basic,Naive Bayes,513704,2,2
+4,basic,Naive Bayes,513719,3,3
+4,basic,Naive Bayes,513720,1,1
+4,basic,Naive Bayes,513721,1,1
+4,basic,Naive Bayes,513723,4,4
+4,basic,Naive Bayes,513726,2,2
+4,basic,Naive Bayes,513729,1,1
+4,basic,Naive Bayes,513731,3,2
+4,basic,Naive Bayes,513734,1,4
+4,basic,Naive Bayes,513741,4,3
+4,basic,Naive Bayes,513744,4,2
+4,basic,Naive Bayes,513746,4,1
+4,basic,Naive Bayes,513755,1,1
+4,basic,Naive Bayes,513761,4,2
+4,basic,Naive Bayes,513764,2,2
+4,basic,Naive Bayes,513767,1,1
+4,basic,Naive Bayes,513772,1,1
+4,basic,Naive Bayes,513773,2,4
+4,basic,Naive Bayes,513774,1,3
+4,basic,Naive Bayes,513777,3,3
+4,basic,Naive Bayes,513778,2,4
+4,basic,Naive Bayes,513780,1,3
+4,basic,Naive Bayes,513781,4,4
+4,basic,Naive Bayes,513782,2,4
+4,basic,Naive Bayes,513783,4,1
+4,basic,Naive Bayes,513784,2,1
+4,basic,Naive Bayes,513793,3,3
+4,basic,Naive Bayes,513805,4,3
+4,basic,Naive Bayes,513806,1,2
+4,basic,Naive Bayes,513811,1,4
+4,basic,Naive Bayes,513813,3,4
+4,basic,Naive Bayes,513817,4,4
+4,basic,Naive Bayes,513820,4,1
+4,basic,Naive Bayes,513825,2,3
+4,basic,Naive Bayes,513827,1,1
+4,basic,Naive Bayes,513833,1,3
+4,basic,Naive Bayes,513842,3,2
+4,basic,Naive Bayes,513844,2,1
+4,basic,Naive Bayes,513846,1,1
+4,basic,Naive Bayes,513853,3,3
+4,basic,Naive Bayes,513855,4,4
+4,basic,Naive Bayes,513859,2,2
+4,basic,Naive Bayes,513861,1,1
+4,basic,Naive Bayes,513865,3,4
+4,basic,Naive Bayes,513866,3,4
+4,basic,Naive Bayes,513882,3,3
+4,basic,Naive Bayes,513883,4,1
+4,basic,Naive Bayes,513885,4,4
+4,basic,Naive Bayes,513888,3,3
+4,basic,Naive Bayes,513889,4,2
+4,basic,Naive Bayes,513891,4,4
+4,basic,Naive Bayes,513892,2,3
+4,basic,Naive Bayes,513897,3,3
+4,basic,Naive Bayes,513903,3,3
+4,basic,Naive Bayes,513905,4,4
+4,basic,Naive Bayes,513909,4,1
+4,basic,Naive Bayes,513911,4,2
+4,basic,Naive Bayes,513913,2,2
+4,basic,Naive Bayes,513927,1,1
+4,basic,Naive Bayes,513938,1,4
+4,basic,Naive Bayes,513940,1,1
+4,basic,Naive Bayes,513945,4,4
+4,basic,Naive Bayes,513947,4,4
+4,basic,Naive Bayes,513949,1,3
+4,basic,Naive Bayes,513955,1,1
+4,basic,Naive Bayes,513957,4,4
+4,basic,Naive Bayes,513958,1,3
+4,basic,Naive Bayes,513961,2,3
+4,basic,Naive Bayes,513967,2,2
+4,basic,Naive Bayes,513970,3,3
+4,basic,Naive Bayes,513974,2,2
+4,basic,Naive Bayes,513979,3,1
+4,basic,Naive Bayes,513991,4,2
+4,basic,Naive Bayes,513993,1,2
+4,basic,Naive Bayes,513996,1,1
+4,basic,Naive Bayes,513998,2,1
+4,basic,Naive Bayes,513999,3,2
+4,basic,CART,513000,2,4
+4,basic,CART,513017,3,4
+4,basic,CART,513024,1,4
+4,basic,CART,513025,3,1
+4,basic,CART,513028,1,1
+4,basic,CART,513034,4,3
+4,basic,CART,513039,4,1
+4,basic,CART,513043,4,4
+4,basic,CART,513048,1,1
+4,basic,CART,513049,4,3
+4,basic,CART,513056,3,1
+4,basic,CART,513057,3,3
+4,basic,CART,513073,1,2
+4,basic,CART,513075,4,2
+4,basic,CART,513081,2,2
+4,basic,CART,513092,4,4
+4,basic,CART,513096,3,4
+4,basic,CART,513098,4,4
+4,basic,CART,513101,1,2
+4,basic,CART,513104,3,3
+4,basic,CART,513105,3,3
+4,basic,CART,513113,2,2
+4,basic,CART,513127,1,1
+4,basic,CART,513130,2,2
+4,basic,CART,513131,4,4
+4,basic,CART,513132,2,2
+4,basic,CART,513134,1,4
+4,basic,CART,513138,4,4
+4,basic,CART,513139,3,4
+4,basic,CART,513140,2,4
+4,basic,CART,513141,1,1
+4,basic,CART,513148,2,2
+4,basic,CART,513150,1,1
+4,basic,CART,513153,2,1
+4,basic,CART,513159,4,2
+4,basic,CART,513161,1,3
+4,basic,CART,513162,4,4
+4,basic,CART,513167,4,4
+4,basic,CART,513170,2,3
+4,basic,CART,513174,2,2
+4,basic,CART,513175,2,1
+4,basic,CART,513178,3,4
+4,basic,CART,513182,4,4
+4,basic,CART,513185,2,1
+4,basic,CART,513194,3,3
+4,basic,CART,513202,2,4
+4,basic,CART,513203,1,1
+4,basic,CART,513207,4,4
+4,basic,CART,513208,1,1
+4,basic,CART,513210,3,3
+4,basic,CART,513212,4,1
+4,basic,CART,513213,3,2
+4,basic,CART,513215,3,3
+4,basic,CART,513220,3,1
+4,basic,CART,513221,2,2
+4,basic,CART,513224,3,3
+4,basic,CART,513226,1,4
+4,basic,CART,513228,3,3
+4,basic,CART,513230,3,3
+4,basic,CART,513231,2,4
+4,basic,CART,513234,2,1
+4,basic,CART,513237,3,4
+4,basic,CART,513239,4,4
+4,basic,CART,513242,4,4
+4,basic,CART,513250,4,2
+4,basic,CART,513255,4,4
+4,basic,CART,513258,4,2
+4,basic,CART,513261,2,4
+4,basic,CART,513262,4,4
+4,basic,CART,513269,1,4
+4,basic,CART,513270,4,4
+4,basic,CART,513275,2,3
+4,basic,CART,513284,4,2
+4,basic,CART,513285,1,3
+4,basic,CART,513288,1,1
+4,basic,CART,513289,3,3
+4,basic,CART,513293,4,4
+4,basic,CART,513294,1,1
+4,basic,CART,513297,2,4
+4,basic,CART,513298,1,1
+4,basic,CART,513303,3,3
+4,basic,CART,513306,3,3
+4,basic,CART,513308,4,4
+4,basic,CART,513313,4,4
+4,basic,CART,513314,2,4
+4,basic,CART,513320,4,3
+4,basic,CART,513321,1,1
+4,basic,CART,513332,3,3
+4,basic,CART,513333,4,4
+4,basic,CART,513334,2,4
+4,basic,CART,513335,1,1
+4,basic,CART,513338,1,2
+4,basic,CART,513339,1,2
+4,basic,CART,513341,4,4
+4,basic,CART,513342,1,4
+4,basic,CART,513343,2,4
+4,basic,CART,513348,3,3
+4,basic,CART,513351,3,3
+4,basic,CART,513356,3,3
+4,basic,CART,513358,3,1
+4,basic,CART,513368,4,4
+4,basic,CART,513374,4,2
+4,basic,CART,513376,4,1
+4,basic,CART,513378,3,3
+4,basic,CART,513381,4,3
+4,basic,CART,513382,3,2
+4,basic,CART,513383,4,1
+4,basic,CART,513385,2,2
+4,basic,CART,513402,3,2
+4,basic,CART,513403,1,1
+4,basic,CART,513404,4,4
+4,basic,CART,513407,3,2
+4,basic,CART,513408,1,1
+4,basic,CART,513416,1,4
+4,basic,CART,513417,1,4
+4,basic,CART,513420,2,2
+4,basic,CART,513424,4,1
+4,basic,CART,513431,2,2
+4,basic,CART,513432,2,2
+4,basic,CART,513437,3,4
+4,basic,CART,513438,3,3
+4,basic,CART,513443,2,1
+4,basic,CART,513447,2,1
+4,basic,CART,513448,3,4
+4,basic,CART,513459,3,3
+4,basic,CART,513464,2,2
+4,basic,CART,513465,1,1
+4,basic,CART,513468,3,3
+4,basic,CART,513469,2,2
+4,basic,CART,513470,1,1
+4,basic,CART,513471,2,4
+4,basic,CART,513475,1,3
+4,basic,CART,513484,1,1
+4,basic,CART,513486,3,2
+4,basic,CART,513487,3,2
+4,basic,CART,513490,1,1
+4,basic,CART,513491,1,1
+4,basic,CART,513495,3,3
+4,basic,CART,513502,4,4
+4,basic,CART,513504,4,4
+4,basic,CART,513509,4,4
+4,basic,CART,513521,1,4
+4,basic,CART,513523,2,1
+4,basic,CART,513529,2,3
+4,basic,CART,513530,3,2
+4,basic,CART,513537,2,3
+4,basic,CART,513539,3,1
+4,basic,CART,513541,3,4
+4,basic,CART,513543,3,4
+4,basic,CART,513547,2,1
+4,basic,CART,513554,1,3
+4,basic,CART,513555,2,1
+4,basic,CART,513563,3,4
+4,basic,CART,513571,3,1
+4,basic,CART,513576,4,1
+4,basic,CART,513580,1,4
+4,basic,CART,513581,4,4
+4,basic,CART,513583,3,2
+4,basic,CART,513589,1,1
+4,basic,CART,513590,3,4
+4,basic,CART,513594,2,3
+4,basic,CART,513602,1,4
+4,basic,CART,513606,2,4
+4,basic,CART,513615,4,2
+4,basic,CART,513617,4,1
+4,basic,CART,513618,4,4
+4,basic,CART,513632,4,4
+4,basic,CART,513639,1,2
+4,basic,CART,513663,1,1
+4,basic,CART,513670,4,4
+4,basic,CART,513687,1,3
+4,basic,CART,513696,3,3
+4,basic,CART,513697,1,1
+4,basic,CART,513704,2,2
+4,basic,CART,513719,3,3
+4,basic,CART,513720,1,1
+4,basic,CART,513721,1,1
+4,basic,CART,513723,4,4
+4,basic,CART,513726,2,2
+4,basic,CART,513729,1,1
+4,basic,CART,513731,3,2
+4,basic,CART,513734,1,4
+4,basic,CART,513741,4,2
+4,basic,CART,513744,4,1
+4,basic,CART,513746,4,4
+4,basic,CART,513755,1,1
+4,basic,CART,513761,4,4
+4,basic,CART,513764,2,4
+4,basic,CART,513767,1,1
+4,basic,CART,513772,1,2
+4,basic,CART,513773,2,4
+4,basic,CART,513774,1,3
+4,basic,CART,513777,3,2
+4,basic,CART,513778,2,4
+4,basic,CART,513780,1,3
+4,basic,CART,513781,4,4
+4,basic,CART,513782,2,2
+4,basic,CART,513783,4,3
+4,basic,CART,513784,2,2
+4,basic,CART,513793,3,4
+4,basic,CART,513805,4,3
+4,basic,CART,513806,1,4
+4,basic,CART,513811,1,4
+4,basic,CART,513813,3,4
+4,basic,CART,513817,4,4
+4,basic,CART,513820,4,1
+4,basic,CART,513825,2,3
+4,basic,CART,513827,1,3
+4,basic,CART,513833,1,1
+4,basic,CART,513842,3,1
+4,basic,CART,513844,2,1
+4,basic,CART,513846,1,1
+4,basic,CART,513853,3,4
+4,basic,CART,513855,4,4
+4,basic,CART,513859,2,2
+4,basic,CART,513861,1,3
+4,basic,CART,513865,3,4
+4,basic,CART,513866,3,1
+4,basic,CART,513882,3,2
+4,basic,CART,513883,4,1
+4,basic,CART,513885,4,4
+4,basic,CART,513888,3,3
+4,basic,CART,513889,4,1
+4,basic,CART,513891,4,4
+4,basic,CART,513892,2,3
+4,basic,CART,513897,3,3
+4,basic,CART,513903,3,4
+4,basic,CART,513905,4,1
+4,basic,CART,513909,4,1
+4,basic,CART,513911,4,4
+4,basic,CART,513913,2,2
+4,basic,CART,513927,1,2
+4,basic,CART,513938,1,4
+4,basic,CART,513940,1,1
+4,basic,CART,513945,4,3
+4,basic,CART,513947,4,4
+4,basic,CART,513949,1,3
+4,basic,CART,513955,1,3
+4,basic,CART,513957,4,3
+4,basic,CART,513958,1,3
+4,basic,CART,513961,2,3
+4,basic,CART,513967,2,2
+4,basic,CART,513970,3,3
+4,basic,CART,513974,2,2
+4,basic,CART,513979,3,3
+4,basic,CART,513991,4,1
+4,basic,CART,513993,1,1
+4,basic,CART,513996,1,1
+4,basic,CART,513998,2,2
+4,basic,CART,513999,3,4
+4,basic,Random Forest,513000,2,2
+4,basic,Random Forest,513017,3,4
+4,basic,Random Forest,513024,1,4
+4,basic,Random Forest,513025,3,1
+4,basic,Random Forest,513028,1,1
+4,basic,Random Forest,513034,4,3
+4,basic,Random Forest,513039,4,1
+4,basic,Random Forest,513043,4,4
+4,basic,Random Forest,513048,1,1
+4,basic,Random Forest,513049,4,4
+4,basic,Random Forest,513056,3,1
+4,basic,Random Forest,513057,3,3
+4,basic,Random Forest,513073,1,3
+4,basic,Random Forest,513075,4,4
+4,basic,Random Forest,513081,2,2
+4,basic,Random Forest,513092,4,4
+4,basic,Random Forest,513096,3,4
+4,basic,Random Forest,513098,4,4
+4,basic,Random Forest,513101,1,2
+4,basic,Random Forest,513104,3,3
+4,basic,Random Forest,513105,3,3
+4,basic,Random Forest,513113,2,2
+4,basic,Random Forest,513127,1,1
+4,basic,Random Forest,513130,2,1
+4,basic,Random Forest,513131,4,2
+4,basic,Random Forest,513132,2,2
+4,basic,Random Forest,513134,1,4
+4,basic,Random Forest,513138,4,4
+4,basic,Random Forest,513139,3,4
+4,basic,Random Forest,513140,2,2
+4,basic,Random Forest,513141,1,1
+4,basic,Random Forest,513148,2,2
+4,basic,Random Forest,513150,1,1
+4,basic,Random Forest,513153,2,1
+4,basic,Random Forest,513159,4,4
+4,basic,Random Forest,513161,1,1
+4,basic,Random Forest,513162,4,4
+4,basic,Random Forest,513167,4,4
+4,basic,Random Forest,513170,2,2
+4,basic,Random Forest,513174,2,4
+4,basic,Random Forest,513175,2,2
+4,basic,Random Forest,513178,3,3
+4,basic,Random Forest,513182,4,4
+4,basic,Random Forest,513185,2,3
+4,basic,Random Forest,513194,3,3
+4,basic,Random Forest,513202,2,3
+4,basic,Random Forest,513203,1,1
+4,basic,Random Forest,513207,4,3
+4,basic,Random Forest,513208,1,1
+4,basic,Random Forest,513210,3,3
+4,basic,Random Forest,513212,4,1
+4,basic,Random Forest,513213,3,3
+4,basic,Random Forest,513215,3,3
+4,basic,Random Forest,513220,3,3
+4,basic,Random Forest,513221,2,2
+4,basic,Random Forest,513224,3,3
+4,basic,Random Forest,513226,1,4
+4,basic,Random Forest,513228,3,3
+4,basic,Random Forest,513230,3,1
+4,basic,Random Forest,513231,2,2
+4,basic,Random Forest,513234,2,3
+4,basic,Random Forest,513237,3,4
+4,basic,Random Forest,513239,4,3
+4,basic,Random Forest,513242,4,2
+4,basic,Random Forest,513250,4,2
+4,basic,Random Forest,513255,4,4
+4,basic,Random Forest,513258,4,2
+4,basic,Random Forest,513261,2,4
+4,basic,Random Forest,513262,4,3
+4,basic,Random Forest,513269,1,4
+4,basic,Random Forest,513270,4,4
+4,basic,Random Forest,513275,2,2
+4,basic,Random Forest,513284,4,4
+4,basic,Random Forest,513285,1,3
+4,basic,Random Forest,513288,1,1
+4,basic,Random Forest,513289,3,3
+4,basic,Random Forest,513293,4,4
+4,basic,Random Forest,513294,1,1
+4,basic,Random Forest,513297,2,4
+4,basic,Random Forest,513298,1,1
+4,basic,Random Forest,513303,3,1
+4,basic,Random Forest,513306,3,3
+4,basic,Random Forest,513308,4,4
+4,basic,Random Forest,513313,4,4
+4,basic,Random Forest,513314,2,4
+4,basic,Random Forest,513320,4,1
+4,basic,Random Forest,513321,1,1
+4,basic,Random Forest,513332,3,4
+4,basic,Random Forest,513333,4,4
+4,basic,Random Forest,513334,2,4
+4,basic,Random Forest,513335,1,1
+4,basic,Random Forest,513338,1,3
+4,basic,Random Forest,513339,1,3
+4,basic,Random Forest,513341,4,4
+4,basic,Random Forest,513342,1,4
+4,basic,Random Forest,513343,2,2
+4,basic,Random Forest,513348,3,3
+4,basic,Random Forest,513351,3,3
+4,basic,Random Forest,513356,3,3
+4,basic,Random Forest,513358,3,1
+4,basic,Random Forest,513368,4,4
+4,basic,Random Forest,513374,4,2
+4,basic,Random Forest,513376,4,1
+4,basic,Random Forest,513378,3,3
+4,basic,Random Forest,513381,4,3
+4,basic,Random Forest,513382,3,1
+4,basic,Random Forest,513383,4,1
+4,basic,Random Forest,513385,2,2
+4,basic,Random Forest,513402,3,4
+4,basic,Random Forest,513403,1,1
+4,basic,Random Forest,513404,4,4
+4,basic,Random Forest,513407,3,3
+4,basic,Random Forest,513408,1,1
+4,basic,Random Forest,513416,1,4
+4,basic,Random Forest,513417,1,2
+4,basic,Random Forest,513420,2,4
+4,basic,Random Forest,513424,4,4
+4,basic,Random Forest,513431,2,3
+4,basic,Random Forest,513432,2,3
+4,basic,Random Forest,513437,3,4
+4,basic,Random Forest,513438,3,3
+4,basic,Random Forest,513443,2,3
+4,basic,Random Forest,513447,2,1
+4,basic,Random Forest,513448,3,4
+4,basic,Random Forest,513459,3,2
+4,basic,Random Forest,513464,2,4
+4,basic,Random Forest,513465,1,1
+4,basic,Random Forest,513468,3,3
+4,basic,Random Forest,513469,2,2
+4,basic,Random Forest,513470,1,1
+4,basic,Random Forest,513471,2,2
+4,basic,Random Forest,513475,1,1
+4,basic,Random Forest,513484,1,1
+4,basic,Random Forest,513486,3,3
+4,basic,Random Forest,513487,3,3
+4,basic,Random Forest,513490,1,1
+4,basic,Random Forest,513491,1,1
+4,basic,Random Forest,513495,3,3
+4,basic,Random Forest,513502,4,4
+4,basic,Random Forest,513504,4,4
+4,basic,Random Forest,513509,4,4
+4,basic,Random Forest,513521,1,1
+4,basic,Random Forest,513523,2,4
+4,basic,Random Forest,513529,2,1
+4,basic,Random Forest,513530,3,4
+4,basic,Random Forest,513537,2,3
+4,basic,Random Forest,513539,3,1
+4,basic,Random Forest,513541,3,3
+4,basic,Random Forest,513543,3,4
+4,basic,Random Forest,513547,2,1
+4,basic,Random Forest,513554,1,3
+4,basic,Random Forest,513555,2,1
+4,basic,Random Forest,513563,3,4
+4,basic,Random Forest,513571,3,1
+4,basic,Random Forest,513576,4,4
+4,basic,Random Forest,513580,1,3
+4,basic,Random Forest,513581,4,4
+4,basic,Random Forest,513583,3,3
+4,basic,Random Forest,513589,1,1
+4,basic,Random Forest,513590,3,3
+4,basic,Random Forest,513594,2,1
+4,basic,Random Forest,513602,1,4
+4,basic,Random Forest,513606,2,2
+4,basic,Random Forest,513615,4,2
+4,basic,Random Forest,513617,4,4
+4,basic,Random Forest,513618,4,4
+4,basic,Random Forest,513632,4,4
+4,basic,Random Forest,513639,1,2
+4,basic,Random Forest,513663,1,4
+4,basic,Random Forest,513670,4,3
+4,basic,Random Forest,513687,1,1
+4,basic,Random Forest,513696,3,3
+4,basic,Random Forest,513697,1,1
+4,basic,Random Forest,513704,2,2
+4,basic,Random Forest,513719,3,3
+4,basic,Random Forest,513720,1,1
+4,basic,Random Forest,513721,1,1
+4,basic,Random Forest,513723,4,4
+4,basic,Random Forest,513726,2,4
+4,basic,Random Forest,513729,1,1
+4,basic,Random Forest,513731,3,3
+4,basic,Random Forest,513734,1,4
+4,basic,Random Forest,513741,4,2
+4,basic,Random Forest,513744,4,4
+4,basic,Random Forest,513746,4,4
+4,basic,Random Forest,513755,1,1
+4,basic,Random Forest,513761,4,4
+4,basic,Random Forest,513764,2,2
+4,basic,Random Forest,513767,1,1
+4,basic,Random Forest,513772,1,1
+4,basic,Random Forest,513773,2,4
+4,basic,Random Forest,513774,1,3
+4,basic,Random Forest,513777,3,3
+4,basic,Random Forest,513778,2,4
+4,basic,Random Forest,513780,1,3
+4,basic,Random Forest,513781,4,4
+4,basic,Random Forest,513782,2,2
+4,basic,Random Forest,513783,4,1
+4,basic,Random Forest,513784,2,3
+4,basic,Random Forest,513793,3,3
+4,basic,Random Forest,513805,4,3
+4,basic,Random Forest,513806,1,4
+4,basic,Random Forest,513811,1,4
+4,basic,Random Forest,513813,3,3
+4,basic,Random Forest,513817,4,4
+4,basic,Random Forest,513820,4,1
+4,basic,Random Forest,513825,2,3
+4,basic,Random Forest,513827,1,1
+4,basic,Random Forest,513833,1,1
+4,basic,Random Forest,513842,3,1
+4,basic,Random Forest,513844,2,1
+4,basic,Random Forest,513846,1,1
+4,basic,Random Forest,513853,3,4
+4,basic,Random Forest,513855,4,4
+4,basic,Random Forest,513859,2,2
+4,basic,Random Forest,513861,1,1
+4,basic,Random Forest,513865,3,4
+4,basic,Random Forest,513866,3,4
+4,basic,Random Forest,513882,3,2
+4,basic,Random Forest,513883,4,3
+4,basic,Random Forest,513885,4,2
+4,basic,Random Forest,513888,3,3
+4,basic,Random Forest,513889,4,1
+4,basic,Random Forest,513891,4,4
+4,basic,Random Forest,513892,2,3
+4,basic,Random Forest,513897,3,3
+4,basic,Random Forest,513903,3,3
+4,basic,Random Forest,513905,4,3
+4,basic,Random Forest,513909,4,1
+4,basic,Random Forest,513911,4,2
+4,basic,Random Forest,513913,2,2
+4,basic,Random Forest,513927,1,1
+4,basic,Random Forest,513938,1,2
+4,basic,Random Forest,513940,1,1
+4,basic,Random Forest,513945,4,3
+4,basic,Random Forest,513947,4,4
+4,basic,Random Forest,513949,1,3
+4,basic,Random Forest,513955,1,3
+4,basic,Random Forest,513957,4,4
+4,basic,Random Forest,513958,1,3
+4,basic,Random Forest,513961,2,3
+4,basic,Random Forest,513967,2,2
+4,basic,Random Forest,513970,3,3
+4,basic,Random Forest,513974,2,2
+4,basic,Random Forest,513979,3,3
+4,basic,Random Forest,513991,4,1
+4,basic,Random Forest,513993,1,1
+4,basic,Random Forest,513996,1,1
+4,basic,Random Forest,513998,2,1
+4,basic,Random Forest,513999,3,2
+4,basic,ANN,513000,2,1
+4,basic,ANN,513017,3,4
+4,basic,ANN,513024,1,4
+4,basic,ANN,513025,3,1
+4,basic,ANN,513028,1,2
+4,basic,ANN,513034,4,3
+4,basic,ANN,513039,4,1
+4,basic,ANN,513043,4,4
+4,basic,ANN,513048,1,2
+4,basic,ANN,513049,4,4
+4,basic,ANN,513056,3,3
+4,basic,ANN,513057,3,3
+4,basic,ANN,513073,1,3
+4,basic,ANN,513075,4,2
+4,basic,ANN,513081,2,4
+4,basic,ANN,513092,4,4
+4,basic,ANN,513096,3,3
+4,basic,ANN,513098,4,4
+4,basic,ANN,513101,1,2
+4,basic,ANN,513104,3,3
+4,basic,ANN,513105,3,1
+4,basic,ANN,513113,2,1
+4,basic,ANN,513127,1,1
+4,basic,ANN,513130,2,2
+4,basic,ANN,513131,4,1
+4,basic,ANN,513132,2,2
+4,basic,ANN,513134,1,1
+4,basic,ANN,513138,4,4
+4,basic,ANN,513139,3,4
+4,basic,ANN,513140,2,2
+4,basic,ANN,513141,1,1
+4,basic,ANN,513148,2,2
+4,basic,ANN,513150,1,1
+4,basic,ANN,513153,2,1
+4,basic,ANN,513159,4,4
+4,basic,ANN,513161,1,1
+4,basic,ANN,513162,4,4
+4,basic,ANN,513167,4,4
+4,basic,ANN,513170,2,2
+4,basic,ANN,513174,2,2
+4,basic,ANN,513175,2,2
+4,basic,ANN,513178,3,4
+4,basic,ANN,513182,4,4
+4,basic,ANN,513185,2,3
+4,basic,ANN,513194,3,4
+4,basic,ANN,513202,2,2
+4,basic,ANN,513203,1,2
+4,basic,ANN,513207,4,1
+4,basic,ANN,513208,1,1
+4,basic,ANN,513210,3,3
+4,basic,ANN,513212,4,4
+4,basic,ANN,513213,3,1
+4,basic,ANN,513215,3,3
+4,basic,ANN,513220,3,3
+4,basic,ANN,513221,2,2
+4,basic,ANN,513224,3,1
+4,basic,ANN,513226,1,1
+4,basic,ANN,513228,3,3
+4,basic,ANN,513230,3,4
+4,basic,ANN,513231,2,2
+4,basic,ANN,513234,2,2
+4,basic,ANN,513237,3,4
+4,basic,ANN,513239,4,3
+4,basic,ANN,513242,4,2
+4,basic,ANN,513250,4,2
+4,basic,ANN,513255,4,4
+4,basic,ANN,513258,4,4
+4,basic,ANN,513261,2,4
+4,basic,ANN,513262,4,2
+4,basic,ANN,513269,1,4
+4,basic,ANN,513270,4,4
+4,basic,ANN,513275,2,3
+4,basic,ANN,513284,4,4
+4,basic,ANN,513285,1,1
+4,basic,ANN,513288,1,1
+4,basic,ANN,513289,3,3
+4,basic,ANN,513293,4,4
+4,basic,ANN,513294,1,1
+4,basic,ANN,513297,2,3
+4,basic,ANN,513298,1,4
+4,basic,ANN,513303,3,1
+4,basic,ANN,513306,3,3
+4,basic,ANN,513308,4,4
+4,basic,ANN,513313,4,4
+4,basic,ANN,513314,2,2
+4,basic,ANN,513320,4,1
+4,basic,ANN,513321,1,1
+4,basic,ANN,513332,3,3
+4,basic,ANN,513333,4,4
+4,basic,ANN,513334,2,4
+4,basic,ANN,513335,1,1
+4,basic,ANN,513338,1,3
+4,basic,ANN,513339,1,3
+4,basic,ANN,513341,4,4
+4,basic,ANN,513342,1,4
+4,basic,ANN,513343,2,4
+4,basic,ANN,513348,3,3
+4,basic,ANN,513351,3,3
+4,basic,ANN,513356,3,3
+4,basic,ANN,513358,3,3
+4,basic,ANN,513368,4,4
+4,basic,ANN,513374,4,2
+4,basic,ANN,513376,4,3
+4,basic,ANN,513378,3,2
+4,basic,ANN,513381,4,4
+4,basic,ANN,513382,3,1
+4,basic,ANN,513383,4,1
+4,basic,ANN,513385,2,2
+4,basic,ANN,513402,3,3
+4,basic,ANN,513403,1,1
+4,basic,ANN,513404,4,3
+4,basic,ANN,513407,3,3
+4,basic,ANN,513408,1,1
+4,basic,ANN,513416,1,4
+4,basic,ANN,513417,1,3
+4,basic,ANN,513420,2,4
+4,basic,ANN,513424,4,2
+4,basic,ANN,513431,2,3
+4,basic,ANN,513432,2,3
+4,basic,ANN,513437,3,4
+4,basic,ANN,513438,3,3
+4,basic,ANN,513443,2,4
+4,basic,ANN,513447,2,2
+4,basic,ANN,513448,3,4
+4,basic,ANN,513459,3,2
+4,basic,ANN,513464,2,2
+4,basic,ANN,513465,1,1
+4,basic,ANN,513468,3,4
+4,basic,ANN,513469,2,2
+4,basic,ANN,513470,1,1
+4,basic,ANN,513471,2,4
+4,basic,ANN,513475,1,3
+4,basic,ANN,513484,1,1
+4,basic,ANN,513486,3,1
+4,basic,ANN,513487,3,2
+4,basic,ANN,513490,1,1
+4,basic,ANN,513491,1,1
+4,basic,ANN,513495,3,3
+4,basic,ANN,513502,4,4
+4,basic,ANN,513504,4,4
+4,basic,ANN,513509,4,4
+4,basic,ANN,513521,1,1
+4,basic,ANN,513523,2,4
+4,basic,ANN,513529,2,3
+4,basic,ANN,513530,3,4
+4,basic,ANN,513537,2,3
+4,basic,ANN,513539,3,4
+4,basic,ANN,513541,3,1
+4,basic,ANN,513543,3,3
+4,basic,ANN,513547,2,1
+4,basic,ANN,513554,1,3
+4,basic,ANN,513555,2,1
+4,basic,ANN,513563,3,4
+4,basic,ANN,513571,3,1
+4,basic,ANN,513576,4,4
+4,basic,ANN,513580,1,3
+4,basic,ANN,513581,4,4
+4,basic,ANN,513583,3,2
+4,basic,ANN,513589,1,1
+4,basic,ANN,513590,3,3
+4,basic,ANN,513594,2,1
+4,basic,ANN,513602,1,1
+4,basic,ANN,513606,2,2
+4,basic,ANN,513615,4,2
+4,basic,ANN,513617,4,4
+4,basic,ANN,513618,4,3
+4,basic,ANN,513632,4,4
+4,basic,ANN,513639,1,2
+4,basic,ANN,513663,1,4
+4,basic,ANN,513670,4,3
+4,basic,ANN,513687,1,1
+4,basic,ANN,513696,3,3
+4,basic,ANN,513697,1,1
+4,basic,ANN,513704,2,3
+4,basic,ANN,513719,3,3
+4,basic,ANN,513720,1,1
+4,basic,ANN,513721,1,1
+4,basic,ANN,513723,4,4
+4,basic,ANN,513726,2,4
+4,basic,ANN,513729,1,1
+4,basic,ANN,513731,3,3
+4,basic,ANN,513734,1,4
+4,basic,ANN,513741,4,2
+4,basic,ANN,513744,4,2
+4,basic,ANN,513746,4,4
+4,basic,ANN,513755,1,4
+4,basic,ANN,513761,4,2
+4,basic,ANN,513764,2,2
+4,basic,ANN,513767,1,1
+4,basic,ANN,513772,1,3
+4,basic,ANN,513773,2,4
+4,basic,ANN,513774,1,1
+4,basic,ANN,513777,3,3
+4,basic,ANN,513778,2,4
+4,basic,ANN,513780,1,1
+4,basic,ANN,513781,4,3
+4,basic,ANN,513782,2,2
+4,basic,ANN,513783,4,4
+4,basic,ANN,513784,2,3
+4,basic,ANN,513793,3,4
+4,basic,ANN,513805,4,3
+4,basic,ANN,513806,1,2
+4,basic,ANN,513811,1,4
+4,basic,ANN,513813,3,2
+4,basic,ANN,513817,4,4
+4,basic,ANN,513820,4,4
+4,basic,ANN,513825,2,3
+4,basic,ANN,513827,1,1
+4,basic,ANN,513833,1,1
+4,basic,ANN,513842,3,3
+4,basic,ANN,513844,2,1
+4,basic,ANN,513846,1,1
+4,basic,ANN,513853,3,4
+4,basic,ANN,513855,4,1
+4,basic,ANN,513859,2,4
+4,basic,ANN,513861,1,1
+4,basic,ANN,513865,3,2
+4,basic,ANN,513866,3,3
+4,basic,ANN,513882,3,4
+4,basic,ANN,513883,4,1
+4,basic,ANN,513885,4,3
+4,basic,ANN,513888,3,3
+4,basic,ANN,513889,4,2
+4,basic,ANN,513891,4,4
+4,basic,ANN,513892,2,2
+4,basic,ANN,513897,3,3
+4,basic,ANN,513903,3,4
+4,basic,ANN,513905,4,4
+4,basic,ANN,513909,4,1
+4,basic,ANN,513911,4,2
+4,basic,ANN,513913,2,2
+4,basic,ANN,513927,1,2
+4,basic,ANN,513938,1,4
+4,basic,ANN,513940,1,1
+4,basic,ANN,513945,4,2
+4,basic,ANN,513947,4,4
+4,basic,ANN,513949,1,3
+4,basic,ANN,513955,1,3
+4,basic,ANN,513957,4,3
+4,basic,ANN,513958,1,3
+4,basic,ANN,513961,2,3
+4,basic,ANN,513967,2,2
+4,basic,ANN,513970,3,3
+4,basic,ANN,513974,2,2
+4,basic,ANN,513979,3,3
+4,basic,ANN,513991,4,1
+4,basic,ANN,513993,1,1
+4,basic,ANN,513996,1,4
+4,basic,ANN,513998,2,2
+4,basic,ANN,513999,3,1
+4,advanced,Seat baseline,513000,1,1
+4,advanced,Seat baseline,513017,1,1
+4,advanced,Seat baseline,513024,1,1
+4,advanced,Seat baseline,513025,1,1
+4,advanced,Seat baseline,513028,2,1
+4,advanced,Seat baseline,513034,4,1
+4,advanced,Seat baseline,513039,4,1
+4,advanced,Seat baseline,513043,4,1
+4,advanced,Seat baseline,513048,2,1
+4,advanced,Seat baseline,513049,3,1
+4,advanced,Seat baseline,513056,2,1
+4,advanced,Seat baseline,513057,3,1
+4,advanced,Seat baseline,513073,4,1
+4,advanced,Seat baseline,513075,4,1
+4,advanced,Seat baseline,513081,3,1
+4,advanced,Seat baseline,513092,1,1
+4,advanced,Seat baseline,513096,4,1
+4,advanced,Seat baseline,513098,4,1
+4,advanced,Seat baseline,513101,2,1
+4,advanced,Seat baseline,513104,1,1
+4,advanced,Seat baseline,513105,3,1
+4,advanced,Seat baseline,513113,3,1
+4,advanced,Seat baseline,513127,1,1
+4,advanced,Seat baseline,513130,2,1
+4,advanced,Seat baseline,513131,2,1
+4,advanced,Seat baseline,513132,4,1
+4,advanced,Seat baseline,513134,1,1
+4,advanced,Seat baseline,513138,2,1
+4,advanced,Seat baseline,513139,3,1
+4,advanced,Seat baseline,513140,2,1
+4,advanced,Seat baseline,513141,1,1
+4,advanced,Seat baseline,513148,4,1
+4,advanced,Seat baseline,513150,2,1
+4,advanced,Seat baseline,513153,4,1
+4,advanced,Seat baseline,513159,1,1
+4,advanced,Seat baseline,513161,1,1
+4,advanced,Seat baseline,513162,3,1
+4,advanced,Seat baseline,513167,4,1
+4,advanced,Seat baseline,513170,2,1
+4,advanced,Seat baseline,513174,4,1
+4,advanced,Seat baseline,513175,2,1
+4,advanced,Seat baseline,513178,4,1
+4,advanced,Seat baseline,513182,2,1
+4,advanced,Seat baseline,513185,2,1
+4,advanced,Seat baseline,513194,4,1
+4,advanced,Seat baseline,513202,2,1
+4,advanced,Seat baseline,513203,2,1
+4,advanced,Seat baseline,513207,3,1
+4,advanced,Seat baseline,513208,1,1
+4,advanced,Seat baseline,513210,3,1
+4,advanced,Seat baseline,513212,2,1
+4,advanced,Seat baseline,513213,1,1
+4,advanced,Seat baseline,513215,3,1
+4,advanced,Seat baseline,513220,2,1
+4,advanced,Seat baseline,513221,2,1
+4,advanced,Seat baseline,513224,1,1
+4,advanced,Seat baseline,513226,1,1
+4,advanced,Seat baseline,513228,3,1
+4,advanced,Seat baseline,513230,1,1
+4,advanced,Seat baseline,513231,2,1
+4,advanced,Seat baseline,513234,3,1
+4,advanced,Seat baseline,513237,3,1
+4,advanced,Seat baseline,513239,4,1
+4,advanced,Seat baseline,513242,1,1
+4,advanced,Seat baseline,513250,2,1
+4,advanced,Seat baseline,513255,3,1
+4,advanced,Seat baseline,513258,4,1
+4,advanced,Seat baseline,513261,4,1
+4,advanced,Seat baseline,513262,2,1
+4,advanced,Seat baseline,513269,3,1
+4,advanced,Seat baseline,513270,4,1
+4,advanced,Seat baseline,513275,2,1
+4,advanced,Seat baseline,513284,4,1
+4,advanced,Seat baseline,513285,4,1
+4,advanced,Seat baseline,513288,1,1
+4,advanced,Seat baseline,513289,2,1
+4,advanced,Seat baseline,513293,4,1
+4,advanced,Seat baseline,513294,4,1
+4,advanced,Seat baseline,513297,4,1
+4,advanced,Seat baseline,513298,4,1
+4,advanced,Seat baseline,513303,3,1
+4,advanced,Seat baseline,513306,2,1
+4,advanced,Seat baseline,513308,4,1
+4,advanced,Seat baseline,513313,4,1
+4,advanced,Seat baseline,513314,4,1
+4,advanced,Seat baseline,513320,1,1
+4,advanced,Seat baseline,513321,3,1
+4,advanced,Seat baseline,513332,3,1
+4,advanced,Seat baseline,513333,4,1
+4,advanced,Seat baseline,513334,3,1
+4,advanced,Seat baseline,513335,1,1
+4,advanced,Seat baseline,513338,1,1
+4,advanced,Seat baseline,513339,4,1
+4,advanced,Seat baseline,513341,2,1
+4,advanced,Seat baseline,513342,4,1
+4,advanced,Seat baseline,513343,2,1
+4,advanced,Seat baseline,513348,2,1
+4,advanced,Seat baseline,513351,2,1
+4,advanced,Seat baseline,513356,3,1
+4,advanced,Seat baseline,513358,1,1
+4,advanced,Seat baseline,513368,4,1
+4,advanced,Seat baseline,513374,4,1
+4,advanced,Seat baseline,513376,3,1
+4,advanced,Seat baseline,513378,3,1
+4,advanced,Seat baseline,513381,4,1
+4,advanced,Seat baseline,513382,1,1
+4,advanced,Seat baseline,513383,4,1
+4,advanced,Seat baseline,513385,2,1
+4,advanced,Seat baseline,513402,3,1
+4,advanced,Seat baseline,513403,3,1
+4,advanced,Seat baseline,513404,2,1
+4,advanced,Seat baseline,513407,2,1
+4,advanced,Seat baseline,513408,1,1
+4,advanced,Seat baseline,513416,3,1
+4,advanced,Seat baseline,513417,1,1
+4,advanced,Seat baseline,513420,3,1
+4,advanced,Seat baseline,513424,1,1
+4,advanced,Seat baseline,513431,3,1
+4,advanced,Seat baseline,513432,1,1
+4,advanced,Seat baseline,513437,4,1
+4,advanced,Seat baseline,513438,3,1
+4,advanced,Seat baseline,513443,1,1
+4,advanced,Seat baseline,513447,2,1
+4,advanced,Seat baseline,513448,2,1
+4,advanced,Seat baseline,513459,2,1
+4,advanced,Seat baseline,513464,3,1
+4,advanced,Seat baseline,513465,2,1
+4,advanced,Seat baseline,513468,2,1
+4,advanced,Seat baseline,513469,2,1
+4,advanced,Seat baseline,513470,2,1
+4,advanced,Seat baseline,513471,2,1
+4,advanced,Seat baseline,513475,1,1
+4,advanced,Seat baseline,513484,1,1
+4,advanced,Seat baseline,513486,4,1
+4,advanced,Seat baseline,513487,3,1
+4,advanced,Seat baseline,513490,1,1
+4,advanced,Seat baseline,513491,1,1
+4,advanced,Seat baseline,513495,2,1
+4,advanced,Seat baseline,513502,3,1
+4,advanced,Seat baseline,513504,2,1
+4,advanced,Seat baseline,513509,4,1
+4,advanced,Seat baseline,513521,1,1
+4,advanced,Seat baseline,513523,4,1
+4,advanced,Seat baseline,513529,3,1
+4,advanced,Seat baseline,513530,2,1
+4,advanced,Seat baseline,513537,4,1
+4,advanced,Seat baseline,513539,2,1
+4,advanced,Seat baseline,513541,3,1
+4,advanced,Seat baseline,513543,4,1
+4,advanced,Seat baseline,513547,2,1
+4,advanced,Seat baseline,513554,3,1
+4,advanced,Seat baseline,513555,4,1
+4,advanced,Seat baseline,513563,1,1
+4,advanced,Seat baseline,513571,1,1
+4,advanced,Seat baseline,513576,1,1
+4,advanced,Seat baseline,513580,3,1
+4,advanced,Seat baseline,513581,3,1
+4,advanced,Seat baseline,513583,3,1
+4,advanced,Seat baseline,513589,1,1
+4,advanced,Seat baseline,513590,3,1
+4,advanced,Seat baseline,513594,1,1
+4,advanced,Seat baseline,513602,4,1
+4,advanced,Seat baseline,513606,3,1
+4,advanced,Seat baseline,513615,4,1
+4,advanced,Seat baseline,513617,4,1
+4,advanced,Seat baseline,513618,4,1
+4,advanced,Seat baseline,513632,4,1
+4,advanced,Seat baseline,513639,1,1
+4,advanced,Seat baseline,513663,4,1
+4,advanced,Seat baseline,513670,1,1
+4,advanced,Seat baseline,513687,1,1
+4,advanced,Seat baseline,513696,3,1
+4,advanced,Seat baseline,513697,2,1
+4,advanced,Seat baseline,513704,4,1
+4,advanced,Seat baseline,513719,3,1
+4,advanced,Seat baseline,513720,1,1
+4,advanced,Seat baseline,513721,1,1
+4,advanced,Seat baseline,513723,4,1
+4,advanced,Seat baseline,513726,2,1
+4,advanced,Seat baseline,513729,2,1
+4,advanced,Seat baseline,513731,2,1
+4,advanced,Seat baseline,513734,4,1
+4,advanced,Seat baseline,513741,2,1
+4,advanced,Seat baseline,513744,2,1
+4,advanced,Seat baseline,513746,3,1
+4,advanced,Seat baseline,513755,1,1
+4,advanced,Seat baseline,513761,4,1
+4,advanced,Seat baseline,513764,2,1
+4,advanced,Seat baseline,513767,1,1
+4,advanced,Seat baseline,513772,1,1
+4,advanced,Seat baseline,513773,1,1
+4,advanced,Seat baseline,513774,3,1
+4,advanced,Seat baseline,513777,4,1
+4,advanced,Seat baseline,513778,1,1
+4,advanced,Seat baseline,513780,1,1
+4,advanced,Seat baseline,513781,2,1
+4,advanced,Seat baseline,513782,1,1
+4,advanced,Seat baseline,513783,1,1
+4,advanced,Seat baseline,513784,1,1
+4,advanced,Seat baseline,513793,4,1
+4,advanced,Seat baseline,513805,3,1
+4,advanced,Seat baseline,513806,2,1
+4,advanced,Seat baseline,513811,1,1
+4,advanced,Seat baseline,513813,2,1
+4,advanced,Seat baseline,513817,4,1
+4,advanced,Seat baseline,513820,3,1
+4,advanced,Seat baseline,513825,4,1
+4,advanced,Seat baseline,513827,2,1
+4,advanced,Seat baseline,513833,3,1
+4,advanced,Seat baseline,513842,1,1
+4,advanced,Seat baseline,513844,1,1
+4,advanced,Seat baseline,513846,4,1
+4,advanced,Seat baseline,513853,2,1
+4,advanced,Seat baseline,513855,4,1
+4,advanced,Seat baseline,513859,4,1
+4,advanced,Seat baseline,513861,1,1
+4,advanced,Seat baseline,513865,4,1
+4,advanced,Seat baseline,513866,1,1
+4,advanced,Seat baseline,513882,4,1
+4,advanced,Seat baseline,513883,3,1
+4,advanced,Seat baseline,513885,3,1
+4,advanced,Seat baseline,513888,3,1
+4,advanced,Seat baseline,513889,3,1
+4,advanced,Seat baseline,513891,4,1
+4,advanced,Seat baseline,513892,3,1
+4,advanced,Seat baseline,513897,2,1
+4,advanced,Seat baseline,513903,4,1
+4,advanced,Seat baseline,513905,4,1
+4,advanced,Seat baseline,513909,1,1
+4,advanced,Seat baseline,513911,3,1
+4,advanced,Seat baseline,513913,4,1
+4,advanced,Seat baseline,513927,1,1
+4,advanced,Seat baseline,513938,4,1
+4,advanced,Seat baseline,513940,4,1
+4,advanced,Seat baseline,513945,4,1
+4,advanced,Seat baseline,513947,3,1
+4,advanced,Seat baseline,513949,3,1
+4,advanced,Seat baseline,513955,1,1
+4,advanced,Seat baseline,513957,1,1
+4,advanced,Seat baseline,513958,3,1
+4,advanced,Seat baseline,513961,2,1
+4,advanced,Seat baseline,513967,2,1
+4,advanced,Seat baseline,513970,3,1
+4,advanced,Seat baseline,513974,2,1
+4,advanced,Seat baseline,513979,1,1
+4,advanced,Seat baseline,513991,4,1
+4,advanced,Seat baseline,513993,2,1
+4,advanced,Seat baseline,513996,1,1
+4,advanced,Seat baseline,513998,1,1
+4,advanced,Seat baseline,513999,2,1
+4,advanced,KNN,513000,1,2
+4,advanced,KNN,513017,1,4
+4,advanced,KNN,513024,1,1
+4,advanced,KNN,513025,1,1
+4,advanced,KNN,513028,2,1
+4,advanced,KNN,513034,4,3
+4,advanced,KNN,513039,4,1
+4,advanced,KNN,513043,4,4
+4,advanced,KNN,513048,2,1
+4,advanced,KNN,513049,3,3
+4,advanced,KNN,513056,2,3
+4,advanced,KNN,513057,3,3
+4,advanced,KNN,513073,4,3
+4,advanced,KNN,513075,4,4
+4,advanced,KNN,513081,3,3
+4,advanced,KNN,513092,1,4
+4,advanced,KNN,513096,4,3
+4,advanced,KNN,513098,4,1
+4,advanced,KNN,513101,2,4
+4,advanced,KNN,513104,1,3
+4,advanced,KNN,513105,3,3
+4,advanced,KNN,513113,3,3
+4,advanced,KNN,513127,1,1
+4,advanced,KNN,513130,2,2
+4,advanced,KNN,513131,2,1
+4,advanced,KNN,513132,4,4
+4,advanced,KNN,513134,1,4
+4,advanced,KNN,513138,2,2
+4,advanced,KNN,513139,3,4
+4,advanced,KNN,513140,2,2
+4,advanced,KNN,513141,1,1
+4,advanced,KNN,513148,4,2
+4,advanced,KNN,513150,2,1
+4,advanced,KNN,513153,4,1
+4,advanced,KNN,513159,1,4
+4,advanced,KNN,513161,1,1
+4,advanced,KNN,513162,3,4
+4,advanced,KNN,513167,4,4
+4,advanced,KNN,513170,2,1
+4,advanced,KNN,513174,4,1
+4,advanced,KNN,513175,2,2
+4,advanced,KNN,513178,4,2
+4,advanced,KNN,513182,2,2
+4,advanced,KNN,513185,2,1
+4,advanced,KNN,513194,4,3
+4,advanced,KNN,513202,2,3
+4,advanced,KNN,513203,2,1
+4,advanced,KNN,513207,3,4
+4,advanced,KNN,513208,1,1
+4,advanced,KNN,513210,3,3
+4,advanced,KNN,513212,2,4
+4,advanced,KNN,513213,1,1
+4,advanced,KNN,513215,3,3
+4,advanced,KNN,513220,2,1
+4,advanced,KNN,513221,2,1
+4,advanced,KNN,513224,1,1
+4,advanced,KNN,513226,1,1
+4,advanced,KNN,513228,3,1
+4,advanced,KNN,513230,1,1
+4,advanced,KNN,513231,2,2
+4,advanced,KNN,513234,3,3
+4,advanced,KNN,513237,3,3
+4,advanced,KNN,513239,4,4
+4,advanced,KNN,513242,1,2
+4,advanced,KNN,513250,2,2
+4,advanced,KNN,513255,3,2
+4,advanced,KNN,513258,4,4
+4,advanced,KNN,513261,4,4
+4,advanced,KNN,513262,2,2
+4,advanced,KNN,513269,3,4
+4,advanced,KNN,513270,4,4
+4,advanced,KNN,513275,2,1
+4,advanced,KNN,513284,4,4
+4,advanced,KNN,513285,4,3
+4,advanced,KNN,513288,1,1
+4,advanced,KNN,513289,2,3
+4,advanced,KNN,513293,4,4
+4,advanced,KNN,513294,4,1
+4,advanced,KNN,513297,4,3
+4,advanced,KNN,513298,4,1
+4,advanced,KNN,513303,3,1
+4,advanced,KNN,513306,2,1
+4,advanced,KNN,513308,4,4
+4,advanced,KNN,513313,4,4
+4,advanced,KNN,513314,4,4
+4,advanced,KNN,513320,1,1
+4,advanced,KNN,513321,3,4
+4,advanced,KNN,513332,3,4
+4,advanced,KNN,513333,4,4
+4,advanced,KNN,513334,3,4
+4,advanced,KNN,513335,1,1
+4,advanced,KNN,513338,1,3
+4,advanced,KNN,513339,4,1
+4,advanced,KNN,513341,2,4
+4,advanced,KNN,513342,4,4
+4,advanced,KNN,513343,2,4
+4,advanced,KNN,513348,2,3
+4,advanced,KNN,513351,2,3
+4,advanced,KNN,513356,3,3
+4,advanced,KNN,513358,1,4
+4,advanced,KNN,513368,4,4
+4,advanced,KNN,513374,4,3
+4,advanced,KNN,513376,3,1
+4,advanced,KNN,513378,3,3
+4,advanced,KNN,513381,4,3
+4,advanced,KNN,513382,1,1
+4,advanced,KNN,513383,4,1
+4,advanced,KNN,513385,2,2
+4,advanced,KNN,513402,3,1
+4,advanced,KNN,513403,3,4
+4,advanced,KNN,513404,2,2
+4,advanced,KNN,513407,2,3
+4,advanced,KNN,513408,1,1
+4,advanced,KNN,513416,3,3
+4,advanced,KNN,513417,1,3
+4,advanced,KNN,513420,3,3
+4,advanced,KNN,513424,1,4
+4,advanced,KNN,513431,3,1
+4,advanced,KNN,513432,1,4
+4,advanced,KNN,513437,4,4
+4,advanced,KNN,513438,3,3
+4,advanced,KNN,513443,1,1
+4,advanced,KNN,513447,2,4
+4,advanced,KNN,513448,2,4
+4,advanced,KNN,513459,2,3
+4,advanced,KNN,513464,3,4
+4,advanced,KNN,513465,2,4
+4,advanced,KNN,513468,2,3
+4,advanced,KNN,513469,2,2
+4,advanced,KNN,513470,2,1
+4,advanced,KNN,513471,2,1
+4,advanced,KNN,513475,1,1
+4,advanced,KNN,513484,1,1
+4,advanced,KNN,513486,4,3
+4,advanced,KNN,513487,3,3
+4,advanced,KNN,513490,1,1
+4,advanced,KNN,513491,1,1
+4,advanced,KNN,513495,2,3
+4,advanced,KNN,513502,3,4
+4,advanced,KNN,513504,2,1
+4,advanced,KNN,513509,4,4
+4,advanced,KNN,513521,1,1
+4,advanced,KNN,513523,4,2
+4,advanced,KNN,513529,3,3
+4,advanced,KNN,513530,2,4
+4,advanced,KNN,513537,4,3
+4,advanced,KNN,513539,2,4
+4,advanced,KNN,513541,3,3
+4,advanced,KNN,513543,4,4
+4,advanced,KNN,513547,2,1
+4,advanced,KNN,513554,3,3
+4,advanced,KNN,513555,4,4
+4,advanced,KNN,513563,1,4
+4,advanced,KNN,513571,1,2
+4,advanced,KNN,513576,1,1
+4,advanced,KNN,513580,3,3
+4,advanced,KNN,513581,3,4
+4,advanced,KNN,513583,3,3
+4,advanced,KNN,513589,1,1
+4,advanced,KNN,513590,3,3
+4,advanced,KNN,513594,1,1
+4,advanced,KNN,513602,4,1
+4,advanced,KNN,513606,3,4
+4,advanced,KNN,513615,4,1
+4,advanced,KNN,513617,4,1
+4,advanced,KNN,513618,4,1
+4,advanced,KNN,513632,4,1
+4,advanced,KNN,513639,1,2
+4,advanced,KNN,513663,4,1
+4,advanced,KNN,513670,1,4
+4,advanced,KNN,513687,1,3
+4,advanced,KNN,513696,3,3
+4,advanced,KNN,513697,2,1
+4,advanced,KNN,513704,4,3
+4,advanced,KNN,513719,3,3
+4,advanced,KNN,513720,1,1
+4,advanced,KNN,513721,1,1
+4,advanced,KNN,513723,4,4
+4,advanced,KNN,513726,2,4
+4,advanced,KNN,513729,2,4
+4,advanced,KNN,513731,2,3
+4,advanced,KNN,513734,4,1
+4,advanced,KNN,513741,2,2
+4,advanced,KNN,513744,2,4
+4,advanced,KNN,513746,3,1
+4,advanced,KNN,513755,1,1
+4,advanced,KNN,513761,4,4
+4,advanced,KNN,513764,2,2
+4,advanced,KNN,513767,1,1
+4,advanced,KNN,513772,1,1
+4,advanced,KNN,513773,1,4
+4,advanced,KNN,513774,3,1
+4,advanced,KNN,513777,4,4
+4,advanced,KNN,513778,1,1
+4,advanced,KNN,513780,1,3
+4,advanced,KNN,513781,2,4
+4,advanced,KNN,513782,1,4
+4,advanced,KNN,513783,1,3
+4,advanced,KNN,513784,1,3
+4,advanced,KNN,513793,4,3
+4,advanced,KNN,513805,3,3
+4,advanced,KNN,513806,2,1
+4,advanced,KNN,513811,1,4
+4,advanced,KNN,513813,2,2
+4,advanced,KNN,513817,4,4
+4,advanced,KNN,513820,3,1
+4,advanced,KNN,513825,4,3
+4,advanced,KNN,513827,2,1
+4,advanced,KNN,513833,3,3
+4,advanced,KNN,513842,1,1
+4,advanced,KNN,513844,1,1
+4,advanced,KNN,513846,4,1
+4,advanced,KNN,513853,2,2
+4,advanced,KNN,513855,4,4
+4,advanced,KNN,513859,4,1
+4,advanced,KNN,513861,1,4
+4,advanced,KNN,513865,4,4
+4,advanced,KNN,513866,1,1
+4,advanced,KNN,513882,4,1
+4,advanced,KNN,513883,3,1
+4,advanced,KNN,513885,3,3
+4,advanced,KNN,513888,3,3
+4,advanced,KNN,513889,3,3
+4,advanced,KNN,513891,4,2
+4,advanced,KNN,513892,3,3
+4,advanced,KNN,513897,2,2
+4,advanced,KNN,513903,4,4
+4,advanced,KNN,513905,4,1
+4,advanced,KNN,513909,1,1
+4,advanced,KNN,513911,3,2
+4,advanced,KNN,513913,4,1
+4,advanced,KNN,513927,1,4
+4,advanced,KNN,513938,4,1
+4,advanced,KNN,513940,4,1
+4,advanced,KNN,513945,4,4
+4,advanced,KNN,513947,3,4
+4,advanced,KNN,513949,3,1
+4,advanced,KNN,513955,1,3
+4,advanced,KNN,513957,1,1
+4,advanced,KNN,513958,3,3
+4,advanced,KNN,513961,2,2
+4,advanced,KNN,513967,2,2
+4,advanced,KNN,513970,3,4
+4,advanced,KNN,513974,2,2
+4,advanced,KNN,513979,1,1
+4,advanced,KNN,513991,4,4
+4,advanced,KNN,513993,2,4
+4,advanced,KNN,513996,1,1
+4,advanced,KNN,513998,1,1
+4,advanced,KNN,513999,2,3
+4,advanced,Naive Bayes,513000,1,1
+4,advanced,Naive Bayes,513017,1,4
+4,advanced,Naive Bayes,513024,1,1
+4,advanced,Naive Bayes,513025,1,1
+4,advanced,Naive Bayes,513028,2,1
+4,advanced,Naive Bayes,513034,4,3
+4,advanced,Naive Bayes,513039,4,1
+4,advanced,Naive Bayes,513043,4,4
+4,advanced,Naive Bayes,513048,2,1
+4,advanced,Naive Bayes,513049,3,4
+4,advanced,Naive Bayes,513056,2,3
+4,advanced,Naive Bayes,513057,3,3
+4,advanced,Naive Bayes,513073,4,4
+4,advanced,Naive Bayes,513075,4,4
+4,advanced,Naive Bayes,513081,3,2
+4,advanced,Naive Bayes,513092,1,4
+4,advanced,Naive Bayes,513096,4,4
+4,advanced,Naive Bayes,513098,4,4
+4,advanced,Naive Bayes,513101,2,2
+4,advanced,Naive Bayes,513104,1,1
+4,advanced,Naive Bayes,513105,3,3
+4,advanced,Naive Bayes,513113,3,3
+4,advanced,Naive Bayes,513127,1,4
+4,advanced,Naive Bayes,513130,2,2
+4,advanced,Naive Bayes,513131,2,3
+4,advanced,Naive Bayes,513132,4,4
+4,advanced,Naive Bayes,513134,1,4
+4,advanced,Naive Bayes,513138,2,2
+4,advanced,Naive Bayes,513139,3,4
+4,advanced,Naive Bayes,513140,2,2
+4,advanced,Naive Bayes,513141,1,1
+4,advanced,Naive Bayes,513148,4,1
+4,advanced,Naive Bayes,513150,2,1
+4,advanced,Naive Bayes,513153,4,4
+4,advanced,Naive Bayes,513159,1,2
+4,advanced,Naive Bayes,513161,1,3
+4,advanced,Naive Bayes,513162,3,4
+4,advanced,Naive Bayes,513167,4,4
+4,advanced,Naive Bayes,513170,2,2
+4,advanced,Naive Bayes,513174,4,1
+4,advanced,Naive Bayes,513175,2,1
+4,advanced,Naive Bayes,513178,4,3
+4,advanced,Naive Bayes,513182,2,2
+4,advanced,Naive Bayes,513185,2,3
+4,advanced,Naive Bayes,513194,4,3
+4,advanced,Naive Bayes,513202,2,3
+4,advanced,Naive Bayes,513203,2,1
+4,advanced,Naive Bayes,513207,3,3
+4,advanced,Naive Bayes,513208,1,1
+4,advanced,Naive Bayes,513210,3,3
+4,advanced,Naive Bayes,513212,2,1
+4,advanced,Naive Bayes,513213,1,3
+4,advanced,Naive Bayes,513215,3,3
+4,advanced,Naive Bayes,513220,2,2
+4,advanced,Naive Bayes,513221,2,2
+4,advanced,Naive Bayes,513224,1,1
+4,advanced,Naive Bayes,513226,1,4
+4,advanced,Naive Bayes,513228,3,3
+4,advanced,Naive Bayes,513230,1,1
+4,advanced,Naive Bayes,513231,2,2
+4,advanced,Naive Bayes,513234,3,2
+4,advanced,Naive Bayes,513237,3,3
+4,advanced,Naive Bayes,513239,4,4
+4,advanced,Naive Bayes,513242,1,2
+4,advanced,Naive Bayes,513250,2,2
+4,advanced,Naive Bayes,513255,3,2
+4,advanced,Naive Bayes,513258,4,4
+4,advanced,Naive Bayes,513261,4,4
+4,advanced,Naive Bayes,513262,2,2
+4,advanced,Naive Bayes,513269,3,4
+4,advanced,Naive Bayes,513270,4,4
+4,advanced,Naive Bayes,513275,2,2
+4,advanced,Naive Bayes,513284,4,4
+4,advanced,Naive Bayes,513285,4,3
+4,advanced,Naive Bayes,513288,1,4
+4,advanced,Naive Bayes,513289,2,3
+4,advanced,Naive Bayes,513293,4,4
+4,advanced,Naive Bayes,513294,4,3
+4,advanced,Naive Bayes,513297,4,4
+4,advanced,Naive Bayes,513298,4,4
+4,advanced,Naive Bayes,513303,3,1
+4,advanced,Naive Bayes,513306,2,4
+4,advanced,Naive Bayes,513308,4,4
+4,advanced,Naive Bayes,513313,4,4
+4,advanced,Naive Bayes,513314,4,2
+4,advanced,Naive Bayes,513320,1,1
+4,advanced,Naive Bayes,513321,3,4
+4,advanced,Naive Bayes,513332,3,3
+4,advanced,Naive Bayes,513333,4,4
+4,advanced,Naive Bayes,513334,3,3
+4,advanced,Naive Bayes,513335,1,1
+4,advanced,Naive Bayes,513338,1,3
+4,advanced,Naive Bayes,513339,4,3
+4,advanced,Naive Bayes,513341,2,4
+4,advanced,Naive Bayes,513342,4,4
+4,advanced,Naive Bayes,513343,2,2
+4,advanced,Naive Bayes,513348,2,3
+4,advanced,Naive Bayes,513351,2,3
+4,advanced,Naive Bayes,513356,3,3
+4,advanced,Naive Bayes,513358,1,4
+4,advanced,Naive Bayes,513368,4,4
+4,advanced,Naive Bayes,513374,4,4
+4,advanced,Naive Bayes,513376,3,4
+4,advanced,Naive Bayes,513378,3,3
+4,advanced,Naive Bayes,513381,4,3
+4,advanced,Naive Bayes,513382,1,1
+4,advanced,Naive Bayes,513383,4,1
+4,advanced,Naive Bayes,513385,2,2
+4,advanced,Naive Bayes,513402,3,3
+4,advanced,Naive Bayes,513403,3,4
+4,advanced,Naive Bayes,513404,2,2
+4,advanced,Naive Bayes,513407,2,3
+4,advanced,Naive Bayes,513408,1,1
+4,advanced,Naive Bayes,513416,3,2
+4,advanced,Naive Bayes,513417,1,3
+4,advanced,Naive Bayes,513420,3,3
+4,advanced,Naive Bayes,513424,1,4
+4,advanced,Naive Bayes,513431,3,3
+4,advanced,Naive Bayes,513432,1,3
+4,advanced,Naive Bayes,513437,4,2
+4,advanced,Naive Bayes,513438,3,1
+4,advanced,Naive Bayes,513443,1,4
+4,advanced,Naive Bayes,513447,2,4
+4,advanced,Naive Bayes,513448,2,4
+4,advanced,Naive Bayes,513459,2,3
+4,advanced,Naive Bayes,513464,3,3
+4,advanced,Naive Bayes,513465,2,2
+4,advanced,Naive Bayes,513468,2,3
+4,advanced,Naive Bayes,513469,2,2
+4,advanced,Naive Bayes,513470,2,4
+4,advanced,Naive Bayes,513471,2,2
+4,advanced,Naive Bayes,513475,1,1
+4,advanced,Naive Bayes,513484,1,1
+4,advanced,Naive Bayes,513486,4,4
+4,advanced,Naive Bayes,513487,3,3
+4,advanced,Naive Bayes,513490,1,1
+4,advanced,Naive Bayes,513491,1,1
+4,advanced,Naive Bayes,513495,2,3
+4,advanced,Naive Bayes,513502,3,4
+4,advanced,Naive Bayes,513504,2,4
+4,advanced,Naive Bayes,513509,4,3
+4,advanced,Naive Bayes,513521,1,1
+4,advanced,Naive Bayes,513523,4,4
+4,advanced,Naive Bayes,513529,3,1
+4,advanced,Naive Bayes,513530,2,4
+4,advanced,Naive Bayes,513537,4,3
+4,advanced,Naive Bayes,513539,2,1
+4,advanced,Naive Bayes,513541,3,3
+4,advanced,Naive Bayes,513543,4,4
+4,advanced,Naive Bayes,513547,2,1
+4,advanced,Naive Bayes,513554,3,3
+4,advanced,Naive Bayes,513555,4,4
+4,advanced,Naive Bayes,513563,1,4
+4,advanced,Naive Bayes,513571,1,1
+4,advanced,Naive Bayes,513576,1,4
+4,advanced,Naive Bayes,513580,3,3
+4,advanced,Naive Bayes,513581,3,4
+4,advanced,Naive Bayes,513583,3,3
+4,advanced,Naive Bayes,513589,1,1
+4,advanced,Naive Bayes,513590,3,3
+4,advanced,Naive Bayes,513594,1,1
+4,advanced,Naive Bayes,513602,4,4
+4,advanced,Naive Bayes,513606,3,1
+4,advanced,Naive Bayes,513615,4,1
+4,advanced,Naive Bayes,513617,4,4
+4,advanced,Naive Bayes,513618,4,1
+4,advanced,Naive Bayes,513632,4,4
+4,advanced,Naive Bayes,513639,1,2
+4,advanced,Naive Bayes,513663,4,1
+4,advanced,Naive Bayes,513670,1,3
+4,advanced,Naive Bayes,513687,1,1
+4,advanced,Naive Bayes,513696,3,3
+4,advanced,Naive Bayes,513697,2,4
+4,advanced,Naive Bayes,513704,4,1
+4,advanced,Naive Bayes,513719,3,1
+4,advanced,Naive Bayes,513720,1,1
+4,advanced,Naive Bayes,513721,1,1
+4,advanced,Naive Bayes,513723,4,4
+4,advanced,Naive Bayes,513726,2,2
+4,advanced,Naive Bayes,513729,2,2
+4,advanced,Naive Bayes,513731,2,2
+4,advanced,Naive Bayes,513734,4,4
+4,advanced,Naive Bayes,513741,2,3
+4,advanced,Naive Bayes,513744,2,2
+4,advanced,Naive Bayes,513746,3,1
+4,advanced,Naive Bayes,513755,1,1
+4,advanced,Naive Bayes,513761,4,4
+4,advanced,Naive Bayes,513764,2,2
+4,advanced,Naive Bayes,513767,1,4
+4,advanced,Naive Bayes,513772,1,1
+4,advanced,Naive Bayes,513773,1,4
+4,advanced,Naive Bayes,513774,3,3
+4,advanced,Naive Bayes,513777,4,4
+4,advanced,Naive Bayes,513778,1,4
+4,advanced,Naive Bayes,513780,1,3
+4,advanced,Naive Bayes,513781,2,4
+4,advanced,Naive Bayes,513782,1,4
+4,advanced,Naive Bayes,513783,1,3
+4,advanced,Naive Bayes,513784,1,3
+4,advanced,Naive Bayes,513793,4,3
+4,advanced,Naive Bayes,513805,3,3
+4,advanced,Naive Bayes,513806,2,2
+4,advanced,Naive Bayes,513811,1,4
+4,advanced,Naive Bayes,513813,2,2
+4,advanced,Naive Bayes,513817,4,4
+4,advanced,Naive Bayes,513820,3,1
+4,advanced,Naive Bayes,513825,4,4
+4,advanced,Naive Bayes,513827,2,1
+4,advanced,Naive Bayes,513833,3,1
+4,advanced,Naive Bayes,513842,1,1
+4,advanced,Naive Bayes,513844,1,1
+4,advanced,Naive Bayes,513846,4,1
+4,advanced,Naive Bayes,513853,2,3
+4,advanced,Naive Bayes,513855,4,4
+4,advanced,Naive Bayes,513859,4,2
+4,advanced,Naive Bayes,513861,1,3
+4,advanced,Naive Bayes,513865,4,2
+4,advanced,Naive Bayes,513866,1,4
+4,advanced,Naive Bayes,513882,4,3
+4,advanced,Naive Bayes,513883,3,4
+4,advanced,Naive Bayes,513885,3,4
+4,advanced,Naive Bayes,513888,3,3
+4,advanced,Naive Bayes,513889,3,4
+4,advanced,Naive Bayes,513891,4,2
+4,advanced,Naive Bayes,513892,3,3
+4,advanced,Naive Bayes,513897,2,4
+4,advanced,Naive Bayes,513903,4,3
+4,advanced,Naive Bayes,513905,4,4
+4,advanced,Naive Bayes,513909,1,1
+4,advanced,Naive Bayes,513911,3,2
+4,advanced,Naive Bayes,513913,4,2
+4,advanced,Naive Bayes,513927,1,4
+4,advanced,Naive Bayes,513938,4,4
+4,advanced,Naive Bayes,513940,4,3
+4,advanced,Naive Bayes,513945,4,4
+4,advanced,Naive Bayes,513947,3,4
+4,advanced,Naive Bayes,513949,3,3
+4,advanced,Naive Bayes,513955,1,3
+4,advanced,Naive Bayes,513957,1,1
+4,advanced,Naive Bayes,513958,3,3
+4,advanced,Naive Bayes,513961,2,2
+4,advanced,Naive Bayes,513967,2,2
+4,advanced,Naive Bayes,513970,3,3
+4,advanced,Naive Bayes,513974,2,2
+4,advanced,Naive Bayes,513979,1,1
+4,advanced,Naive Bayes,513991,4,2
+4,advanced,Naive Bayes,513993,2,4
+4,advanced,Naive Bayes,513996,1,1
+4,advanced,Naive Bayes,513998,1,3
+4,advanced,Naive Bayes,513999,2,3
+4,advanced,CART,513000,1,4
+4,advanced,CART,513017,1,3
+4,advanced,CART,513024,1,3
+4,advanced,CART,513025,1,1
+4,advanced,CART,513028,2,1
+4,advanced,CART,513034,4,4
+4,advanced,CART,513039,4,1
+4,advanced,CART,513043,4,4
+4,advanced,CART,513048,2,2
+4,advanced,CART,513049,3,3
+4,advanced,CART,513056,2,3
+4,advanced,CART,513057,3,3
+4,advanced,CART,513073,4,3
+4,advanced,CART,513075,4,4
+4,advanced,CART,513081,3,2
+4,advanced,CART,513092,1,2
+4,advanced,CART,513096,4,3
+4,advanced,CART,513098,4,4
+4,advanced,CART,513101,2,2
+4,advanced,CART,513104,1,1
+4,advanced,CART,513105,3,3
+4,advanced,CART,513113,3,3
+4,advanced,CART,513127,1,1
+4,advanced,CART,513130,2,1
+4,advanced,CART,513131,2,1
+4,advanced,CART,513132,4,2
+4,advanced,CART,513134,1,4
+4,advanced,CART,513138,2,2
+4,advanced,CART,513139,3,4
+4,advanced,CART,513140,2,2
+4,advanced,CART,513141,1,1
+4,advanced,CART,513148,4,2
+4,advanced,CART,513150,2,2
+4,advanced,CART,513153,4,1
+4,advanced,CART,513159,1,2
+4,advanced,CART,513161,1,1
+4,advanced,CART,513162,3,4
+4,advanced,CART,513167,4,2
+4,advanced,CART,513170,2,3
+4,advanced,CART,513174,4,2
+4,advanced,CART,513175,2,2
+4,advanced,CART,513178,4,4
+4,advanced,CART,513182,2,2
+4,advanced,CART,513185,2,3
+4,advanced,CART,513194,4,3
+4,advanced,CART,513202,2,3
+4,advanced,CART,513203,2,2
+4,advanced,CART,513207,3,3
+4,advanced,CART,513208,1,3
+4,advanced,CART,513210,3,3
+4,advanced,CART,513212,2,1
+4,advanced,CART,513213,1,1
+4,advanced,CART,513215,3,3
+4,advanced,CART,513220,2,2
+4,advanced,CART,513221,2,2
+4,advanced,CART,513224,1,1
+4,advanced,CART,513226,1,1
+4,advanced,CART,513228,3,3
+4,advanced,CART,513230,1,1
+4,advanced,CART,513231,2,3
+4,advanced,CART,513234,3,2
+4,advanced,CART,513237,3,3
+4,advanced,CART,513239,4,4
+4,advanced,CART,513242,1,2
+4,advanced,CART,513250,2,2
+4,advanced,CART,513255,3,2
+4,advanced,CART,513258,4,2
+4,advanced,CART,513261,4,2
+4,advanced,CART,513262,2,2
+4,advanced,CART,513269,3,4
+4,advanced,CART,513270,4,2
+4,advanced,CART,513275,2,2
+4,advanced,CART,513284,4,4
+4,advanced,CART,513285,4,3
+4,advanced,CART,513288,1,1
+4,advanced,CART,513289,2,3
+4,advanced,CART,513293,4,4
+4,advanced,CART,513294,4,1
+4,advanced,CART,513297,4,4
+4,advanced,CART,513298,4,1
+4,advanced,CART,513303,3,3
+4,advanced,CART,513306,2,3
+4,advanced,CART,513308,4,2
+4,advanced,CART,513313,4,4
+4,advanced,CART,513314,4,2
+4,advanced,CART,513320,1,3
+4,advanced,CART,513321,3,1
+4,advanced,CART,513332,3,3
+4,advanced,CART,513333,4,1
+4,advanced,CART,513334,3,3
+4,advanced,CART,513335,1,1
+4,advanced,CART,513338,1,1
+4,advanced,CART,513339,4,3
+4,advanced,CART,513341,2,3
+4,advanced,CART,513342,4,3
+4,advanced,CART,513343,2,4
+4,advanced,CART,513348,2,3
+4,advanced,CART,513351,2,3
+4,advanced,CART,513356,3,3
+4,advanced,CART,513358,1,3
+4,advanced,CART,513368,4,2
+4,advanced,CART,513374,4,2
+4,advanced,CART,513376,3,3
+4,advanced,CART,513378,3,3
+4,advanced,CART,513381,4,3
+4,advanced,CART,513382,1,1
+4,advanced,CART,513383,4,2
+4,advanced,CART,513385,2,2
+4,advanced,CART,513402,3,3
+4,advanced,CART,513403,3,1
+4,advanced,CART,513404,2,2
+4,advanced,CART,513407,2,1
+4,advanced,CART,513408,1,1
+4,advanced,CART,513416,3,3
+4,advanced,CART,513417,1,3
+4,advanced,CART,513420,3,3
+4,advanced,CART,513424,1,4
+4,advanced,CART,513431,3,1
+4,advanced,CART,513432,1,3
+4,advanced,CART,513437,4,4
+4,advanced,CART,513438,3,3
+4,advanced,CART,513443,1,4
+4,advanced,CART,513447,2,4
+4,advanced,CART,513448,2,4
+4,advanced,CART,513459,2,3
+4,advanced,CART,513464,3,2
+4,advanced,CART,513465,2,2
+4,advanced,CART,513468,2,3
+4,advanced,CART,513469,2,2
+4,advanced,CART,513470,2,2
+4,advanced,CART,513471,2,4
+4,advanced,CART,513475,1,3
+4,advanced,CART,513484,1,1
+4,advanced,CART,513486,4,4
+4,advanced,CART,513487,3,3
+4,advanced,CART,513490,1,1
+4,advanced,CART,513491,1,1
+4,advanced,CART,513495,2,3
+4,advanced,CART,513502,3,2
+4,advanced,CART,513504,2,1
+4,advanced,CART,513509,4,3
+4,advanced,CART,513521,1,4
+4,advanced,CART,513523,4,4
+4,advanced,CART,513529,3,3
+4,advanced,CART,513530,2,3
+4,advanced,CART,513537,4,3
+4,advanced,CART,513539,2,2
+4,advanced,CART,513541,3,3
+4,advanced,CART,513543,4,4
+4,advanced,CART,513547,2,1
+4,advanced,CART,513554,3,3
+4,advanced,CART,513555,4,1
+4,advanced,CART,513563,1,4
+4,advanced,CART,513571,1,1
+4,advanced,CART,513576,1,1
+4,advanced,CART,513580,3,4
+4,advanced,CART,513581,3,2
+4,advanced,CART,513583,3,4
+4,advanced,CART,513589,1,1
+4,advanced,CART,513590,3,3
+4,advanced,CART,513594,1,3
+4,advanced,CART,513602,4,4
+4,advanced,CART,513606,3,2
+4,advanced,CART,513615,4,1
+4,advanced,CART,513617,4,4
+4,advanced,CART,513618,4,1
+4,advanced,CART,513632,4,4
+4,advanced,CART,513639,1,2
+4,advanced,CART,513663,4,1
+4,advanced,CART,513670,1,3
+4,advanced,CART,513687,1,1
+4,advanced,CART,513696,3,3
+4,advanced,CART,513697,2,1
+4,advanced,CART,513704,4,4
+4,advanced,CART,513719,3,3
+4,advanced,CART,513720,1,1
+4,advanced,CART,513721,1,1
+4,advanced,CART,513723,4,4
+4,advanced,CART,513726,2,2
+4,advanced,CART,513729,2,1
+4,advanced,CART,513731,2,3
+4,advanced,CART,513734,4,1
+4,advanced,CART,513741,2,2
+4,advanced,CART,513744,2,2
+4,advanced,CART,513746,3,4
+4,advanced,CART,513755,1,1
+4,advanced,CART,513761,4,4
+4,advanced,CART,513764,2,2
+4,advanced,CART,513767,1,1
+4,advanced,CART,513772,1,1
+4,advanced,CART,513773,1,4
+4,advanced,CART,513774,3,1
+4,advanced,CART,513777,4,4
+4,advanced,CART,513778,1,1
+4,advanced,CART,513780,1,3
+4,advanced,CART,513781,2,3
+4,advanced,CART,513782,1,4
+4,advanced,CART,513783,1,3
+4,advanced,CART,513784,1,1
+4,advanced,CART,513793,4,3
+4,advanced,CART,513805,3,3
+4,advanced,CART,513806,2,2
+4,advanced,CART,513811,1,4
+4,advanced,CART,513813,2,2
+4,advanced,CART,513817,4,2
+4,advanced,CART,513820,3,3
+4,advanced,CART,513825,4,3
+4,advanced,CART,513827,2,1
+4,advanced,CART,513833,3,1
+4,advanced,CART,513842,1,1
+4,advanced,CART,513844,1,1
+4,advanced,CART,513846,4,1
+4,advanced,CART,513853,2,3
+4,advanced,CART,513855,4,4
+4,advanced,CART,513859,4,2
+4,advanced,CART,513861,1,1
+4,advanced,CART,513865,4,2
+4,advanced,CART,513866,1,4
+4,advanced,CART,513882,4,3
+4,advanced,CART,513883,3,1
+4,advanced,CART,513885,3,2
+4,advanced,CART,513888,3,4
+4,advanced,CART,513889,3,1
+4,advanced,CART,513891,4,2
+4,advanced,CART,513892,3,3
+4,advanced,CART,513897,2,3
+4,advanced,CART,513903,4,3
+4,advanced,CART,513905,4,3
+4,advanced,CART,513909,1,1
+4,advanced,CART,513911,3,2
+4,advanced,CART,513913,4,4
+4,advanced,CART,513927,1,1
+4,advanced,CART,513938,4,2
+4,advanced,CART,513940,4,1
+4,advanced,CART,513945,4,4
+4,advanced,CART,513947,3,4
+4,advanced,CART,513949,3,4
+4,advanced,CART,513955,1,3
+4,advanced,CART,513957,1,3
+4,advanced,CART,513958,3,3
+4,advanced,CART,513961,2,4
+4,advanced,CART,513967,2,2
+4,advanced,CART,513970,3,3
+4,advanced,CART,513974,2,2
+4,advanced,CART,513979,1,3
+4,advanced,CART,513991,4,2
+4,advanced,CART,513993,2,2
+4,advanced,CART,513996,1,1
+4,advanced,CART,513998,1,2
+4,advanced,CART,513999,2,3
+4,advanced,Random Forest,513000,1,1
+4,advanced,Random Forest,513017,1,3
+4,advanced,Random Forest,513024,1,1
+4,advanced,Random Forest,513025,1,1
+4,advanced,Random Forest,513028,2,1
+4,advanced,Random Forest,513034,4,3
+4,advanced,Random Forest,513039,4,1
+4,advanced,Random Forest,513043,4,4
+4,advanced,Random Forest,513048,2,1
+4,advanced,Random Forest,513049,3,4
+4,advanced,Random Forest,513056,2,3
+4,advanced,Random Forest,513057,3,3
+4,advanced,Random Forest,513073,4,3
+4,advanced,Random Forest,513075,4,4
+4,advanced,Random Forest,513081,3,2
+4,advanced,Random Forest,513092,1,4
+4,advanced,Random Forest,513096,4,3
+4,advanced,Random Forest,513098,4,4
+4,advanced,Random Forest,513101,2,4
+4,advanced,Random Forest,513104,1,3
+4,advanced,Random Forest,513105,3,3
+4,advanced,Random Forest,513113,3,3
+4,advanced,Random Forest,513127,1,1
+4,advanced,Random Forest,513130,2,2
+4,advanced,Random Forest,513131,2,1
+4,advanced,Random Forest,513132,4,4
+4,advanced,Random Forest,513134,1,4
+4,advanced,Random Forest,513138,2,2
+4,advanced,Random Forest,513139,3,4
+4,advanced,Random Forest,513140,2,2
+4,advanced,Random Forest,513141,1,1
+4,advanced,Random Forest,513148,4,2
+4,advanced,Random Forest,513150,2,1
+4,advanced,Random Forest,513153,4,1
+4,advanced,Random Forest,513159,1,4
+4,advanced,Random Forest,513161,1,3
+4,advanced,Random Forest,513162,3,4
+4,advanced,Random Forest,513167,4,4
+4,advanced,Random Forest,513170,2,2
+4,advanced,Random Forest,513174,4,2
+4,advanced,Random Forest,513175,2,2
+4,advanced,Random Forest,513178,4,4
+4,advanced,Random Forest,513182,2,2
+4,advanced,Random Forest,513185,2,3
+4,advanced,Random Forest,513194,4,3
+4,advanced,Random Forest,513202,2,3
+4,advanced,Random Forest,513203,2,1
+4,advanced,Random Forest,513207,3,3
+4,advanced,Random Forest,513208,1,1
+4,advanced,Random Forest,513210,3,3
+4,advanced,Random Forest,513212,2,1
+4,advanced,Random Forest,513213,1,3
+4,advanced,Random Forest,513215,3,3
+4,advanced,Random Forest,513220,2,2
+4,advanced,Random Forest,513221,2,2
+4,advanced,Random Forest,513224,1,1
+4,advanced,Random Forest,513226,1,4
+4,advanced,Random Forest,513228,3,3
+4,advanced,Random Forest,513230,1,1
+4,advanced,Random Forest,513231,2,2
+4,advanced,Random Forest,513234,3,2
+4,advanced,Random Forest,513237,3,3
+4,advanced,Random Forest,513239,4,4
+4,advanced,Random Forest,513242,1,2
+4,advanced,Random Forest,513250,2,2
+4,advanced,Random Forest,513255,3,2
+4,advanced,Random Forest,513258,4,4
+4,advanced,Random Forest,513261,4,4
+4,advanced,Random Forest,513262,2,2
+4,advanced,Random Forest,513269,3,4
+4,advanced,Random Forest,513270,4,4
+4,advanced,Random Forest,513275,2,2
+4,advanced,Random Forest,513284,4,4
+4,advanced,Random Forest,513285,4,3
+4,advanced,Random Forest,513288,1,1
+4,advanced,Random Forest,513289,2,3
+4,advanced,Random Forest,513293,4,4
+4,advanced,Random Forest,513294,4,1
+4,advanced,Random Forest,513297,4,4
+4,advanced,Random Forest,513298,4,1
+4,advanced,Random Forest,513303,3,1
+4,advanced,Random Forest,513306,2,3
+4,advanced,Random Forest,513308,4,4
+4,advanced,Random Forest,513313,4,4
+4,advanced,Random Forest,513314,4,2
+4,advanced,Random Forest,513320,1,1
+4,advanced,Random Forest,513321,3,1
+4,advanced,Random Forest,513332,3,3
+4,advanced,Random Forest,513333,4,4
+4,advanced,Random Forest,513334,3,3
+4,advanced,Random Forest,513335,1,1
+4,advanced,Random Forest,513338,1,3
+4,advanced,Random Forest,513339,4,3
+4,advanced,Random Forest,513341,2,4
+4,advanced,Random Forest,513342,4,4
+4,advanced,Random Forest,513343,2,4
+4,advanced,Random Forest,513348,2,3
+4,advanced,Random Forest,513351,2,3
+4,advanced,Random Forest,513356,3,3
+4,advanced,Random Forest,513358,1,3
+4,advanced,Random Forest,513368,4,4
+4,advanced,Random Forest,513374,4,4
+4,advanced,Random Forest,513376,3,4
+4,advanced,Random Forest,513378,3,3
+4,advanced,Random Forest,513381,4,3
+4,advanced,Random Forest,513382,1,1
+4,advanced,Random Forest,513383,4,2
+4,advanced,Random Forest,513385,2,2
+4,advanced,Random Forest,513402,3,3
+4,advanced,Random Forest,513403,3,1
+4,advanced,Random Forest,513404,2,4
+4,advanced,Random Forest,513407,2,3
+4,advanced,Random Forest,513408,1,1
+4,advanced,Random Forest,513416,3,3
+4,advanced,Random Forest,513417,1,3
+4,advanced,Random Forest,513420,3,3
+4,advanced,Random Forest,513424,1,4
+4,advanced,Random Forest,513431,3,3
+4,advanced,Random Forest,513432,1,3
+4,advanced,Random Forest,513437,4,4
+4,advanced,Random Forest,513438,3,3
+4,advanced,Random Forest,513443,1,3
+4,advanced,Random Forest,513447,2,4
+4,advanced,Random Forest,513448,2,4
+4,advanced,Random Forest,513459,2,3
+4,advanced,Random Forest,513464,3,4
+4,advanced,Random Forest,513465,2,1
+4,advanced,Random Forest,513468,2,3
+4,advanced,Random Forest,513469,2,2
+4,advanced,Random Forest,513470,2,1
+4,advanced,Random Forest,513471,2,2
+4,advanced,Random Forest,513475,1,1
+4,advanced,Random Forest,513484,1,1
+4,advanced,Random Forest,513486,4,4
+4,advanced,Random Forest,513487,3,3
+4,advanced,Random Forest,513490,1,1
+4,advanced,Random Forest,513491,1,1
+4,advanced,Random Forest,513495,2,3
+4,advanced,Random Forest,513502,3,4
+4,advanced,Random Forest,513504,2,4
+4,advanced,Random Forest,513509,4,3
+4,advanced,Random Forest,513521,1,1
+4,advanced,Random Forest,513523,4,4
+4,advanced,Random Forest,513529,3,3
+4,advanced,Random Forest,513530,2,4
+4,advanced,Random Forest,513537,4,3
+4,advanced,Random Forest,513539,2,4
+4,advanced,Random Forest,513541,3,3
+4,advanced,Random Forest,513543,4,4
+4,advanced,Random Forest,513547,2,1
+4,advanced,Random Forest,513554,3,3
+4,advanced,Random Forest,513555,4,4
+4,advanced,Random Forest,513563,1,4
+4,advanced,Random Forest,513571,1,1
+4,advanced,Random Forest,513576,1,1
+4,advanced,Random Forest,513580,3,3
+4,advanced,Random Forest,513581,3,4
+4,advanced,Random Forest,513583,3,3
+4,advanced,Random Forest,513589,1,1
+4,advanced,Random Forest,513590,3,3
+4,advanced,Random Forest,513594,1,1
+4,advanced,Random Forest,513602,4,4
+4,advanced,Random Forest,513606,3,4
+4,advanced,Random Forest,513615,4,1
+4,advanced,Random Forest,513617,4,4
+4,advanced,Random Forest,513618,4,1
+4,advanced,Random Forest,513632,4,1
+4,advanced,Random Forest,513639,1,2
+4,advanced,Random Forest,513663,4,1
+4,advanced,Random Forest,513670,1,3
+4,advanced,Random Forest,513687,1,1
+4,advanced,Random Forest,513696,3,3
+4,advanced,Random Forest,513697,2,1
+4,advanced,Random Forest,513704,4,3
+4,advanced,Random Forest,513719,3,3
+4,advanced,Random Forest,513720,1,1
+4,advanced,Random Forest,513721,1,1
+4,advanced,Random Forest,513723,4,4
+4,advanced,Random Forest,513726,2,2
+4,advanced,Random Forest,513729,2,1
+4,advanced,Random Forest,513731,2,2
+4,advanced,Random Forest,513734,4,1
+4,advanced,Random Forest,513741,2,3
+4,advanced,Random Forest,513744,2,2
+4,advanced,Random Forest,513746,3,1
+4,advanced,Random Forest,513755,1,1
+4,advanced,Random Forest,513761,4,4
+4,advanced,Random Forest,513764,2,2
+4,advanced,Random Forest,513767,1,1
+4,advanced,Random Forest,513772,1,1
+4,advanced,Random Forest,513773,1,4
+4,advanced,Random Forest,513774,3,3
+4,advanced,Random Forest,513777,4,3
+4,advanced,Random Forest,513778,1,4
+4,advanced,Random Forest,513780,1,3
+4,advanced,Random Forest,513781,2,4
+4,advanced,Random Forest,513782,1,4
+4,advanced,Random Forest,513783,1,1
+4,advanced,Random Forest,513784,1,3
+4,advanced,Random Forest,513793,4,3
+4,advanced,Random Forest,513805,3,3
+4,advanced,Random Forest,513806,2,2
+4,advanced,Random Forest,513811,1,4
+4,advanced,Random Forest,513813,2,2
+4,advanced,Random Forest,513817,4,4
+4,advanced,Random Forest,513820,3,1
+4,advanced,Random Forest,513825,4,3
+4,advanced,Random Forest,513827,2,1
+4,advanced,Random Forest,513833,3,1
+4,advanced,Random Forest,513842,1,1
+4,advanced,Random Forest,513844,1,1
+4,advanced,Random Forest,513846,4,1
+4,advanced,Random Forest,513853,2,3
+4,advanced,Random Forest,513855,4,4
+4,advanced,Random Forest,513859,4,2
+4,advanced,Random Forest,513861,1,1
+4,advanced,Random Forest,513865,4,4
+4,advanced,Random Forest,513866,1,4
+4,advanced,Random Forest,513882,4,3
+4,advanced,Random Forest,513883,3,1
+4,advanced,Random Forest,513885,3,4
+4,advanced,Random Forest,513888,3,3
+4,advanced,Random Forest,513889,3,2
+4,advanced,Random Forest,513891,4,2
+4,advanced,Random Forest,513892,3,3
+4,advanced,Random Forest,513897,2,3
+4,advanced,Random Forest,513903,4,4
+4,advanced,Random Forest,513905,4,4
+4,advanced,Random Forest,513909,1,1
+4,advanced,Random Forest,513911,3,2
+4,advanced,Random Forest,513913,4,2
+4,advanced,Random Forest,513927,1,1
+4,advanced,Random Forest,513938,4,4
+4,advanced,Random Forest,513940,4,1
+4,advanced,Random Forest,513945,4,4
+4,advanced,Random Forest,513947,3,4
+4,advanced,Random Forest,513949,3,3
+4,advanced,Random Forest,513955,1,3
+4,advanced,Random Forest,513957,1,1
+4,advanced,Random Forest,513958,3,3
+4,advanced,Random Forest,513961,2,3
+4,advanced,Random Forest,513967,2,2
+4,advanced,Random Forest,513970,3,3
+4,advanced,Random Forest,513974,2,2
+4,advanced,Random Forest,513979,1,1
+4,advanced,Random Forest,513991,4,1
+4,advanced,Random Forest,513993,2,1
+4,advanced,Random Forest,513996,1,1
+4,advanced,Random Forest,513998,1,2
+4,advanced,Random Forest,513999,2,3
+4,advanced,ANN,513000,1,1
+4,advanced,ANN,513017,1,4
+4,advanced,ANN,513024,1,1
+4,advanced,ANN,513025,1,1
+4,advanced,ANN,513028,2,2
+4,advanced,ANN,513034,4,3
+4,advanced,ANN,513039,4,1
+4,advanced,ANN,513043,4,4
+4,advanced,ANN,513048,2,2
+4,advanced,ANN,513049,3,4
+4,advanced,ANN,513056,2,1
+4,advanced,ANN,513057,3,3
+4,advanced,ANN,513073,4,3
+4,advanced,ANN,513075,4,1
+4,advanced,ANN,513081,3,4
+4,advanced,ANN,513092,1,4
+4,advanced,ANN,513096,4,3
+4,advanced,ANN,513098,4,4
+4,advanced,ANN,513101,2,2
+4,advanced,ANN,513104,1,4
+4,advanced,ANN,513105,3,1
+4,advanced,ANN,513113,3,1
+4,advanced,ANN,513127,1,1
+4,advanced,ANN,513130,2,2
+4,advanced,ANN,513131,2,1
+4,advanced,ANN,513132,4,4
+4,advanced,ANN,513134,1,1
+4,advanced,ANN,513138,2,2
+4,advanced,ANN,513139,3,4
+4,advanced,ANN,513140,2,2
+4,advanced,ANN,513141,1,1
+4,advanced,ANN,513148,4,2
+4,advanced,ANN,513150,2,1
+4,advanced,ANN,513153,4,1
+4,advanced,ANN,513159,1,4
+4,advanced,ANN,513161,1,3
+4,advanced,ANN,513162,3,4
+4,advanced,ANN,513167,4,4
+4,advanced,ANN,513170,2,2
+4,advanced,ANN,513174,4,2
+4,advanced,ANN,513175,2,2
+4,advanced,ANN,513178,4,4
+4,advanced,ANN,513182,2,2
+4,advanced,ANN,513185,2,3
+4,advanced,ANN,513194,4,1
+4,advanced,ANN,513202,2,2
+4,advanced,ANN,513203,2,2
+4,advanced,ANN,513207,3,1
+4,advanced,ANN,513208,1,1
+4,advanced,ANN,513210,3,3
+4,advanced,ANN,513212,2,4
+4,advanced,ANN,513213,1,1
+4,advanced,ANN,513215,3,1
+4,advanced,ANN,513220,2,1
+4,advanced,ANN,513221,2,2
+4,advanced,ANN,513224,1,1
+4,advanced,ANN,513226,1,4
+4,advanced,ANN,513228,3,3
+4,advanced,ANN,513230,1,1
+4,advanced,ANN,513231,2,2
+4,advanced,ANN,513234,3,2
+4,advanced,ANN,513237,3,3
+4,advanced,ANN,513239,4,4
+4,advanced,ANN,513242,1,2
+4,advanced,ANN,513250,2,2
+4,advanced,ANN,513255,3,4
+4,advanced,ANN,513258,4,4
+4,advanced,ANN,513261,4,4
+4,advanced,ANN,513262,2,2
+4,advanced,ANN,513269,3,4
+4,advanced,ANN,513270,4,4
+4,advanced,ANN,513275,2,1
+4,advanced,ANN,513284,4,4
+4,advanced,ANN,513285,4,1
+4,advanced,ANN,513288,1,1
+4,advanced,ANN,513289,2,3
+4,advanced,ANN,513293,4,4
+4,advanced,ANN,513294,4,2
+4,advanced,ANN,513297,4,4
+4,advanced,ANN,513298,4,4
+4,advanced,ANN,513303,3,1
+4,advanced,ANN,513306,2,4
+4,advanced,ANN,513308,4,4
+4,advanced,ANN,513313,4,4
+4,advanced,ANN,513314,4,4
+4,advanced,ANN,513320,1,1
+4,advanced,ANN,513321,3,4
+4,advanced,ANN,513332,3,1
+4,advanced,ANN,513333,4,4
+4,advanced,ANN,513334,3,2
+4,advanced,ANN,513335,1,1
+4,advanced,ANN,513338,1,4
+4,advanced,ANN,513339,4,3
+4,advanced,ANN,513341,2,4
+4,advanced,ANN,513342,4,4
+4,advanced,ANN,513343,2,2
+4,advanced,ANN,513348,2,1
+4,advanced,ANN,513351,2,1
+4,advanced,ANN,513356,3,2
+4,advanced,ANN,513358,1,3
+4,advanced,ANN,513368,4,4
+4,advanced,ANN,513374,4,3
+4,advanced,ANN,513376,3,4
+4,advanced,ANN,513378,3,1
+4,advanced,ANN,513381,4,4
+4,advanced,ANN,513382,1,4
+4,advanced,ANN,513383,4,1
+4,advanced,ANN,513385,2,4
+4,advanced,ANN,513402,3,1
+4,advanced,ANN,513403,3,4
+4,advanced,ANN,513404,2,2
+4,advanced,ANN,513407,2,4
+4,advanced,ANN,513408,1,1
+4,advanced,ANN,513416,3,3
+4,advanced,ANN,513417,1,1
+4,advanced,ANN,513420,3,4
+4,advanced,ANN,513424,1,2
+4,advanced,ANN,513431,3,3
+4,advanced,ANN,513432,1,3
+4,advanced,ANN,513437,4,2
+4,advanced,ANN,513438,3,4
+4,advanced,ANN,513443,1,4
+4,advanced,ANN,513447,2,2
+4,advanced,ANN,513448,2,4
+4,advanced,ANN,513459,2,2
+4,advanced,ANN,513464,3,4
+4,advanced,ANN,513465,2,1
+4,advanced,ANN,513468,2,2
+4,advanced,ANN,513469,2,2
+4,advanced,ANN,513470,2,1
+4,advanced,ANN,513471,2,2
+4,advanced,ANN,513475,1,1
+4,advanced,ANN,513484,1,1
+4,advanced,ANN,513486,4,4
+4,advanced,ANN,513487,3,3
+4,advanced,ANN,513490,1,1
+4,advanced,ANN,513491,1,1
+4,advanced,ANN,513495,2,4
+4,advanced,ANN,513502,3,4
+4,advanced,ANN,513504,2,4
+4,advanced,ANN,513509,4,4
+4,advanced,ANN,513521,1,1
+4,advanced,ANN,513523,4,4
+4,advanced,ANN,513529,3,1
+4,advanced,ANN,513530,2,4
+4,advanced,ANN,513537,4,3
+4,advanced,ANN,513539,2,4
+4,advanced,ANN,513541,3,1
+4,advanced,ANN,513543,4,4
+4,advanced,ANN,513547,2,1
+4,advanced,ANN,513554,3,3
+4,advanced,ANN,513555,4,1
+4,advanced,ANN,513563,1,4
+4,advanced,ANN,513571,1,1
+4,advanced,ANN,513576,1,1
+4,advanced,ANN,513580,3,2
+4,advanced,ANN,513581,3,4
+4,advanced,ANN,513583,3,2
+4,advanced,ANN,513589,1,1
+4,advanced,ANN,513590,3,3
+4,advanced,ANN,513594,1,3
+4,advanced,ANN,513602,4,1
+4,advanced,ANN,513606,3,4
+4,advanced,ANN,513615,4,1
+4,advanced,ANN,513617,4,4
+4,advanced,ANN,513618,4,3
+4,advanced,ANN,513632,4,4
+4,advanced,ANN,513639,1,1
+4,advanced,ANN,513663,4,1
+4,advanced,ANN,513670,1,4
+4,advanced,ANN,513687,1,1
+4,advanced,ANN,513696,3,3
+4,advanced,ANN,513697,2,1
+4,advanced,ANN,513704,4,3
+4,advanced,ANN,513719,3,1
+4,advanced,ANN,513720,1,1
+4,advanced,ANN,513721,1,1
+4,advanced,ANN,513723,4,4
+4,advanced,ANN,513726,2,4
+4,advanced,ANN,513729,2,4
+4,advanced,ANN,513731,2,3
+4,advanced,ANN,513734,4,4
+4,advanced,ANN,513741,2,2
+4,advanced,ANN,513744,2,2
+4,advanced,ANN,513746,3,4
+4,advanced,ANN,513755,1,1
+4,advanced,ANN,513761,4,2
+4,advanced,ANN,513764,2,2
+4,advanced,ANN,513767,1,1
+4,advanced,ANN,513772,1,1
+4,advanced,ANN,513773,1,3
+4,advanced,ANN,513774,3,3
+4,advanced,ANN,513777,4,4
+4,advanced,ANN,513778,1,2
+4,advanced,ANN,513780,1,1
+4,advanced,ANN,513781,2,3
+4,advanced,ANN,513782,1,2
+4,advanced,ANN,513783,1,4
+4,advanced,ANN,513784,1,3
+4,advanced,ANN,513793,4,4
+4,advanced,ANN,513805,3,3
+4,advanced,ANN,513806,2,2
+4,advanced,ANN,513811,1,4
+4,advanced,ANN,513813,2,2
+4,advanced,ANN,513817,4,4
+4,advanced,ANN,513820,3,1
+4,advanced,ANN,513825,4,2
+4,advanced,ANN,513827,2,1
+4,advanced,ANN,513833,3,1
+4,advanced,ANN,513842,1,3
+4,advanced,ANN,513844,1,1
+4,advanced,ANN,513846,4,4
+4,advanced,ANN,513853,2,2
+4,advanced,ANN,513855,4,4
+4,advanced,ANN,513859,4,2
+4,advanced,ANN,513861,1,1
+4,advanced,ANN,513865,4,4
+4,advanced,ANN,513866,1,1
+4,advanced,ANN,513882,4,3
+4,advanced,ANN,513883,3,1
+4,advanced,ANN,513885,3,4
+4,advanced,ANN,513888,3,1
+4,advanced,ANN,513889,3,3
+4,advanced,ANN,513891,4,2
+4,advanced,ANN,513892,3,4
+4,advanced,ANN,513897,2,4
+4,advanced,ANN,513903,4,4
+4,advanced,ANN,513905,4,4
+4,advanced,ANN,513909,1,1
+4,advanced,ANN,513911,3,2
+4,advanced,ANN,513913,4,2
+4,advanced,ANN,513927,1,2
+4,advanced,ANN,513938,4,4
+4,advanced,ANN,513940,4,4
+4,advanced,ANN,513945,4,3
+4,advanced,ANN,513947,3,4
+4,advanced,ANN,513949,3,1
+4,advanced,ANN,513955,1,1
+4,advanced,ANN,513957,1,1
+4,advanced,ANN,513958,3,1
+4,advanced,ANN,513961,2,2
+4,advanced,ANN,513967,2,2
+4,advanced,ANN,513970,3,1
+4,advanced,ANN,513974,2,2
+4,advanced,ANN,513979,1,1
+4,advanced,ANN,513991,4,4
+4,advanced,ANN,513993,2,1
+4,advanced,ANN,513996,1,4
+4,advanced,ANN,513998,1,2
+4,advanced,ANN,513999,2,1
